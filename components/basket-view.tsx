@@ -10,6 +10,7 @@ import { groupBasket, type BasketLine } from "@/lib/basket"
 import { foods } from "@/lib/foods"
 import { formatQuantity } from "@/lib/format"
 import { ASDA, GROCERS, SAINSBURYS, shoppingListText, TESCO, tescoBookmarklet } from "@/lib/grocers"
+import { openExternal } from "@/lib/open-external"
 
 export function BasketView() {
   const { lines, ready, replace } = useBasket()
@@ -38,7 +39,7 @@ export function BasketView() {
   function openAll(makeUrl: (query: string) => string) {
     if (queries.length === 0) return
     queries.forEach((query, index) => {
-      window.setTimeout(() => window.open(makeUrl(query), "_blank", "noopener"), index * 350)
+      window.setTimeout(() => void openExternal(makeUrl(query)), index * 350)
     })
     setNotice("If only one tab opened, allow pop-ups or use the step-through below.")
   }
@@ -162,7 +163,7 @@ export function BasketView() {
             Include ticked items
           </label>
           <div className="mt-4 space-y-2">
-            <Button type="button" className="h-11 w-full" disabled={!current} onClick={() => current && window.open(TESCO.searchUrl(current), "_blank", "noopener")}>
+            <Button type="button" className="h-11 w-full" disabled={!current} onClick={() => current && void openExternal(TESCO.searchUrl(current))}>
               Open this item on Tesco
             </Button>
             <p className="text-sm">
@@ -200,11 +201,11 @@ export function BasketView() {
         <section className="rounded-2xl border border-border bg-card p-4">
           <h2 className="font-serif text-xl">Also in Northern Ireland</h2>
           <p className="mt-2 text-sm text-muted-foreground">{SAINSBURYS.note}</p>
-          <Button type="button" variant="outline" className="mt-3 w-full" onClick={() => current && window.open(SAINSBURYS.searchUrl(current), "_blank", "noopener")}>
+          <Button type="button" variant="outline" className="mt-3 w-full" onClick={() => current && void openExternal(SAINSBURYS.searchUrl(current))}>
             This item on Sainsbury’s
           </Button>
           <p className="mt-3 text-sm text-muted-foreground">{ASDA.note}</p>
-          <Button type="button" variant="outline" className="mt-3 w-full" onClick={() => current && window.open(ASDA.searchUrl(current), "_blank", "noopener")}>
+          <Button type="button" variant="outline" className="mt-3 w-full" onClick={() => current && void openExternal(ASDA.searchUrl(current))}>
             This item on Asda
           </Button>
           <p className="mt-3 text-xs text-muted-foreground">Ocado does not deliver to Northern Ireland, so it isn’t offered here.</p>

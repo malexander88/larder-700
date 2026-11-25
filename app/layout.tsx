@@ -1,5 +1,7 @@
 import type { Metadata } from "next"
 import { Fraunces, Outfit } from "next/font/google"
+import { ExternalLinks } from "@/components/external-links"
+import { LibraryProvider } from "@/components/library-provider"
 import { SiteFooter } from "@/components/site-footer"
 import { SiteHeader } from "@/components/site-header"
 import "./globals.css"
@@ -33,9 +35,12 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         >
           Skip to content
         </a>
-        <SiteHeader />
-        <main id="content">{children}</main>
-        <SiteFooter />
+        <LibraryProvider>
+          <ExternalLinks />
+          <SiteHeader />
+          <main id="content">{children}</main>
+          <SiteFooter />
+        </LibraryProvider>
       </body>
     </html>
   )

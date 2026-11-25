@@ -1,8 +1,8 @@
 "use client"
 
 import { useMemo, useState } from "react"
-import Image from "next/image"
 import Link from "next/link"
+import { DishImage } from "@/components/dish-image"
 import { Check, Minus, Plus } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
@@ -64,11 +64,9 @@ export function RecipeView({ recipe }: { recipe: Recipe }) {
       </p>
       <div className="mt-4 grid gap-8 lg:grid-cols-[1.15fr_0.85fr]">
         <div>
-          <Image
-            src={`/images/recipes/${recipe.image.file}`}
+          <DishImage
+            file={recipe.image.file}
             alt={recipe.image.alt}
-            width={1200}
-            height={900}
             priority
             className="aspect-[4/3] h-auto w-full rounded-3xl object-cover"
           />

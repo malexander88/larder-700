@@ -1,7 +1,6 @@
 "use client"
 
 import { useEffect, useMemo, useRef, useState } from "react"
-import Image from "next/image"
 import Link from "next/link"
 import { SlidersHorizontal } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
@@ -17,6 +16,8 @@ import {
   PROTEINS,
   TIME_BUCKETS,
 } from "@/lib/constants"
+import { DishImage } from "@/components/dish-image"
+import { useLibrary } from "@/components/library-provider"
 import { applyFilters, DEFAULT_FILTERS, type CatalogItem, type Filters, type SortKey } from "@/lib/filter"
 import { cn } from "cn"
 
@@ -49,8 +50,11 @@ function readFilters(): Filters {
   }
 }
 
-export function RecipeBrowser({ catalog }: { catalog: CatalogItem[] }) {
+export function RecipeBrowser({ catalog: seed }: { catalog: CatalogItem[] }) {
+  const library = useLibrary()
+  const catalog = library.catalog ?? seed
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS)
+  const [pull, setPull] = useState(0)
   const [hydrated, setHydrated] = useState(false)
   const [visible, setVisible] = useState(PAGE)
   const dialogRef = useRef<HTMLDialogElement>(null)
@@ -121,13 +125,33 @@ export function RecipeBrowser({ catalog }: { catalog: CatalogItem[] }) {
   )
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-8">
+    <div
+      className="mx-auto max-w-6xl px-4 py-8"
+      onTouchStart={(event) => {
+        if (!library.native || window.scrollY > 0) return
+        event.currentTarget.dataset.pullStart = String(event.touches[0]?.clientY ?? 0)
+      }}
+      onTouchMove={(event) => {
+        const start = Number(event.currentTarget.dataset.pullStart || 0)
+        if (!library.native || !start) return
+        setPull(Math.max(0, (event.touches[0]?.clientY ?? 0) - start))
+      }}
+      onTouchEnd={() => {
+        if (library.native && pull > 70) void library.refresh()
+        setPull(0)
+      }}
+    >
       <div className="max-w-2xl">
         <p className="text-sm font-medium text-primary">Northern Ireland kitchens · grams, ml and fan ovens</p>
         <h1 className="mt-2 font-serif text-4xl tracking-tight sm:text-5xl">Dinners under 700 kcal</h1>
         <p className="mt-3 text-base text-muted-foreground">
           {catalog.length} suppers so far, each one added up from the ingredients on the page. Search, filter, then send the list to Tesco.
         </p>
+        {library.native && (
+          <p className="mt-2 text-sm text-primary" aria-live="polite">
+            {library.refreshing ? "Checking for new dinners…" : library.status || "Pull down to refresh dinners."}
+          </p>
+        )}
       </div>
 
       <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:items-end">
@@ -184,7 +208,7 @@ export function RecipeBrowser({ catalog }: { catalog: CatalogItem[] }) {
             <ul className="grid gap-6 sm:grid-cols-2 xl:grid-cols-3">
               {shown.map((recipe) => (
                 <li key={recipe.slug}>
-                  <RecipeCard recipe={recipe} />
+                  <RecipeCard recipe={recipe} native={library.native} />
                 </li>
               ))}
             </ul>
@@ -323,17 +347,16 @@ function ChipGroup({
   )
 }
 
-function RecipeCard({ recipe }: { recipe: CatalogItem }) {
+function RecipeCard({ recipe, native }: { recipe: CatalogItem; native: boolean }) {
+  const href = native ? `/recipe/view/?slug=${encodeURIComponent(recipe.slug)}` : `/recipe/${recipe.slug}/`
   return (
     <Link
-      href={`/recipe/${recipe.slug}/`}
+      href={href}
       className="group block h-full overflow-hidden rounded-2xl border border-border bg-card shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
     >
-      <Image
-        src={recipe.image}
+      <DishImage
+        file={recipe.image.replace(/^.*\//, "")}
         alt={recipe.imageAlt}
-        width={1200}
-        height={900}
         className="aspect-[4/3] w-full object-cover"
       />
       <div className="space-y-2 p-4">

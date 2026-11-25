@@ -62,13 +62,30 @@ See [ADDING_RECIPES.md](ADDING_RECIPES.md). Short version: add `data/recipes/<sl
 
 Images are real photographs, turned into WebP at most 1200 px wide, with a credit and an allowed licence stored on the recipe. The home page loads a slim catalogue and reveals 24 cards at a time, so a few hundred dinners stay quick to filter. Validation reads files and image headers in one pass; it does not call the network.
 
-## Publishing, and a rebuild on every push to main
+## Publishing
 
-The site is a static export (`out/`). Two ways to have a push to `main` republish it:
+The public site is GitHub Pages for [malexander88/larder-700](https://github.com/malexander88/larder-700):
 
-1. **Vercel (simplest for Next.js).** Import the Git repository, leave the production branch as `main`, and leave the build as `npm run build`. Vercel publishes `out/` on every push to `main`. No extra config file is required. This is the option to use if you want the daily recipe job to go live by itself.
-2. **GitHub Pages.** In the repository settings, set Pages to “GitHub Actions”. `.github/workflows/pages.yml` validates, builds and deploys `out/` on every push to `main`. The site is served from the repository’s Pages URL. Project sites that are not served from the domain root need a `basePath`; say so before relying on that URL.
+https://malexander88.github.io/larder-700/
 
-This copy of the project does not have a Vercel or GitHub Pages token, so a public URL is not created from here. After the repository exists, connect one of the two options above. Until then, `npm run dev` is the way to use it.
+`.github/workflows/pages.yml` runs on every push to `main`, including a recipe-only push. The Pages build sets `NEXT_PUBLIC_BASE_PATH=/larder-700` so assets and links match a project site. It also writes `library/catalog.json` and `library/recipes/<slug>.json` into the site. That is the feed the Android app reads.
 
-`.github/workflows/ci.yml` runs the same build on pulls and on pushes to `main`, so a recipe that fails the calorie check does not deploy.
+GitHub Pages on a public repository is free. A private repository would need a paid plan for Pages. Vercel’s free hobby plan can also host this static export from the same GitHub repo (import the repo, production branch `main`, build command `npm run build:pages`) if you ever want a second URL.
+
+`.github/workflows/ci.yml` runs the build on pulls and on pushes to `main`, so a recipe that fails the calorie check does not deploy.
+
+## Android app
+
+The APK is a shell. On launch, and when you pull down on the dinner list, it downloads the Pages catalogue, recipe files and photos, and keeps them on the phone. If the phone is offline it uses the last download, or the dinners bundled in that APK if it has never been online. Adding a recipe and pushing to `main` updates the website and the installed app. It does not require a new APK.
+
+Shop links use the system browser, so Tesco, Sainsbury’s and Asda open in Chrome (or the shop’s app, if Android offers it). The basket stays in the app’s local storage.
+
+`.github/workflows/apk.yml` builds a debug APK when app code changes, and when you run the workflow by hand. It does not run for changes that are only under `data/recipes/` or `public/images/recipes/`. The APK is attached to the Actions run and to the rolling prerelease tag `android-latest`.
+
+Install the debug APK with “Install unknown apps” allowed for your browser or files app. Open the APK. Android will warn that it is not from the Play Store; that is expected for this debug build.
+
+```bash
+npm run apk
+```
+
+The file is `android/app/build/outputs/apk/debug/app-debug.apk`.

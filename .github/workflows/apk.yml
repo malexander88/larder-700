@@ -1,0 +1,56 @@
+name: Android APK
+
+# Recipe-only pushes update GitHub Pages. The installed app reads that site,
+# so the APK is rebuilt when the app itself changes, or when someone runs this
+# workflow by hand.
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/recipes/**"
+      - "public/images/recipes/**"
+      - "ADDING_RECIPES.md"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+      - uses: android-actions/setup-android@v3
+      - name: Install Android SDK packages
+        run: sdkmanager "platforms;android-36" "build-tools;35.0.0"
+      - run: npm ci
+      - run: npm run build
+      - run: npx cap sync android
+      - name: Point Gradle at the SDK
+        run: echo "sdk.dir=$ANDROID_SDK_ROOT" > android/local.properties
+      - run: chmod +x android/gradlew && android/gradlew -p android assembleDebug
+      - uses: actions/upload-artifact@v4
+        with:
+          name: larder-700-debug
+          path: android/app/build/outputs/apk/debug/app-debug.apk
+          retention-days: 90
+          if-no-files-found: error
+      - name: Attach the APK to the rolling release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: android-latest
+          name: Latest Android app
+          prerelease: true
+          make_latest: false
+          body: |
+            Debug APK for Larder 700. New dinners arrive from the website without installing a new APK.
+            Uninstall is not required for recipe updates. Install a new APK only when this release changes.
+          files: android/app/build/outputs/apk/debug/app-debug.apk

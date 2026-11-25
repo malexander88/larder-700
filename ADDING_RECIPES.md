@@ -82,4 +82,4 @@ The shape is also in `data/recipe.schema.json` (regenerate with `npm run schema`
 
 ## 6. Publish
 
-Commit the JSON file and the WebP. A push to `main` rebuilds the site when hosting is connected, as described in the README.
+Commit the JSON file and the WebP. A push to `main` republishes the website, including `library/catalog.json`. Phones that already have the app pick that up the next time they open it or pull down on the dinner list. A new APK is only built when the app code changes.
