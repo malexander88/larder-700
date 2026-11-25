@@ -1,0 +1,126 @@
+{
+  "slug": "five-spice-pork-rice",
+  "title": "Five-spice pork with pak choi",
+  "summary": "Lean pork fillet stir-fried with five-spice, pak choi and a little honey and tamari, with rice to soak up the sauce.",
+  "cuisine": "Chinese",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 320,
+      "prepNote": "sliced into thin strips"
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 280,
+      "prepNote": "cut into wide pieces"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 70,
+      "prepNote": "matchsticks"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "matchsticks"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 18
+    },
+    {
+      "nutritionId": "honey",
+      "grams": 8
+    },
+    {
+      "nutritionId": "five-spice",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 2
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Toss the pork with the five-spice, half the tamari and a pinch of salt. Start the rice in 180 g of water, covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Heat the rapeseed oil in the wok. Stir-fry the pork in batches until just cooked, then tip it onto a plate. Thin fillet dries out if it sits in a pile.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Fry the ginger and garlic for a few seconds, add the carrot and pak choi and toss until the stalks are tender and the leaves wilt.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Return the pork with the honey, remaining tamari and a splash of water. Bubble for a minute, finish with sesame oil and spring onion, and serve with the rice."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "five-spice-pork-rice.webp",
+    "alt": "Sliced pork stir-fry with greens and rice",
+    "credit": "Ruth Hartnup from Vancouver, Canada via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stir-fried_ginger_pork_(8486598866).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 460,
+    "protein": 42.5,
+    "carbs": 46.6,
+    "fat": 11.3,
+    "fibre": 3.4
+  }
+}

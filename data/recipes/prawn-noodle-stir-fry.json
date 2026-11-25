@@ -1,0 +1,127 @@
+{
+  "slug": "prawn-noodle-stir-fry",
+  "title": "Prawn and vegetable noodle stir-fry",
+  "summary": "Rice noodles with king prawns, pak choi and pepper in a tamari and lime sauce. A contained portion of noodles keeps it under the calorie line.",
+  "cuisine": "Thai",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Colander"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 360,
+      "prepNote": "peeled"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 110
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 200,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 140,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 80,
+      "prepNote": "matchsticks"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 10,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 18
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 20
+    },
+    {
+      "nutritionId": "fish-sauce",
+      "grams": 8
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "water",
+      "grams": 500,
+      "prepNote": "just-boiled, to soak the noodles"
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Put the noodles in a bowl, cover with just-boiled water and soak until they bend but are not mushy. Drain and toss with a few drops of the oil so they don't clump.",
+      "tip": "Check the packet. Fine rice noodles often need soaking, not boiling."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Heat the rest of the oil and stir-fry the prawns until just pink. Scoop them out.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Stir-fry the garlic, chilli, pepper and carrot for 2 minutes. Add the pak choi, tamari and fish sauce and toss until the leaves wilt.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Add the noodles and prawns with the lime juice. Toss until the noodles are hot and coated. Finish with the spring onion."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "prawn-noodle-stir-fry.webp",
+    "alt": "Prawn stir-fry with noodles and vegetables",
+    "credit": "pelican from Tokyo, Japan via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stir-fried_noodle_with_shrimp_(2427586347).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 441,
+    "protein": 38.2,
+    "carbs": 58.7,
+    "fat": 5.9,
+    "fibre": 4.6
+  }
+}

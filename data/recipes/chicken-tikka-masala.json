@@ -1,0 +1,151 @@
+{
+  "slug": "chicken-tikka-masala",
+  "title": "Lighter chicken tikka masala",
+  "summary": "A weeknight tikka masala built on yoghurt, tomatoes and a splash of light coconut milk instead of a jug of cream, with a measured portion of basmati.",
+  "cuisine": "Indian",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 15,
+  "cookMinutes": 25,
+  "equipment": [
+    {
+      "name": "Large frying pan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Small saucepan",
+      "notes": "for the rice"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Measuring jug"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 360,
+      "prepNote": "cut into bite-sized pieces"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 80
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 250
+    },
+    {
+      "nutritionId": "tomato-puree",
+      "grams": 20
+    },
+    {
+      "nutritionId": "coconut-milk-light",
+      "grams": 80
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 130,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 9
+    },
+    {
+      "nutritionId": "garam-masala",
+      "grams": 3
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "cayenne",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8,
+      "prepNote": "leaves picked"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200,
+      "prepNote": "for the rice"
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Stir the chicken with half the yoghurt, half the garam masala, the paprika, a pinch of salt and half the garlic. Set it aside. Rinse the rice.",
+      "tip": "Even a short sit in the yoghurt stops the chicken drying out in the pan."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Boil the rice in the water with a pinch of salt, lid on, over a low heat for 10 minutes. Take it off the heat and leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil in the frying pan and soften the onion for 5 minutes. Stir in the remaining garlic, ginger, cumin, turmeric, cayenne and the rest of the garam masala for a minute until it smells fragrant.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 10,
+      "instruction": "Add the chicken and cook for 3 minutes. Pour in the tomatoes, tomato purée and coconut milk, then simmer until the chicken is cooked through and the sauce is thick enough to coat a spoon.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Take the pan off the heat and stir in the remaining yoghurt so it doesn't split. Taste for salt, scatter with coriander and serve with the rice."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "chicken-tikka-masala.webp",
+    "alt": "Orange chicken tikka masala in a white oval dish, finished with green herbs",
+    "credit": "Michael Hays via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_tikka_masala.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 526,
+    "protein": 52.9,
+    "carbs": 53.2,
+    "fat": 11.2,
+    "fibre": 4
+  }
+}

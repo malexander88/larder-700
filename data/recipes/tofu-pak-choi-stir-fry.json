@@ -1,0 +1,127 @@
+{
+  "slug": "tofu-pak-choi-stir-fry",
+  "title": "Tofu and pak choi stir-fry",
+  "summary": "Firm tofu seared until golden, then tossed with pak choi, mangetout and a tamari ginger sauce. Vegan, and substantial with a small bowl of rice.",
+  "cuisine": "Chinese",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or non-stick frying pan"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Clean tea towel"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 400,
+      "prepNote": "pressed and cubed"
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 260,
+      "prepNote": "cut into pieces"
+    },
+    {
+      "nutritionId": "mangetout",
+      "grams": 100
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 60,
+      "prepNote": "matchsticks"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "matchsticks"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 22
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 3
+    },
+    {
+      "nutritionId": "cornflour",
+      "grams": 6
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Press the tofu between a board and a tea towel for a few minutes, cube it and dust it with the cornflour. Start the rice in 180 g of water.",
+      "tip": "Cornflour is what makes the edges crisp. Wet tofu just steams."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Heat the rapeseed oil and fry the tofu, turning, until golden on two sides. Lift it out.",
+      "heat": "medium-high hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Fry the ginger and garlic, then add the carrot, mangetout and pak choi. Splash in the tamari and a tablespoon of water and toss until the greens wilt.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Return the tofu, add the sesame oil and spring onion, and toss gently so the cubes don't break up. Serve over the rice."
+    }
+  ],
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "tofu-pak-choi-stir-fry.webp",
+    "alt": "Golden tofu stir-fried with pak choi and vegetables",
+    "credit": "Sharon via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tofu_and_bok_choy.jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 526,
+    "protein": 33.6,
+    "carbs": 47.9,
+    "fat": 22.2,
+    "fibre": 5.4
+  }
+}

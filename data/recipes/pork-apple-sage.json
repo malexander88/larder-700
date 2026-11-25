@@ -1,0 +1,116 @@
+{
+  "slug": "pork-apple-sage",
+  "title": "Pork fillet with apple and sage",
+  "summary": "Pork fillet cooked quickly with apple, sage and cabbage, plus a few new potatoes. A British autumn plate that doesn't rely on a creamy sauce.",
+  "cuisine": "British",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 20,
+  "equipment": [
+    {
+      "name": "Large frying pan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 340,
+      "prepNote": "sliced into medallions"
+    },
+    {
+      "nutritionId": "apple",
+      "grams": 160,
+      "prepNote": "cored and cut into wedges"
+    },
+    {
+      "nutritionId": "white-cabbage",
+      "grams": 260,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 320,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "dijon-gf",
+      "grams": 10
+    },
+    {
+      "nutritionId": "sage",
+      "grams": 3,
+      "prepNote": "leaves shredded"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "water",
+      "grams": 80
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 12,
+      "instruction": "Boil the potatoes in salted water until tender, then drain. Season the pork with salt and pepper.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Heat half the oil and brown the pork for about 2 minutes a side until just cooked through. Lift it out and rest it.",
+      "heat": "medium-high hob",
+      "tip": "Fillet is lean. If the juices run clear, stop. Another minute and it dries."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Add the remaining oil, onion, apple and sage. Fry until the apple takes a little colour, then add the cabbage, mustard and water. Cover and cook until the cabbage softens.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Return the pork and any juices, warm through for a minute and serve with the potatoes."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "pork-apple-sage.webp",
+    "alt": "Sliced pork fillet with apple and cabbage",
+    "credit": "Wikimedia Commons contributor via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apple_sauce_pork_chops1.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 448,
+    "protein": 43.4,
+    "carbs": 43.6,
+    "fat": 11,
+    "fibre": 8.4
+  }
+}

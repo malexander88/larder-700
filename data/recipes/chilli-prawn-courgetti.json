@@ -1,0 +1,119 @@
+{
+  "slug": "chilli-prawn-courgetti",
+  "title": "Chilli garlic prawns with courgetti",
+  "summary": "A fast Italian-style supper of king prawns, courgette ribbons, cherry tomatoes and chilli. No pasta, so it stays light and low in carbohydrate.",
+  "cuisine": "Italian",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Julienne peeler or spiraliser"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Mixing bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 500,
+      "prepNote": "peeled, thawed if frozen and patted dry"
+    },
+    {
+      "nutritionId": "courgette",
+      "grams": 450,
+      "prepNote": "cut into ribbons"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 180,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "avocado",
+      "grams": 100,
+      "prepNote": "sliced, to finish"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 15,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 16
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 20
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 10,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Trim the courgettes and peel them into long ribbons, stopping when you hit the watery core. Halve the tomatoes, slice the garlic and chop the chilli. Pat the prawns very dry.",
+      "tip": "Wet prawns stew in the pan. A minute with kitchen paper is worth it."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Warm 2 teaspoons of the oil in the frying pan over a high heat. Fry the prawns for about a minute a side until pink, then tip them into a bowl. Don't cook them hard or they turn rubbery.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the remaining oil, garlic and chilli and sizzle for 20 seconds. Toss in the courgette and tomatoes with a pinch of salt and cook, stirring, until the courgette is just tender.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Return the prawns and any juices, add the lemon juice and parsley, and toss for a minute. Share between bowls and lay the avocado on top."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "image": {
+    "file": "chilli-prawn-courgetti.webp",
+    "alt": "Prawns tossed with courgette ribbons, tomatoes and lime in a shallow bowl",
+    "credit": "Chuck Harmston via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zucchini_Pad_Thai_(164359215).jpeg",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 404,
+    "protein": 47.7,
+    "carbs": 13,
+    "fat": 18.1,
+    "fibre": 7.1
+  }
+}

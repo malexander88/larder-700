@@ -1,0 +1,139 @@
+{
+  "slug": "roasted-aubergine-dal",
+  "title": "Roasted aubergine red lentil dal",
+  "summary": "Dry red lentils cooked down with tomato and spices, with aubergine roasted until soft and folded through at the end. Vegan, and filling without a huge mound of rice.",
+  "cuisine": "Indian",
+  "protein": "legumes",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 32,
+  "equipment": [
+    {
+      "name": "Saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Wooden spoon"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "red-lentils-dry",
+      "grams": 160,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 400,
+      "prepNote": "cut into 3 cm chunks"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 300
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 80
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 140,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 12,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2.5
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "garam-masala",
+      "grams": 2
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.6
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 550
+    },
+    {
+      "nutritionId": "stock-vegetable-gf",
+      "grams": 10
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the fan oven to 200°C. Toss the aubergine with 2 teaspoons of the oil and a pinch of salt and spread it in the tin.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 22,
+      "instruction": "Roast the aubergine, turning once, until it is soft and browned at the edges. Start the dal while it cooks.",
+      "temperatureC": 200,
+      "tip": "Don't salt the aubergine heavily before roasting or it weeps and steams."
+    },
+    {
+      "minutes": 10,
+      "instruction": "Warm the remaining oil, soften the onion, then add garlic, ginger, cumin, turmeric and chilli flakes. Stir in the lentils, tomatoes, stock cube and water. Simmer, partly covered, until the lentils collapse.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Stir in the garam masala, spinach and roasted aubergine. Season and let it sit for a minute. Serve with the coriander. It thickens as it stands, so loosen it with a splash of water if you reheat it."
+    }
+  ],
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "image": {
+    "file": "roasted-aubergine-dal.webp",
+    "alt": "Bowl of lentil dal with roasted aubergine",
+    "credit": "Southofindia via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tadka_Dal.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 468,
+    "protein": 27.1,
+    "carbs": 69.5,
+    "fat": 9,
+    "fibre": 17.1
+  }
+}

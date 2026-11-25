@@ -1,0 +1,132 @@
+{
+  "slug": "smoky-prawn-pepper-bake",
+  "title": "Smoky prawn and pepper bake",
+  "summary": "King prawns roasted with peppers, black beans and smoked paprika, finished with lime. A traybake that is on the table in about half an hour.",
+  "cuisine": "Mexican",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 16,
+  "equipment": [
+    {
+      "name": "Large roasting tin"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 360,
+      "prepNote": "peeled"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 200,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "yellow-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 110,
+      "prepNote": "cut into wedges"
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 180,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 60,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 3
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 20
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 160
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the fan oven to 200°C. Toss the peppers and onion with the oil, paprika, cumin, garlic and half the salt in the tin.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 10,
+      "instruction": "Roast the peppers until they soften and char at the edges. Put the rice on with the water and a pinch of salt, covered.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 6,
+      "instruction": "Stir the beans, sweetcorn and prawns through the peppers. Roast until the prawns are pink and just firm.",
+      "temperatureC": 200,
+      "tip": "Prawns go from juicy to tough very quickly. Six minutes in a hot oven is usually enough."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the lime juice and coriander, taste for salt, and serve over the rice."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "smoky-prawn-pepper-bake.webp",
+    "alt": "Prawns and peppers roasted in a tin with spices",
+    "credit": "Luca Nebuloni from Milan, Italy via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shrimp_fajitas_(7327176592).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 497,
+    "protein": 44.2,
+    "carbs": 63.8,
+    "fat": 7.3,
+    "fibre": 11.7
+  }
+}

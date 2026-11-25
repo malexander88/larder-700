@@ -1,0 +1,124 @@
+{
+  "slug": "turkey-meatballs-spaghetti",
+  "title": "Turkey meatballs with spaghetti",
+  "summary": "Lean turkey meatballs simmered in a garlicky tomato sauce and piled onto a modest bowl of wholewheat spaghetti, finished with a little Parmesan.",
+  "cuisine": "Italian",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 15,
+  "cookMinutes": 25,
+  "equipment": [
+    {
+      "name": "Large frying pan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Saucepan",
+      "notes": "for the spaghetti"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Grater"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 320
+    },
+    {
+      "nutritionId": "spaghetti-wholewheat",
+      "grams": 140
+    },
+    {
+      "nutritionId": "passata",
+      "grams": 400
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 110,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 80,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 9
+    },
+    {
+      "nutritionId": "parmesan",
+      "grams": 16,
+      "prepNote": "finely grated"
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "water",
+      "grams": 150,
+      "prepNote": "for the pasta"
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Mix the turkey with half the garlic, half the oregano, half the salt and plenty of pepper. Roll into 12 walnut-sized balls. Wetting your hands stops the mince sticking.",
+      "tip": "Cold mince rolls more cleanly. Don't pack the balls hard or they turn dense."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil in the frying pan over a medium heat. Brown the meatballs on two sides, then lift them onto a plate. They do not need to be cooked through yet.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 12,
+      "instruction": "In the same pan, soften the onion and carrot for 4 minutes. Stir in the remaining garlic, the passata, remaining oregano and a splash of water. Nestle the meatballs back in, cover and simmer until they are cooked through.",
+      "heat": "medium hob",
+      "tip": "If the sauce looks thick, loosen it with a tablespoon of the pasta water."
+    },
+    {
+      "minutes": 10,
+      "instruction": "Meanwhile boil the spaghetti in plenty of salted water until tender with a little bite, then drain. Toss it with the sauce and meatballs and scatter over the Parmesan."
+    }
+  ],
+  "dietary": [
+    "high-protein"
+  ],
+  "image": {
+    "file": "turkey-meatballs-spaghetti.webp",
+    "alt": "Spaghetti with tomato sauce and meatballs in a white oval dish",
+    "credit": "Yamaguchi先生 at English Wikipedia via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spaghetti_and_meatballs_(cropped).jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 594,
+    "protein": 54,
+    "carbs": 66.7,
+    "fat": 12.3,
+    "fibre": 10.7
+  }
+}

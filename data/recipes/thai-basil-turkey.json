@@ -1,0 +1,122 @@
+{
+  "slug": "thai-basil-turkey",
+  "title": "Thai basil turkey with green beans",
+  "summary": "Turkey mince stir-fried with green beans, chilli and a lot of basil, in the style of pad kra pao, with a small bowl of rice.",
+  "cuisine": "Thai",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 400
+    },
+    {
+      "nutritionId": "green-beans",
+      "grams": 220,
+      "prepNote": "cut into short lengths"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 12,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 15,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 15,
+      "prepNote": "leaves, plus a few to finish"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 16
+    },
+    {
+      "nutritionId": "fish-sauce",
+      "grams": 8
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Start the rice in the water with a pinch of salt. Chop the garlic and chilli together so they are ready to hit a hot pan.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Heat the oil until it is very hot and fry the garlic and chilli for a few seconds, just until fragrant.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Add the turkey and break it up. Fry until it browns in places, then add the green beans and pepper.",
+      "heat": "high hob",
+      "tip": "Basil mince should have a few crispy edges. Don't stew it in liquid."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Splash in the tamari and fish sauce, toss for a minute, then kill the heat and stir through the basil and lime juice. Serve with the rice and the extra basil leaves."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "thai-basil-turkey.webp",
+    "alt": "Thai basil mince with green beans and rice",
+    "credit": "Luca Nebuloni via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thai_basil_chicken_(20976874546).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 473,
+    "protein": 54.4,
+    "carbs": 44.3,
+    "fat": 8.7,
+    "fibre": 5.3
+  }
+}

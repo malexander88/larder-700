@@ -1,0 +1,122 @@
+{
+  "slug": "thai-green-chicken-curry",
+  "title": "Light Thai green chicken curry",
+  "summary": "Chicken and vegetables in a green curry made with light coconut milk, so it tastes like the real thing without a tin of full-fat coconut.",
+  "cuisine": "Thai",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 22,
+  "equipment": [
+    {
+      "name": "Large saucepan or wok",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 340,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "coconut-milk-light",
+      "grams": 200
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 180,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "green-beans",
+      "grams": 140,
+      "prepNote": "trimmed"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "green-curry-paste",
+      "grams": 28
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 5
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 8
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "stock-chicken-gf",
+      "grams": 10
+    },
+    {
+      "nutritionId": "water",
+      "grams": 250
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and fry the curry paste for a minute until it smells fragrant. Stir in 50 g of the water and the stock cube so the paste loosens.",
+      "heat": "medium hob",
+      "tip": "Frying the paste in oil, not just boiling it, is what makes a curry taste finished."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Add the aubergine and pepper and cook for 4 minutes. Add the chicken, green beans, coconut milk and the rest of the water. Simmer until the chicken is cooked and the aubergine is soft.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in a separate pan with a pinch of salt while the curry simmers.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Stir in the tamari, lime juice and coriander. Taste, and add another squeeze of lime if it wants brightness. Serve with the rice."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "thai-green-chicken-curry.webp",
+    "alt": "Thai green chicken curry with vegetables and rice",
+    "credit": "Kenamparo via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thai_Green_Curry_with_Rice.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 528,
+    "protein": 47.4,
+    "carbs": 51.5,
+    "fat": 14.6,
+    "fibre": 6.6
+  }
+}

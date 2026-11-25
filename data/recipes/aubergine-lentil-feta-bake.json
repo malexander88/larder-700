@@ -1,0 +1,121 @@
+{
+  "slug": "aubergine-lentil-feta-bake",
+  "title": "Aubergine, lentil and feta bake",
+  "summary": "Roasted aubergine on a tray of tomatoes and green lentils, finished with a modest amount of feta. Vegetarian, and sturdy enough without pasta.",
+  "cuisine": "Mediterranean",
+  "protein": "legumes",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 32,
+  "equipment": [
+    {
+      "name": "Large roasting tin"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or spatula"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "aubergine",
+      "grams": 450,
+      "prepNote": "cut into 2 cm rounds"
+    },
+    {
+      "nutritionId": "green-lentils-canned",
+      "grams": 400,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 280
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 110,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 60
+    },
+    {
+      "nutritionId": "feta",
+      "grams": 50,
+      "prepNote": "crumbled"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 14
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Heat the fan oven to 200°C. Brush the aubergine with 2 teaspoons of the oil, season lightly and lay it in the tin.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 18,
+      "instruction": "Roast the aubergine until it is soft and browned. Turn the slices halfway.",
+      "temperatureC": 200,
+      "tip": "Pale, spongy aubergine needs longer, not more oil."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Push the aubergine to one side. Toss the onion, tomatoes, lentils, garlic, oregano and remaining oil into the gap and roast until the tomatoes burst.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 4,
+      "instruction": "Stir the spinach through the hot lentils, crumble over the feta and return the tin to the oven for a couple of minutes. Finish with lemon juice and parsley."
+    }
+  ],
+  "dietary": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "image": {
+    "file": "aubergine-lentil-feta-bake.webp",
+    "alt": "Roasted aubergine with lentils, tomato and feta",
+    "credit": "AlexanderVanLoon via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C4%B0mam_bay%C4%B1ld%C4%B1_AvL.JPG",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 458,
+    "protein": 26.6,
+    "carbs": 55.2,
+    "fat": 14.6,
+    "fibre": 19.4
+  }
+}

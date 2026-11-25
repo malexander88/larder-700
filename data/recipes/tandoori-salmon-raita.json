@@ -1,0 +1,118 @@
+{
+  "slug": "tandoori-salmon-raita",
+  "title": "Tandoori salmon with cucumber raita",
+  "summary": "Salmon fillets rubbed with tandoori spices and yoghurt, roasted hot, then served with a cool cucumber raita and a small portion of rice.",
+  "cuisine": "Indian",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 18,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Grater"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 320
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 120
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 180,
+      "prepNote": "half grated, half sliced"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 20
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "tandoori-masala",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 5
+    },
+    {
+      "nutritionId": "mint",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the fan oven to 200°C. Stir half the yoghurt with the tandoori masala, garlic, ginger, oil and half the lemon juice. Coat the salmon and set it on a lined tin.",
+      "temperatureC": 200,
+      "tip": "Line the tin. Tandoori marinade bakes on and is a pain to scrub."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Roast the salmon until it flakes and the spice paste has darkened at the edges. Start the rice at the same time: cover it with the water and a pinch of salt and cook for 10 minutes, then steam off the heat.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 6,
+      "instruction": "Grate half the cucumber, squeeze out the water with your hands, and stir it into the remaining yoghurt with the mint, remaining lemon juice and a pinch of salt. Slice the rest of the cucumber."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Serve the salmon with the rice, the sliced cucumber and a spoon of raita."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "tandoori-salmon-raita.webp",
+    "alt": "Spice-rubbed salmon with rice, salad and lime on a metal plate",
+    "credit": "Andy Li via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baked_Salmon_-_Lavash_2024-06-24.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 530,
+    "protein": 42.6,
+    "carbs": 39.2,
+    "fat": 22.5,
+    "fibre": 1.4
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "chicken-leek-casserole",
+  "title": "Chicken, leek and mushroom casserole",
+  "summary": "Chicken breast, leeks and mushrooms in a mustard gravy, with new potatoes cooked in the same pot. Gluten-free if you use the cornflour and the free-from stock cube.",
+  "cuisine": "British",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Casserole or deep frying pan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Wooden spoon"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 380,
+      "prepNote": "cut into large pieces"
+    },
+    {
+      "nutritionId": "leek",
+      "grams": 250,
+      "prepNote": "sliced and washed"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 360,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 60
+    },
+    {
+      "nutritionId": "dijon-gf",
+      "grams": 14
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 5,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "stock-chicken-gf",
+      "grams": 10
+    },
+    {
+      "nutritionId": "cornflour",
+      "grams": 8
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "water",
+      "grams": 350
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and brown the chicken on two sides, then lift it out. Season it as it goes in.",
+      "heat": "medium-high hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Add the leek and cook until it softens. Stir in the garlic and mushrooms.",
+      "heat": "medium hob",
+      "tip": "Leeks hide grit. Slice them, then swish in a bowl of water and lift them out."
+    },
+    {
+      "minutes": 18,
+      "instruction": "Return the chicken with the potatoes, mustard, stock cube and water. Cover and simmer until the potatoes are tender and the chicken is cooked through.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Mix the cornflour with a splash of cold water, stir it in and simmer until the sauce thickens. Fold in the spinach and parsley, taste, and serve in deep bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Let it stand a minute so the spinach wilts fully, then share it out, potatoes and all."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "chicken-leek-casserole.webp",
+    "alt": "Chicken and leek casserole with mushrooms",
+    "credit": "FBenjr123 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_stew_with_mixed_vegetables.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 464,
+    "protein": 53.2,
+    "carbs": 41.6,
+    "fat": 9.2,
+    "fibre": 7.2
+  }
+}

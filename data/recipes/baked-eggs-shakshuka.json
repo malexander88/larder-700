@@ -1,0 +1,131 @@
+{
+  "slug": "baked-eggs-shakshuka",
+  "title": "Baked eggs with peppers and beans",
+  "summary": "Eggs baked in a pan of peppers, tomatoes and chickpeas, with a little feta. A shakshuka that uses a tin of chickpeas so it eats like dinner, not a side of toast.",
+  "cuisine": "Middle Eastern",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 18,
+  "equipment": [
+    {
+      "name": "Large frying pan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Wooden spoon"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 232
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 200,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 400
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 200,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 50
+    },
+    {
+      "nutritionId": "feta",
+      "grams": 40,
+      "prepNote": "crumbled"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and soften the onion and pepper for 6 minutes. Stir in the garlic, cumin, paprika and chilli flakes for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Add the tomatoes, chickpeas and salt. Simmer until the sauce is thick enough that an egg would sit in a hollow rather than disappear.",
+      "heat": "medium hob",
+      "tip": "A watery sauce poaches the eggs into a grey film. Reduce it first."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Stir in the spinach. Make four wells and crack an egg into each. Cover and cook gently until the whites set and the yolks are still soft.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Crumble over the feta and coriander, grind on a little pepper and bring the pan to the table. Share two eggs each, with plenty of the sauce."
+    }
+  ],
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "baked-eggs-shakshuka.webp",
+    "alt": "Eggs baked in a pepper and tomato sauce",
+    "credit": "Joe Mahoney via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shakshuka1.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 479,
+    "protein": 30.1,
+    "carbs": 36.7,
+    "fat": 23.6,
+    "fibre": 10.1
+  }
+}

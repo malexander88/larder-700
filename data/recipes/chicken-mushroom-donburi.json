@@ -1,0 +1,120 @@
+{
+  "slug": "chicken-mushroom-donburi",
+  "title": "Chicken and mushroom donburi",
+  "summary": "Chicken, onion and mushrooms simmered in a light tamari sauce and spooned over rice, with an egg stirred through at the end. A donburi for a weeknight.",
+  "cuisine": "Japanese",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 18,
+  "equipment": [
+    {
+      "name": "Frying pan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 300,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 110
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "egg-whole",
+      "grams": 116,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 20
+    },
+    {
+      "nutritionId": "honey",
+      "grams": 8
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 280
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in 220 g of the water with a pinch of salt, covered, then leave it to steam.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the oil and soften the onion and mushrooms until they take a little colour.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Add the chicken, ginger, tamari, honey and the remaining water. Simmer until the chicken is just cooked.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pour the beaten egg over in a thin stream, cover for a minute until it just sets, then scatter with spring onion. Spoon over the rice.",
+      "tip": "You want soft ribbons of egg, not scrambled dry. Take it off the heat while it still looks slightly wet."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "chicken-mushroom-donburi.webp",
+    "alt": "Chicken and egg rice bowl with mushrooms",
+    "credit": "Ocdp via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oyakodon_003.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 537,
+    "protein": 49.7,
+    "carbs": 55.6,
+    "fat": 12.7,
+    "fibre": 2.8
+  }
+}

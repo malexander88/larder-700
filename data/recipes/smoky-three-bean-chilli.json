@@ -1,0 +1,151 @@
+{
+  "slug": "smoky-three-bean-chilli",
+  "title": "Smoky three-bean chilli",
+  "summary": "Black beans, kidney beans and chickpeas in a smoked paprika tomato sauce, with peppers and a small bowl of rice. A vegan chilli that still feels like dinner.",
+  "cuisine": "Mexican",
+  "protein": "legumes",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 25,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 200,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "kidney-beans-canned",
+      "grams": 200,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 160,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 400
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 180,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 120,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 80,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "tomato-puree",
+      "grams": 15
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 3
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2.5
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.6
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "stock-vegetable-gf",
+      "grams": 10
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Soften the onion and pepper in the oil for 6 minutes. Stir in the garlic, paprika, cumin, oregano and chilli flakes and cook for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 15,
+      "instruction": "Add all three beans, the tomatoes, tomato purée, sweetcorn and stock cube. Simmer, uncovered, until the sauce is thick and the beans are coated.",
+      "heat": "medium hob",
+      "tip": "A thick chilli, not a soup. If it splutters, put the lid on ajar."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt while the chilli simmers.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Taste for salt, stir through most of the coriander and serve over the rice with the rest on top."
+    }
+  ],
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "smoky-three-bean-chilli.webp",
+    "alt": "Bowl of bean chilli with rice",
+    "credit": "Karen and Brad Emerson via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_bean_chili_(3263369585).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 648,
+    "protein": 32.1,
+    "carbs": 108,
+    "fat": 9.7,
+    "fibre": 23.1
+  }
+}

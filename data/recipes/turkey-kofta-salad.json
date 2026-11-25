@@ -1,0 +1,140 @@
+{
+  "slug": "turkey-kofta-salad",
+  "title": "Turkey kofta with chopped salad",
+  "summary": "Baked turkey kofta with a chopped salad, a spoon of yoghurt and a little rice. The spices do the work that a fatty mince usually would.",
+  "cuisine": "Middle Eastern",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 15,
+  "cookMinutes": 16,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 400
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 80
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 150,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 180,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 80,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 60,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 12,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "coriander-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "paprika",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "cinnamon",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 160
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Heat the fan oven to 200°C. Mix the turkey with half the onion, half the garlic, the spices, half the parsley and half the salt. Shape into eight ovals and set them on a lightly oiled tin.",
+      "temperatureC": 200,
+      "tip": "Wet hands stop the mince sticking. A little oil on the tin is enough."
+    },
+    {
+      "minutes": 14,
+      "instruction": "Bake the kofta until browned and cooked through. Start the rice in the water when the kofta goes in.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 5,
+      "instruction": "Stir the remaining garlic into the yoghurt. Toss the cucumber, tomato, remaining onion, lettuce and parsley with the lemon juice and a pinch of salt."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve the kofta with the rice, salad and yoghurt."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "turkey-kofta-salad.webp",
+    "alt": "Grilled kofta with salad and yoghurt",
+    "credit": "Strawberrypotato via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grilled_Kefta_Skewers.jpg",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 460,
+    "protein": 56.8,
+    "carbs": 39.9,
+    "fat": 8.1,
+    "fibre": 3.7
+  }
+}

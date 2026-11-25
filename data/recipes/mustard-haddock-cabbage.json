@@ -1,0 +1,111 @@
+{
+  "slug": "mustard-haddock-cabbage",
+  "title": "Mustard baked haddock with cabbage",
+  "summary": "Haddock baked with a sharp mustard coating, buttered-without-the-butter cabbage and a few new potatoes. A lean fish supper that still fills the plate.",
+  "cuisine": "British",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 22,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Frying pan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "haddock-raw",
+      "grams": 450
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 400,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "white-cabbage",
+      "grams": 280,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "leek",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "dijon-gf",
+      "grams": 16
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.4
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the fan oven to 190°C. Toss the potatoes with half the oil and half the salt and put them in to roast.",
+      "temperatureC": 190
+    },
+    {
+      "minutes": 6,
+      "instruction": "Stir the mustard with the lemon juice, parsley and pepper. Lay the haddock beside the potatoes and spread the mustard over the fish.",
+      "temperatureC": 190
+    },
+    {
+      "minutes": 10,
+      "instruction": "Roast until the haddock flakes and the potatoes are tender.",
+      "temperatureC": 190,
+      "tip": "If the potatoes were large, give them the head start above. Small new potatoes catch up."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Meanwhile warm the remaining oil, fry the leek for 2 minutes, add the cabbage and a splash of water, cover and cook until the cabbage is just tender. Serve with the fish and potatoes.",
+      "heat": "medium hob",
+      "tip": "Cabbage should stay a little squeaky. Grey, collapsed cabbage has been in the pan too long."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "mustard-haddock-cabbage.webp",
+    "alt": "Baked haddock with cabbage and potatoes",
+    "credit": "Armineaghayan via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pan-fried_white_fish_fillet_with_vegetables.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 424,
+    "protein": 49.8,
+    "carbs": 39.2,
+    "fat": 7.7,
+    "fibre": 7.6
+  }
+}

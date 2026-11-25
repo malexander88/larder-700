@@ -1,0 +1,122 @@
+{
+  "slug": "miso-aubergine-tofu",
+  "title": "Miso aubergine and tofu rice bowl",
+  "summary": "Aubergine and firm tofu glazed with rice miso, served with pak choi and a small bowl of rice. Vegan if your miso is rice miso, not barley.",
+  "cuisine": "Japanese",
+  "protein": "tofu",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 24,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Pastry brush or spoon"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 320,
+      "prepNote": "pressed and sliced"
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 320,
+      "prepNote": "halved lengthways and scored"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 200,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "miso-rice",
+      "grams": 22
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 10
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 2
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "water",
+      "grams": 190
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the fan oven to 200°C. Score the aubergine flesh in a criss-cross, brush with half the rapeseed oil and roast, cut side down, for 15 minutes.",
+      "temperatureC": 200,
+      "tip": "Scoring lets the miso get into the flesh instead of sitting on the skin."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Stir the miso, tamari and ginger with a teaspoon of hot water. Turn the aubergine, spread on half the glaze and roast until soft.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 12,
+      "instruction": "Meanwhile cook the rice in 180 g of water. Fry the tofu in the remaining rapeseed oil until golden, then brush with the rest of the glaze.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "In the same pan, wilt the pak choi with a splash of water and the sesame oil. Serve the aubergine and tofu over rice with the greens and spring onion."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon any glaze left in the tin over the top. Rice miso is salty, so taste before adding any extra tamari."
+    }
+  ],
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "image": {
+    "file": "miso-aubergine-tofu.webp",
+    "alt": "Miso glazed aubergine with tofu and rice",
+    "credit": "pelican from Tokyo, Japan via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stir-fried_eggplant_with_miso_paste_(2705949129).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 476,
+    "protein": 28.1,
+    "carbs": 46.7,
+    "fat": 19.6,
+    "fibre": 6.9
+  }
+}

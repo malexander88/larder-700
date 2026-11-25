@@ -1,0 +1,146 @@
+{
+  "slug": "beef-root-vegetable-stew",
+  "title": "Lean beef and root vegetable stew",
+  "summary": "Lean stewing beef simmered with carrots, celery, mushrooms and new potatoes in a tomato gravy. A pot for four, and it improves if you leave it for ten minutes before serving.",
+  "cuisine": "British",
+  "protein": "beef",
+  "difficulty": "moderate",
+  "servings": 4,
+  "prepMinutes": 15,
+  "cookMinutes": 50,
+  "equipment": [
+    {
+      "name": "Large casserole or heavy saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Wooden spoon"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-stewing-lean",
+      "grams": 700,
+      "prepNote": "cut into 3 cm pieces"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 700,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 280,
+      "prepNote": "chunky slices"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 180,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "celery",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 180,
+      "prepNote": "quartered"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 400
+    },
+    {
+      "nutritionId": "kale",
+      "grams": 80,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "tomato-puree",
+      "grams": 15
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "mixed-herbs",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "stock-vegetable-gf",
+      "grams": 10
+    },
+    {
+      "nutritionId": "cornflour",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 3
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.6
+    },
+    {
+      "nutritionId": "water",
+      "grams": 450
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 12,
+      "instruction": "Pat the beef dry and season it. Warm the oil in the casserole and brown the beef in two batches so it colours rather than steams. Lift it out.",
+      "heat": "high hob",
+      "tip": "Browning is the flavour. A crowded pan just boils the meat grey."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Lower the heat, add the onion, carrot and celery and cook for 6 minutes. Stir in the garlic, tomato purée and herbs.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 35,
+      "instruction": "Return the beef with the mushrooms, potatoes, tomatoes, stock cube and water. Cover and simmer gently until the beef is tender and the potatoes are cooked.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Slake the cornflour with a spoon of cold water, stir it in and simmer for 3 minutes until the gravy thickens. Fold in the kale until it wilts. Taste for salt and rest the pot for a couple of minutes before ladling it out."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Share between four warm bowls. The potatoes are in the stew, so you don't need anything else on the plate."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "beef-root-vegetable-stew.webp",
+    "alt": "Beef stew with carrots and potatoes in a bowl",
+    "credit": "A Healthier Michigan from Detroit, United States via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Irish_Beef_Stew_(34046928633).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 482,
+    "protein": 46.6,
+    "carbs": 47.1,
+    "fat": 11.9,
+    "fibre": 8.1
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "turkey-lettuce-tacos",
+  "title": "Turkey mince lettuce tacos",
+  "summary": "Seasoned turkey mince spooned into little gem leaves with tomato, pepper and avocado. A taco night that skips the fried shells.",
+  "cuisine": "Mexican",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Mixing bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 450
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 180,
+      "prepNote": "leaves separated"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 160,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 180,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 70,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "avocado",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 5,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 2.5
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 0.8
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 20
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Separate the little gem leaves and rinse them. Dice the pepper, tomatoes and onion. Mix the tomato and half the onion with half the lime juice and a pinch of salt for a quick salsa."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the oil and fry the remaining onion for a minute. Add the turkey, garlic, paprika, cumin, oregano, salt and pepper and cook, breaking up the mince, until browned and cooked through.",
+      "heat": "medium-high hob",
+      "tip": "A spoonful of water at the end loosens the crusty bits into a light sauce."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Stir the diced pepper into the mince just to warm it, then add the rest of the lime juice and the coriander."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon the mince into the lettuce leaves and top with salsa and avocado. Eat with your hands, over a plate."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "image": {
+    "file": "turkey-lettuce-tacos.webp",
+    "alt": "Seasoned mince served in lettuce leaves",
+    "credit": "Peachyeung316 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thai_style_minced_pork_with_lettuce_wrap.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 434,
+    "protein": 57.5,
+    "carbs": 15.5,
+    "fat": 15.7,
+    "fibre": 7.7
+  }
+}

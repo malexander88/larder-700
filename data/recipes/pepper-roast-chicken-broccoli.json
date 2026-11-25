@@ -1,0 +1,102 @@
+{
+  "slug": "pepper-roast-chicken-broccoli",
+  "title": "Pepper roast chicken with broccoli",
+  "summary": "Skinless chicken breast roasted hard with black pepper, garlic and lemon, with broccoli and crisp celery on the side. A light British plate that is mostly protein.",
+  "cuisine": "British",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 24,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 460
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 280,
+      "prepNote": "cut into florets"
+    },
+    {
+      "nutritionId": "celery",
+      "grams": 100,
+      "prepNote": "cut into sticks"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 14
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 20
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 1.2,
+      "prepNote": "coarsely ground"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the fan oven to 200°C. Pat the chicken dry and rub it with the oil, garlic, lemon juice, pepper and salt. Lay it in the tin.",
+      "temperatureC": 200,
+      "tip": "Coarse pepper is the point of this one. Fine pepper just disappears."
+    },
+    {
+      "minutes": 16,
+      "instruction": "Roast the chicken for 10 minutes, then tuck the broccoli around it and roast until the chicken is opaque in the middle and the broccoli is charred at the edges.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 6,
+      "instruction": "Rest the chicken for a few minutes while you cut the celery into sticks. The rest keeps the meat juicy.",
+      "tip": "If the broccoli is already tender, take it out and let the chicken finish alone."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice the chicken, spoon over the tin juices and serve with the broccoli and celery. No potatoes on this plate, so the calories stay low."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "image": {
+    "file": "pepper-roast-chicken-broccoli.webp",
+    "alt": "Peppered roast chicken breast with broccoli and celery sticks on a patterned plate",
+    "credit": "Daderot via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_breast,_roast_broccoli,_and_celery_-_Massachusetts.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 368,
+    "protein": 57.5,
+    "carbs": 9.2,
+    "fat": 11.1,
+    "fibre": 4.6
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "teriyaki-salmon-bowl",
+  "title": "Teriyaki salmon rice bowl",
+  "summary": "Salmon glazed with tamari, honey and ginger, served over rice with broccoli and pak choi. A homemade teriyaki that isn't mostly sugar.",
+  "cuisine": "Japanese",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 16,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Small bowl"
+    },
+    {
+      "name": "Fish slice"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 300
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 180,
+      "prepNote": "small florets"
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 160,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 22
+    },
+    {
+      "nutritionId": "honey",
+      "grams": 12
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 5,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "rice-vinegar",
+      "grams": 8
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 5
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 2
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Stir the tamari, honey, ginger, garlic and vinegar together. Start the rice in 180 g of the water, covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Heat the rapeseed oil and cook the salmon, skin-side down if it has skin, for 3 minutes. Turn it and pour in the sauce.",
+      "heat": "medium hob",
+      "tip": "Don't move the salmon for the first minutes or the glaze tears the flesh."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Baste the salmon as the sauce reduces to a shine. Lift the fish out. Toss the broccoli and pak choi in the pan with a splash of water until just tender.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the sesame oil. Slice the salmon and serve it over the rice with the greens, the remaining glaze and the spring onion."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "teriyaki-salmon-bowl.webp",
+    "alt": "Teriyaki glazed salmon with rice and greens",
+    "credit": "JIP via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Teriyaki_salmon.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 546,
+    "protein": 38.6,
+    "carbs": 47.6,
+    "fat": 22.3,
+    "fibre": 4
+  }
+}

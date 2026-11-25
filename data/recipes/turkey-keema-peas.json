@@ -1,0 +1,130 @@
+{
+  "slug": "turkey-keema-peas",
+  "title": "Turkey keema with peas",
+  "summary": "Turkey breast mince cooked down with tomato, ginger and peas, the way a keema should be, with a modest scoop of basmati on the side.",
+  "cuisine": "Indian",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 26,
+  "equipment": [
+    {
+      "name": "Large frying pan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 360
+    },
+    {
+      "nutritionId": "peas-frozen",
+      "grams": 180
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 250
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 130,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 15,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "garam-masala",
+      "grams": 3
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2.5
+    },
+    {
+      "nutritionId": "coriander-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 10,
+      "prepNote": "sliced, to finish"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and fry the onion until it starts to colour. Add the garlic, ginger, cumin, coriander and turmeric and stir for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Add the turkey and break it up with a spoon. Cook until the mince has lost its pink colour and any liquid has evaporated.",
+      "heat": "medium-high hob",
+      "tip": "If you leave the liquid in, the keema tastes boiled. Let it fry for a minute at the end."
+    },
+    {
+      "minutes": 10,
+      "instruction": "Stir in the tomatoes, garam masala, salt and peas. Cover and simmer until the peas are hot and the sauce is thick, not watery.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt while the keema simmers. Serve the keema with the rice and the sliced chilli."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "turkey-keema-peas.webp",
+    "alt": "Minced meat keema with peas and sliced chilli in a white bowl, rice alongside",
+    "credit": "pelican from Tokyo, Japan via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keema_curry_(296489989).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 547,
+    "protein": 53.9,
+    "carbs": 61.6,
+    "fat": 9.4,
+    "fibre": 8.1
+  }
+}

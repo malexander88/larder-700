@@ -1,0 +1,125 @@
+{
+  "slug": "harissa-cod-couscous",
+  "title": "Harissa cod with herby couscous",
+  "summary": "Cod roasted with rose harissa, peppers and chickpeas, with a lemon couscous. Warm spices, not a heavy sauce.",
+  "cuisine": "Mediterranean",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 18,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "cod-raw",
+      "grams": 380
+    },
+    {
+      "nutritionId": "couscous-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 140,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "courgette",
+      "grams": 180,
+      "prepNote": "half-moons"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 80,
+      "prepNote": "wedges"
+    },
+    {
+      "nutritionId": "harissa",
+      "grams": 18
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 20
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 10,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 5,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 120,
+      "prepNote": "just-boiled"
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the fan oven to 200°C. Stir the harissa with the oil and garlic. Toss the pepper, courgette, onion and chickpeas with half of that paste and a pinch of salt.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 12,
+      "instruction": "Roast the vegetables for 12 minutes. Cover the couscous with the just-boiled water and a pinch of salt and leave it, covered.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 6,
+      "instruction": "Rub the rest of the harissa paste over the cod, sit it on the vegetables and roast until the fish flakes.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 4,
+      "instruction": "Fluff the couscous with the parsley and lemon juice. Serve the cod and vegetables on top."
+    }
+  ],
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "harissa-cod-couscous.webp",
+    "alt": "Baked white fish with couscous and vegetables",
+    "credit": "Suleiman213 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Couscous_with_fish_stew_and_vegetables.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 505,
+    "protein": 48.1,
+    "carbs": 57,
+    "fat": 9.6,
+    "fibre": 9.1
+  }
+}

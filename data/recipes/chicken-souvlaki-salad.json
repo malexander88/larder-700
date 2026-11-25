@@ -1,0 +1,137 @@
+{
+  "slug": "chicken-souvlaki-salad",
+  "title": "Chicken souvlaki salad",
+  "summary": "Oregano chicken with a herby couscous, tomato, cucumber and a yoghurt dressing. The souvlaki idea, without a pile of pitta.",
+  "cuisine": "Mediterranean",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 15,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Griddle pan or frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 360,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "couscous-dry",
+      "grams": 80
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 80
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 180,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 180,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 100,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 50,
+      "prepNote": "thinly sliced"
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 25,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 25
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 5,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    },
+    {
+      "nutritionId": "water",
+      "grams": 110,
+      "prepNote": "just-boiled"
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Toss the chicken with half the oil, half the lemon juice, the oregano, garlic and a pinch of salt. Put the couscous in a bowl, pour over the just-boiled water, cover and leave it.",
+      "tip": "Couscous steams itself. Fluff it with a fork after five minutes, don't stir it into a paste."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Heat a griddle or frying pan until hot and cook the chicken, turning, until browned and cooked through.",
+      "heat": "medium-high hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Stir the parsley and remaining oil through the couscous. Toss the cucumber, tomatoes, onion, olives and lettuce with the remaining lemon juice."
+    },
+    {
+      "minutes": 5,
+      "instruction": "Stir a pinch of salt into the yoghurt. Serve the chicken on the couscous and salad, with the yoghurt spooned over."
+    }
+  ],
+  "dietary": [
+    "high-protein"
+  ],
+  "image": {
+    "file": "chicken-souvlaki-salad.webp",
+    "alt": "Grilled chicken with salad, herbs and flatbread",
+    "credit": "Orderinchaos via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_souvlaki_at_Hellenic_2.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 477,
+    "protein": 53.6,
+    "carbs": 42,
+    "fat": 10.4,
+    "fibre": 5.4
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "baked-cod-puttanesca",
+  "title": "Baked cod puttanesca",
+  "summary": "Cod fillets baked on a tray of tomatoes, cannellini beans, olives and capers. The beans make it a full meal without a pile of pasta.",
+  "cuisine": "Italian",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 22,
+  "equipment": [
+    {
+      "name": "Roasting tin or oven dish",
+      "notes": "big enough for the fish to sit in one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "cod-raw",
+      "grams": 400,
+      "prepNote": "skinned"
+    },
+    {
+      "nutritionId": "cannellini-canned",
+      "grams": 320,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 280,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 80
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 40,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "capers",
+      "grams": 15,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Heat the fan oven to 190°C. Toss the onion, tomatoes, beans, olives, capers, garlic, oregano and oil in the tin with a pinch of salt.",
+      "temperatureC": 190
+    },
+    {
+      "minutes": 12,
+      "instruction": "Roast the vegetable base until the tomatoes slump and the onion softens.",
+      "temperatureC": 190,
+      "tip": "Give the base a head start so the fish doesn't overcook while the vegetables catch up."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Stir the spinach through the hot base. Season the cod with pepper and the remaining salt and nestle it into the tin. Bake until the fish flakes easily with a fork.",
+      "temperatureC": 190
+    },
+    {
+      "minutes": 4,
+      "instruction": "Squeeze over the lemon juice and rest the tin for a couple of minutes. Serve straight from the dish, with the beans and juices."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "baked-cod-puttanesca.webp",
+    "alt": "Baked white fish with tomatoes, beans and olives",
+    "credit": "Andy Li via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pan_Fried_Cod_-_Cafe_de_la_mer_2024-04-17.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 461,
+    "protein": 51.8,
+    "carbs": 38.9,
+    "fat": 11.1,
+    "fibre": 14.1
+  }
+}

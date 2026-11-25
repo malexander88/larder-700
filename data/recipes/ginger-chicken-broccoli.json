@@ -1,0 +1,130 @@
+{
+  "slug": "ginger-chicken-broccoli",
+  "title": "Ginger chicken and broccoli stir-fry",
+  "summary": "Thin chicken and broccoli stir-fried with ginger, garlic and tamari, served with a measured bowl of rice. A proper weeknight plate, not a takeaway portion.",
+  "cuisine": "Chinese",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 18,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Kettle"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 360,
+      "prepNote": "sliced thinly"
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 300,
+      "prepNote": "cut into small florets"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 80,
+      "prepNote": "cut into matchsticks"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 15,
+      "prepNote": "matchsticks"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 20
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 3
+    },
+    {
+      "nutritionId": "cornflour",
+      "grams": 4
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 220
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Slice the chicken and toss it with the cornflour, half the tamari and a pinch of salt. Put the broccoli in a heatproof bowl and cover it with just-boiled water for 2 minutes, then drain.",
+      "tip": "A quick blanch means the broccoli is tender before the chicken dries out."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in 180 g of the water, covered, over a low heat. Start it before you heat the wok.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Heat the rapeseed oil in the wok until it smokes lightly. Stir-fry the chicken in one layer until it turns opaque, then scoop it out.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Add the ginger and garlic for a few seconds, then the carrot and broccoli. Splash in the remaining water and tamari and toss until the broccoli is bright and the sauce lightly coats everything.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Return the chicken, add the sesame oil and spring onion, and toss for a minute. Serve over the rice."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "ginger-chicken-broccoli.webp",
+    "alt": "Chicken and broccoli stir-fry with rice",
+    "credit": "Discover Lehigh Valley, PA via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_And_Broccoli_@_Bamboo_Asian_Cuisine.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 494,
+    "protein": 51,
+    "carbs": 51.5,
+    "fat": 9.2,
+    "fibre": 6.1
+  }
+}

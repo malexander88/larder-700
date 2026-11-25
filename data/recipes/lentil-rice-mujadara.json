@@ -1,0 +1,119 @@
+{
+  "slug": "lentil-rice-mujadara",
+  "title": "Lentil and rice mujadara",
+  "summary": "Green lentils and rice with a heap of softened onion, and a sharp tomato and cucumber salad. A vegan Middle Eastern supper that costs very little.",
+  "cuisine": "Middle Eastern",
+  "protein": "legumes",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 25,
+  "equipment": [
+    {
+      "name": "Saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "green-lentils-canned",
+      "grams": 400,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 260,
+      "prepNote": "thinly sliced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 180,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 140,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 12,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2.5
+    },
+    {
+      "nutritionId": "cinnamon",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 20
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 12,
+      "instruction": "Fry the onion in the oil over a medium heat, stirring now and then, until it is deep golden and sweet. This takes patience and is the whole flavour of the dish.",
+      "heat": "medium hob",
+      "tip": "Don't rush the onion on a high heat or it scorches before it softens."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Scoop out half the onion. Add the cumin and cinnamon to the pan, then the rice, lentils and water with half the salt. Cover and cook for 10 minutes, then leave it to steam off the heat.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss the tomato, cucumber and parsley with the lemon juice and remaining salt."
+    },
+    {
+      "minutes": 5,
+      "instruction": "Fluff the rice and lentils, top with the reserved onion and serve with the salad."
+    }
+  ],
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "image": {
+    "file": "lentil-rice-mujadara.webp",
+    "alt": "Mujadara of rice and lentils topped with browned onions",
+    "credit": "Bazel via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mujaddara.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 489,
+    "protein": 23.3,
+    "carbs": 81,
+    "fat": 8,
+    "fibre": 14.4
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "chicken-shawarma-bowl",
+  "title": "Chicken shawarma bowl",
+  "summary": "Spiced chicken with chickpeas, tomato, cucumber and a garlic yoghurt, over a small portion of rice. Shawarma flavours without the huge wrap.",
+  "cuisine": "Middle Eastern",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 16,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 380,
+      "prepNote": "cut into strips"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 160,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 80
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 150,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 180,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 80,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 50,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "coriander-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "cinnamon",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 20
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Toss the chicken with the oil, cumin, paprika, coriander, cinnamon, half the garlic and half the salt. Start the rice in the water.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Fry the chicken over a medium-high heat until browned and cooked through. Stir the chickpeas through for the last minute to warm them.",
+      "heat": "medium-high hob",
+      "tip": "A little dark edge on the chicken is the point. Pale steamed strips won't taste like shawarma."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Stir the remaining garlic and a pinch of salt into the yoghurt. Toss the cucumber, tomato, onion and lettuce with the lemon juice and parsley."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Spoon the rice into bowls, top with chicken and chickpeas, then the salad and yoghurt."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "chicken-shawarma-bowl.webp",
+    "alt": "Spiced chicken shawarma with salad and flatbread",
+    "credit": "User:CrunchySkies via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_Shwarama_plate.jpeg",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 553,
+    "protein": 59.5,
+    "carbs": 56.2,
+    "fat": 9.9,
+    "fibre": 7.2
+  }
+}

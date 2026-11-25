@@ -1,0 +1,109 @@
+{
+  "slug": "herb-salmon-new-potatoes",
+  "title": "Herb salmon with new potatoes",
+  "summary": "Salmon roasted with lemon and mustard, new potatoes and broccoli. A straightforward British supper with enough protein to matter.",
+  "cuisine": "British",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 24,
+  "equipment": [
+    {
+      "name": "Large roasting tin"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 320
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 400,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 240,
+      "prepNote": "cut into florets"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "dijon-gf",
+      "grams": 12
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 20
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 10,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 5,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.4
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the fan oven to 200°C. Toss the potatoes with half the oil and half the salt and start them roasting.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 12,
+      "instruction": "Roast the potatoes until they are starting to colour. Mix the mustard, lemon juice, garlic, parsley, remaining oil and pepper.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 10,
+      "instruction": "Add the broccoli to the tin. Set the salmon on top, spoon over the mustard mixture and roast until the salmon flakes and the broccoli is tender.",
+      "temperatureC": 200,
+      "tip": "If the broccoli is browning too fast, tuck it under the potatoes for the last few minutes."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest for a couple of minutes and share the tin between two warm plates, spooning over the lemony juices."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "herb-salmon-new-potatoes.webp",
+    "alt": "Baked salmon with new potatoes and green vegetables",
+    "credit": "Chin tin tin via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mittagessen_Broccoli_Lachs_Kartoffeln.JPG",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 531,
+    "protein": 40.1,
+    "carbs": 37.4,
+    "fat": 24.6,
+    "fibre": 6.4
+  }
+}

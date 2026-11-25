@@ -1,0 +1,141 @@
+{
+  "slug": "chicken-fajita-bean-bowl",
+  "title": "Chicken fajita and black bean bowl",
+  "summary": "Strips of chicken and peppers cooked with smoked paprika, folded through black beans and a little rice. A fajita plate without the pile of wraps.",
+  "cuisine": "Mexican",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 18,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 360,
+      "prepNote": "cut into strips"
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 200,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "yellow-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 60,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 80,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 3
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 20
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 5,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 160
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Toss the chicken with the paprika, cumin, oregano, garlic and half the salt. Start the rice in the water, covered, over a low heat.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Heat the oil in the frying pan until it shimmers. Fry the chicken in a single layer until golden, then scoop it out.",
+      "heat": "high hob",
+      "tip": "If you stir constantly the chicken won't colour. Leave it alone for a minute."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Fry the onion and peppers in the same pan until they soften and pick up the brown bits. Return the chicken with the beans and sweetcorn and warm through.",
+      "heat": "medium-high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Squeeze in the lime juice, taste for salt and fold through the coriander. Serve over the rice with the little gem on the side."
+    }
+  ],
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "chicken-fajita-bean-bowl.webp",
+    "alt": "Chicken fajita strips with peppers in a pan",
+    "credit": "jeffreyw via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_fajitas.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 567,
+    "protein": 56.2,
+    "carbs": 64.8,
+    "fat": 9,
+    "fibre": 12.8
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "garlic-prawn-orzo",
+  "title": "Garlic prawn orzo",
+  "summary": "A small pan of orzo cooked in tomato with garlic prawns and spinach. Coastal Italian in spirit, measured so the pasta doesn't take over.",
+  "cuisine": "Mediterranean",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 18,
+  "equipment": [
+    {
+      "name": "Large frying pan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Wooden spoon"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 340,
+      "prepNote": "peeled"
+    },
+    {
+      "nutritionId": "orzo-dry",
+      "grams": 110
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 220,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 80
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 12,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 10,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "stock-vegetable-gf",
+      "grams": 10
+    },
+    {
+      "nutritionId": "water",
+      "grams": 400
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Warm half the oil and soften the onion for 4 minutes. Add the garlic and chilli flakes for 30 seconds.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 12,
+      "instruction": "Stir in the orzo, tomatoes, crumbled stock cube and water. Simmer, stirring often, until the orzo is tender and most of the liquid has been absorbed.",
+      "heat": "medium hob",
+      "tip": "Orzo sticks if you ignore it. A stir every minute or so is enough."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Push the orzo aside, add the remaining oil and fry the prawns for a minute a side until pink.",
+      "heat": "medium-high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Fold in the spinach, lemon juice and parsley and let the leaves wilt. Taste for salt and serve straight away."
+    }
+  ],
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "image": {
+    "file": "garlic-prawn-orzo.webp",
+    "alt": "Prawns with orzo pasta and tomatoes",
+    "credit": "FranHogan via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shrimp_pasta.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 434,
+    "protein": 39.1,
+    "carbs": 52,
+    "fat": 7.8,
+    "fibre": 4.9
+  }
+}
