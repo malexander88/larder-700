@@ -20,9 +20,9 @@ Look up foods in `data/nutrition.json`. An ingredient is only:
 { "nutritionId": "chicken-breast-raw", "grams": 360, "prepNote": "cut into thick strips" }
 ```
 
-`shopName` on the food is the supermarket line and the Tesco search. Do not invent a second name for the same `nutritionId`. If the food is missing, add it to `data/nutrition.json` with per-100 g protein, carbohydrate, fat and fibre. Calories should be close to `4×protein + 4×carbohydrate + 9×fat`. Say whether it is meat, fish, dairy, gluten and so on in `flags`, because the tags are derived from those flags.
+`shopName` on the food is the name on the shopping list. Do not invent a second name for the same `nutritionId`. If the food is missing, add it to `data/nutrition.json` with per-100 g protein, carbohydrate, fat and fibre. Calories should be close to `4×protein + 4×carbohydrate + 9×fat`. Say whether it is meat, fish, dairy, gluten and so on in `flags`, because the tags are derived from those flags.
 
-Water can be listed. Set `"shopping": false` on a food that should never go in the basket.
+Water can be listed. Set `"shopping": false` on a food that should never go on the shopping list.
 
 ## 3. Let the numbers be computed
 

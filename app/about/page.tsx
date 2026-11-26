@@ -4,7 +4,7 @@ import { nutritionMethod } from "@/lib/foods"
 
 export const metadata: Metadata = {
   title: "How we count",
-  description: "How Healthy Dinners calculates calories and how the Tesco shopping list works.",
+  description: "How Healthy Dinners calculates calories and how the shopping list works.",
 }
 
 export default function AboutPage() {
@@ -18,12 +18,9 @@ export default function AboutPage() {
       <p>
         High protein means at least {HIGH_PROTEIN_G} g protein per serving. Low carb means {LOW_CARB_G} g of carbohydrate or less. Vegetarian, vegan, gluten-free and dairy-free are decided from the ingredients, not typed in by hand. A vegan dish also shows as vegetarian.
       </p>
-      <h2 className="font-serif text-2xl">Shops</h2>
+      <h2 className="font-serif text-2xl">Shopping list</h2>
       <p>
-        Tesco is the main shop. Sainsbury’s and Asda are there for the same ingredients if you prefer them.
-      </p>
-      <p>
-        None of these shops offers a public “add this list to my basket” API. Healthy Dinners opens a search for each ingredient so you choose the product, the size and the price. A bookmarklet can walk those searches while you are on tesco.com. It does not press Add, and it never checks out. Doing that automatically would pick the wrong product and sits badly with Tesco’s terms.
+        Add a dinner and the ingredients land on one list, scaled to the servings you chose. The same food from two recipes becomes one line, with the amounts added together. Tick items off, remove them, or copy and share the list. It stays on this phone.
       </p>
       <p>Quantities use the weight you would buy. A teaspoon of oil is shown as a spoon measure, and the grams behind it are what the calories use.</p>
     </article>

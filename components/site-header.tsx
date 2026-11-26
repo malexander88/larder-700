@@ -3,18 +3,18 @@
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { ShoppingBasket } from "lucide-react"
-import { useBasket } from "@/components/use-basket"
+import { useShoppingList } from "@/components/use-basket"
 import { cn } from "cn"
 
 const links = [
   { href: "/", label: "Dinners" },
-  { href: "/basket/", label: "Basket" },
+  { href: "/basket/", label: "List" },
   { href: "/about/", label: "How we count" },
 ]
 
 export function SiteHeader() {
   const pathname = usePathname()
-  const { lines } = useBasket()
+  const { lines } = useShoppingList()
   const count = lines.reduce((sum, line) => sum + (line.checked ? 0 : 1), 0)
 
   return (
@@ -47,7 +47,7 @@ export function SiteHeader() {
           <Link
             href="/basket/"
             className="relative ml-1 grid size-10 place-items-center rounded-full hover:bg-secondary"
-            aria-label={count ? `Basket, ${count} items still to buy` : "Basket, empty"}
+            aria-label={count ? `Shopping list, ${count} items still to buy` : "Shopping list, empty"}
           >
             <ShoppingBasket className="size-5" />
             {count > 0 && (

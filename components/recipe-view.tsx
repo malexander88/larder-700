@@ -7,8 +7,8 @@ import { Check, Minus, Plus } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Checkbox } from "@/components/ui/checkbox"
-import { useBasket } from "@/components/use-basket"
-import { addToBasket } from "@/lib/basket"
+import { useShoppingList } from "@/components/use-basket"
+import { addToShoppingList } from "@/lib/shopping-list"
 import { DIETARY_LABELS, PROTEIN_LABELS, type DIETARY_TAGS } from "@/lib/constants"
 import { foods } from "@/lib/foods"
 import { formatKcal, formatMinutes, formatQuantity } from "@/lib/format"
@@ -24,7 +24,7 @@ export function RecipeView({ recipe }: { recipe: Recipe }) {
     Object.fromEntries(recipe.ingredients.map((ingredient, index) => [index, !ingredient.optional])),
   )
   const [notice, setNotice] = useState("")
-  const { lines, replace } = useBasket()
+  const { lines, replace } = useShoppingList()
   const scale = servings / base
   const per = roundNutrients(perServing(recipe, foods))
   const total = roundNutrients(scaleNutrients(perServing(recipe, foods), servings))
@@ -41,12 +41,11 @@ export function RecipeView({ recipe }: { recipe: Recipe }) {
         {
           nutritionId: ingredient.nutritionId,
           grams: ingredient.grams * scale,
-          prepNote: ingredient.prepNote,
-          source: { slug: recipe.slug, title: recipe.title, grams: ingredient.grams * scale },
+          source: { slug: recipe.slug, title: recipe.title },
         },
       ]
     })
-    replace(addToBasket(lines, additions, foods))
+    replace(addToShoppingList(lines, additions, foods))
     setNotice(
       additions.length
         ? `Added ${additions.length} ingredients for ${servings} ${servings === 1 ? "serving" : "servings"}.`
@@ -157,13 +156,10 @@ export function RecipeView({ recipe }: { recipe: Recipe }) {
           </ul>
           <div className="mt-4 flex flex-wrap gap-2">
             <Button type="button" className="h-11" onClick={() => add("selected")}>
-              Add ticked ingredients
-            </Button>
-            <Button type="button" variant="outline" className="h-11" onClick={() => add("all")}>
-              Add all
+              Add to shopping list
             </Button>
             <Button variant="ghost" className="h-11" render={<Link href="/basket/" />}>
-              Open basket
+              Open shopping list
             </Button>
           </div>
           {notice && (

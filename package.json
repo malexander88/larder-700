@@ -11,6 +11,7 @@
     "start": "next start -H 0.0.0.0 -p 3847",
     "lint": "eslint",
     "validate": "tsx scripts/validate.ts",
+    "test": "tsx --test lib/shopping-list.test.ts",
     "schema": "tsx scripts/generate-schema.ts",
     "image": "tsx scripts/optimize-image.ts"
   },
