@@ -2,7 +2,7 @@ import type { CapacitorConfig } from "@capacitor/cli"
 
 const config: CapacitorConfig = {
   appId: "app.larder700",
-  appName: "Larder 700",
+  appName: "Healthy Dinners",
   webDir: "out",
   android: {
     allowMixedContent: false,

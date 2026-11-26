@@ -56,7 +56,7 @@ export function BasketView() {
   async function shareList() {
     if (navigator.share) {
       try {
-        await navigator.share({ title: "Larder 700 shopping list", text })
+        await navigator.share({ title: "Healthy Dinners shopping list", text })
         return
       } catch {
         return
@@ -199,7 +199,7 @@ export function BasketView() {
         </section>
 
         <section className="rounded-2xl border border-border bg-card p-4">
-          <h2 className="font-serif text-xl">Also in Northern Ireland</h2>
+          <h2 className="font-serif text-xl">Also at Sainsbury’s and Asda</h2>
           <p className="mt-2 text-sm text-muted-foreground">{SAINSBURYS.note}</p>
           <Button type="button" variant="outline" className="mt-3 w-full" onClick={() => current && void openExternal(SAINSBURYS.searchUrl(current))}>
             This item on Sainsbury’s
@@ -208,7 +208,6 @@ export function BasketView() {
           <Button type="button" variant="outline" className="mt-3 w-full" onClick={() => current && void openExternal(ASDA.searchUrl(current))}>
             This item on Asda
           </Button>
-          <p className="mt-3 text-xs text-muted-foreground">Ocado does not deliver to Northern Ireland, so it isn’t offered here.</p>
         </section>
 
         <section className="rounded-2xl border border-border bg-card p-4">

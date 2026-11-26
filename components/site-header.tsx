@@ -20,11 +20,11 @@ export function SiteHeader() {
   return (
     <header className="sticky top-0 z-40 border-b border-border/80 bg-background/90 backdrop-blur-md">
       <div className="mx-auto flex h-16 max-w-6xl items-center gap-4 px-4">
-        <Link href="/" className="flex items-center gap-2 font-serif text-xl tracking-tight">
-          <span className="grid size-8 place-items-center rounded-lg bg-primary text-[11px] font-semibold text-primary-foreground">
+        <Link href="/" className="flex min-w-0 items-center gap-2 font-serif text-lg tracking-tight sm:text-xl">
+          <span className="grid size-8 shrink-0 place-items-center rounded-lg bg-primary text-[11px] font-semibold text-primary-foreground">
             700
           </span>
-          Larder
+          <span className="truncate">Healthy Dinners</span>
         </Link>
         <nav className="ml-auto flex items-center gap-1" aria-label="Primary">
           {links.map((link) => {

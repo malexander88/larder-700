@@ -142,8 +142,8 @@ export function RecipeBrowser({ catalog: seed }: { catalog: CatalogItem[] }) {
       }}
     >
       <div className="max-w-2xl">
-        <p className="text-sm font-medium text-primary">Northern Ireland kitchens · grams, ml and fan ovens</p>
-        <h1 className="mt-2 font-serif text-4xl tracking-tight sm:text-5xl">Dinners under 700 kcal</h1>
+        <p className="text-sm font-medium text-primary">Tasty dinners under 700 calories</p>
+        <h1 className="mt-2 font-serif text-4xl tracking-tight sm:text-5xl">Healthy Dinners</h1>
         <p className="mt-3 text-base text-muted-foreground">
           {catalog.length} suppers so far, each one added up from the ingredients on the page. Search, filter, then send the list to Tesco.
         </p>

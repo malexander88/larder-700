@@ -4,7 +4,7 @@ import { nutritionMethod } from "@/lib/foods"
 
 export const metadata: Metadata = {
   title: "How we count",
-  description: "How Larder 700 calculates calories and how the Tesco shopping list works.",
+  description: "How Healthy Dinners calculates calories and how the Tesco shopping list works.",
 }
 
 export default function AboutPage() {
@@ -20,10 +20,10 @@ export default function AboutPage() {
       </p>
       <h2 className="font-serif text-2xl">Shops</h2>
       <p>
-        Tesco groceries delivers across Northern Ireland, and Sainsbury’s delivers from selected stores here. Asda has Northern Ireland stores, with delivery depending on your postcode. Ocado does not deliver to Northern Ireland, so the basket does not link there.
+        Tesco is the main shop. Sainsbury’s and Asda are there for the same ingredients if you prefer them.
       </p>
       <p>
-        None of these shops offers a public “add this list to my basket” API. Larder 700 opens a search for each ingredient so you choose the product, the size and the price. A bookmarklet can walk those searches while you are on tesco.com. It does not press Add, and it never checks out. Doing that automatically would pick the wrong product and sits badly with Tesco’s terms.
+        None of these shops offers a public “add this list to my basket” API. Healthy Dinners opens a search for each ingredient so you choose the product, the size and the price. A bookmarklet can walk those searches while you are on tesco.com. It does not press Add, and it never checks out. Doing that automatically would pick the wrong product and sits badly with Tesco’s terms.
       </p>
       <p>Quantities use the weight you would buy. A teaspoon of oil is shown as a spoon measure, and the grams behind it are what the calories use.</p>
     </article>

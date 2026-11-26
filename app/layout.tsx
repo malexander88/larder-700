@@ -17,12 +17,15 @@ const fraunces = Fraunces({
 })
 
 export const metadata: Metadata = {
+  applicationName: "Healthy Dinners",
   title: {
-    default: "Larder 700",
-    template: "%s · Larder 700",
+    default: "Healthy Dinners",
+    template: "%s · Healthy Dinners",
   },
-  description:
-    "Healthy dinners for Northern Ireland kitchens. UK measures, supermarket ingredients, every plate under 700 kcal.",
+  description: "Tasty dinners under 700 calories. UK measures, supermarket ingredients, every plate under 700 kcal.",
+  appleWebApp: {
+    title: "Healthy Dinners",
+  },
 }
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

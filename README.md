@@ -1,6 +1,6 @@
-# Larder 700
+# Healthy Dinners
 
-Healthy dinners for Northern Ireland kitchens. Every recipe is under 700 kcal a serving, measured in grams, millilitres and fan-oven degrees, with the ingredient names you would type into Tesco.
+Tasty dinners under 700 calories. Every recipe is under 700 kcal a serving, measured in grams, millilitres and fan-oven degrees, with the ingredient names you would type into Tesco. The GitHub repository and the Pages path stay `larder-700`.
 
 The library is one JSON file per recipe, so a daily job can add dinners without touching the UI. The home page filters that list in the browser, including once it grows past 500.
 
@@ -42,9 +42,9 @@ Tesco does not offer a public basket API. The practical method is a search URL p
 
 `https://www.tesco.com/groceries/en-GB/search?query=skinless+chicken+breast+fillets`
 
-That old path currently redirects to `/shop/en-GB/search`, and it still opens the UK groceries search, which is the site Northern Ireland deliveries use. You pick the product, size and price. The basket page can open the current item, step to the next, or try to open every search (browsers often block the burst).
+That old path currently redirects to `/shop/en-GB/search`, and it still opens the groceries search. You pick the product, size and price. The basket page can open the current item, step to the next, or try to open every search (browsers often block the burst).
 
-Sainsbury’s delivers from selected Northern Ireland stores (`/gol-ui/SearchResults/…`). Asda has stores in Northern Ireland; delivery depends on the postcode (`/groceries/search/…`). Ocado does not deliver to Northern Ireland, so it is not linked.
+Sainsbury’s (`/gol-ui/SearchResults/…`) and Asda (`/groceries/search/…`) are linked for the same ingredients. Delivery depends on the postcode.
 
 A bookmarklet, “Next Tesco item”, can be dragged to the bookmarks bar. On tesco.com it fills the next search and shows which item you are on. It does not press Add and it does not check out.
 
