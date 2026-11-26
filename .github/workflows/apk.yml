@@ -53,6 +53,6 @@ jobs:
           prerelease: true
           make_latest: false
           body: |
-            Debug APK for Healthy Dinners. New dinners arrive from the website without installing a new APK.
+            Debug APK for Low Cal Dinners. New dinners arrive from the website without installing a new APK.
             Uninstall is not required for recipe updates. Install a new APK only when this release changes.
           files: android/app/build/outputs/apk/debug/app-debug.apk

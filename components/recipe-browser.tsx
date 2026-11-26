@@ -2,12 +2,12 @@
 
 import { useEffect, useMemo, useRef, useState } from "react"
 import Link from "next/link"
-import { SlidersHorizontal } from "lucide-react"
-import { Badge } from "@/components/ui/badge"
+import { SlidersHorizontal, UtensilsCrossed } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Slider } from "@/components/ui/slider"
+import { Sheet, SheetContent, SheetHeader, SheetTitle } from "@/components/ui/sheet"
 import {
   CUISINES,
   DIETARY_LABELS,
@@ -50,20 +50,22 @@ function readFilters(): Filters {
   }
 }
 
-export function RecipeBrowser({ catalog: seed }: { catalog: CatalogItem[] }) {
+export function RecipeBrowser({ catalog: seed, focusSearch = false }: { catalog: CatalogItem[]; focusSearch?: boolean }) {
   const library = useLibrary()
   const catalog = library.catalog ?? seed
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS)
   const [pull, setPull] = useState(0)
   const [hydrated, setHydrated] = useState(false)
   const [visible, setVisible] = useState(PAGE)
-  const dialogRef = useRef<HTMLDialogElement>(null)
+  const [filtersOpen, setFiltersOpen] = useState(false)
   const sentinelRef = useRef<HTMLDivElement>(null)
+  const searchRef = useRef<HTMLInputElement>(null)
 
   useEffect(() => {
     setFilters(readFilters())
     setHydrated(true)
-  }, [])
+    if (focusSearch) searchRef.current?.focus()
+  }, [focusSearch])
 
   useEffect(() => {
     if (!hydrated) return
@@ -108,14 +110,6 @@ export function RecipeBrowser({ catalog: seed }: { catalog: CatalogItem[] }) {
     filters.dietary.length +
     (filters.calorieMin > 0 || filters.calorieMax < 700 ? 1 : 0)
 
-  function openFilters() {
-    dialogRef.current?.showModal()
-  }
-
-  function closeFilters() {
-    dialogRef.current?.close()
-  }
-
   const fields = (
     <FilterFields
       filters={filters}
@@ -124,9 +118,12 @@ export function RecipeBrowser({ catalog: seed }: { catalog: CatalogItem[] }) {
     />
   )
 
+  const featured = activeCount === 0 && !filters.query ? results[0] : undefined
+  const grid = featured ? shown.filter((recipe) => recipe.slug !== featured.slug) : shown
+
   return (
     <div
-      className="mx-auto max-w-6xl px-4 py-8"
+      className="mx-auto max-w-6xl pb-8"
       onTouchStart={(event) => {
         if (!library.native || window.scrollY > 0) return
         event.currentTarget.dataset.pullStart = String(event.touches[0]?.clientY ?? 0)
@@ -141,11 +138,11 @@ export function RecipeBrowser({ catalog: seed }: { catalog: CatalogItem[] }) {
         setPull(0)
       }}
     >
-      <div className="max-w-2xl">
-        <p className="text-sm font-medium text-primary">Tasty dinners under 700 calories</p>
-        <h1 className="mt-2 font-serif text-4xl tracking-tight sm:text-5xl">Healthy Dinners</h1>
-        <p className="mt-3 text-base text-muted-foreground">
-          {catalog.length} suppers so far, each one added up from the ingredients on the page. Search, filter, then add a dinner to your shopping list.
+      <div className="px-5 pt-6 md:px-6">
+        <p className="text-xs font-medium tracking-[0.18em] text-primary uppercase">Tasty dinners under 700 calories</p>
+        <h1 className="mt-2 font-serif text-4xl tracking-tight sm:text-5xl">{focusSearch ? "Search" : "Tonight"}</h1>
+        <p className="mt-3 max-w-xl text-base leading-7 text-muted-foreground">
+          {catalog.length} measured suppers. Pick one, scale the servings, and send the ingredients to your list.
         </p>
         {library.native && (
           <p className="mt-2 text-sm text-primary" aria-live="polite">
@@ -154,59 +151,96 @@ export function RecipeBrowser({ catalog: seed }: { catalog: CatalogItem[] }) {
         )}
       </div>
 
-      <div className="mt-6 flex flex-col gap-3 sm:flex-row sm:items-end">
-        <div className="flex-1">
-          <Label htmlFor="recipe-search">Search by name or ingredient</Label>
+      <div className="mt-5 flex gap-2 overflow-x-auto px-5 pb-1 md:px-6" aria-label="Cuisines">
+        <button
+          type="button"
+          className={cn(
+            "shrink-0 rounded-full px-3.5 py-2 text-sm transition",
+            filters.cuisines.length === 0 ? "bg-primary text-primary-foreground" : "bg-secondary text-foreground",
+          )}
+          onClick={() => setFilters({ ...filters, cuisines: [] })}
+        >
+          All
+        </button>
+        {CUISINES.map((cuisine) => {
+          const on = filters.cuisines.includes(cuisine)
+          return (
+            <button
+              key={cuisine}
+              type="button"
+              aria-pressed={on}
+              className={cn(
+                "shrink-0 rounded-full px-3.5 py-2 text-sm transition",
+                on ? "bg-primary text-primary-foreground" : "bg-secondary text-foreground",
+              )}
+              onClick={() => setFilters({ ...filters, cuisines: on ? [] : [cuisine] })}
+            >
+              {cuisine}
+            </button>
+          )
+        })}
+      </div>
+
+      <div className="mt-4 flex items-end gap-2 px-5 md:px-6">
+        <div className="min-w-0 flex-1">
+          <Label htmlFor="recipe-search" className="sr-only">
+            Search by name or ingredient
+          </Label>
           <Input
+            ref={searchRef}
             id="recipe-search"
             value={filters.query}
             onChange={(event) => setFilters({ ...filters, query: event.target.value })}
-            placeholder="Try salmon, chickpea, pak choi…"
-            className="mt-1.5 h-11 bg-card"
+            placeholder="Salmon, chickpea, pak choi…"
+            className="h-12 rounded-full border-transparent bg-card px-5 shadow-sm"
           />
         </div>
-        <div className="sm:w-56">
-          <Label htmlFor="recipe-sort">Sort</Label>
-          <select
-            id="recipe-sort"
-            value={filters.sort}
-            onChange={(event) => setFilters({ ...filters, sort: event.target.value as SortKey })}
-            className="mt-1.5 h-11 w-full rounded-lg border border-input bg-card px-3 text-sm"
-          >
-            {SORTS.map((sort) => (
-              <option key={sort.id} value={sort.id}>
-                {sort.label}
-              </option>
-            ))}
-          </select>
-        </div>
-        <Button type="button" variant="outline" className="h-11 lg:hidden" onClick={openFilters}>
-          <SlidersHorizontal />
-          Filters{activeCount ? ` (${activeCount})` : ""}
+        <Button type="button" variant="outline" className="h-12 rounded-full px-4 lg:hidden" onClick={() => setFiltersOpen(true)}>
+          <SlidersHorizontal className="size-4" />
+          Filters{activeCount ? ` ${activeCount}` : ""}
         </Button>
       </div>
 
-      <p className="mt-4 text-sm text-muted-foreground" aria-live="polite">
+      {featured && (
+        <div className="mt-6 px-0 md:px-6">
+          <RecipeCard recipe={featured} native={library.native} featured />
+        </div>
+      )}
+
+      <p className="mt-6 px-5 text-sm text-muted-foreground md:px-6" aria-live="polite">
         {results.length} {results.length === 1 ? "dinner" : "dinners"}
         {filters.query ? ` matching “${filters.query}”` : ""}
       </p>
 
-      <div className="mt-4 grid gap-8 lg:grid-cols-[16rem_1fr]">
+      <div className="mt-4 grid gap-8 px-5 md:px-6 lg:grid-cols-[16rem_1fr]">
         <aside className="hidden lg:block">
-          <div className="sticky top-20 rounded-2xl border border-border bg-card p-4">{fields}</div>
+          <div className="sticky top-24 rounded-3xl bg-card p-5 shadow-sm">{fields}</div>
         </aside>
         <div>
-          {results.length === 0 ? (
-            <div className="rounded-2xl border border-dashed border-border bg-card px-6 py-16 text-center">
-              <h2 className="font-serif text-2xl">Nothing matches that</h2>
+          {!hydrated ? (
+            <ul className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+              {Array.from({ length: 6 }, (_, index) => (
+                <li key={index} className="animate-pulse overflow-hidden rounded-3xl bg-card shadow-sm">
+                  <div className="aspect-[4/5] bg-muted" />
+                  <div className="space-y-2 p-4">
+                    <div className="h-3 w-1/3 rounded-full bg-muted" />
+                    <div className="h-5 w-3/4 rounded-full bg-muted" />
+                  </div>
+                </li>
+              ))}
+            </ul>
+          ) : results.length === 0 ? (
+            <div className="rounded-3xl bg-card px-6 py-16 text-center shadow-sm">
+              <UtensilsCrossed className="mx-auto size-8 text-primary" />
+              <h2 className="mt-4 font-serif text-3xl">Nothing matches that</h2>
               <p className="mt-2 text-muted-foreground">Clear a filter or try a broader ingredient, like chicken or tomato.</p>
-              <Button type="button" className="mt-4 h-11" onClick={() => setFilters(DEFAULT_FILTERS)}>
+              <Button type="button" className="mt-5 h-11 rounded-full px-5" onClick={() => setFilters(DEFAULT_FILTERS)}>
                 Reset filters
               </Button>
             </div>
           ) : (
-            <ul className="grid gap-6 sm:grid-cols-2 xl:grid-cols-3">
-              {shown.map((recipe) => (
+            <ul className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+              {grid.map((recipe) => (
                 <li key={recipe.slug}>
                   <RecipeCard recipe={recipe} native={library.native} />
                 </li>
@@ -215,7 +249,7 @@ export function RecipeBrowser({ catalog: seed }: { catalog: CatalogItem[] }) {
           )}
           {shown.length < results.length && (
             <div className="mt-8 flex justify-center">
-              <Button type="button" variant="outline" className="h-11" onClick={() => setVisible((count) => count + PAGE)}>
+              <Button type="button" variant="outline" className="h-11 rounded-full px-5" onClick={() => setVisible((count) => count + PAGE)}>
                 Show more dinners
               </Button>
             </div>
@@ -224,20 +258,19 @@ export function RecipeBrowser({ catalog: seed }: { catalog: CatalogItem[] }) {
         </div>
       </div>
 
-      <dialog
-        ref={dialogRef}
-        className="m-0 h-full max-h-none w-[min(100%,24rem)] max-w-none rounded-none border-r border-border bg-background p-0 backdrop:bg-black/40"
-        onClose={() => undefined}
-        aria-label="Filters"
-      >
-        <div className="flex items-center justify-between border-b border-border px-4 py-3">
-          <h2 className="font-serif text-xl">Filters</h2>
-          <Button type="button" variant="ghost" onClick={closeFilters}>
-            Done
-          </Button>
-        </div>
-        <div className="p-4">{fields}</div>
-      </dialog>
+      <Sheet open={filtersOpen} onOpenChange={setFiltersOpen}>
+        <SheetContent side="bottom" className="max-h-[86vh] overflow-y-auto rounded-t-3xl px-2 pb-8">
+          <SheetHeader>
+            <SheetTitle className="font-serif text-2xl">Filters</SheetTitle>
+          </SheetHeader>
+          <div className="px-4">{fields}</div>
+          <div className="px-4 pt-2">
+            <Button type="button" className="h-12 w-full rounded-full" onClick={() => setFiltersOpen(false)}>
+              Show {results.length} dinners
+            </Button>
+          </div>
+        </SheetContent>
+      </Sheet>
     </div>
   )
 }
@@ -284,6 +317,21 @@ function FilterFields({
         selected={filters.dietary}
         onToggle={(id) => onChange({ ...filters, dietary: toggle(filters.dietary, id) })}
       />
+      <div>
+        <Label htmlFor="recipe-sort">Sort</Label>
+        <select
+          id="recipe-sort"
+          value={filters.sort}
+          onChange={(event) => onChange({ ...filters, sort: event.target.value as SortKey })}
+          className="mt-2 h-11 w-full rounded-full border border-input bg-background px-4 text-sm"
+        >
+          {SORTS.map((sort) => (
+            <option key={sort.id} value={sort.id}>
+              {sort.label}
+            </option>
+          ))}
+        </select>
+      </div>
       <div>
         <div className="mb-3 flex items-baseline justify-between">
           <Label>Calories per serving</Label>
@@ -334,8 +382,8 @@ function ChipGroup({
               aria-pressed={on}
               onClick={() => onToggle(option.id)}
               className={cn(
-                "rounded-full border px-2.5 py-1 text-xs font-medium",
-                on ? "border-primary bg-primary text-primary-foreground" : "border-border bg-background hover:bg-secondary",
+                "min-h-9 rounded-full px-3 py-1.5 text-sm transition",
+                on ? "bg-primary text-primary-foreground" : "bg-secondary text-foreground",
               )}
             >
               {option.label}
@@ -347,34 +395,30 @@ function ChipGroup({
   )
 }
 
-function RecipeCard({ recipe, native }: { recipe: CatalogItem; native: boolean }) {
+function RecipeCard({ recipe, native, featured = false }: { recipe: CatalogItem; native: boolean; featured?: boolean }) {
   const href = native ? `/recipe/view/?slug=${encodeURIComponent(recipe.slug)}` : `/recipe/${recipe.slug}/`
   return (
     <Link
       href={href}
-      className="group block h-full overflow-hidden rounded-2xl border border-border bg-card shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
+      className={cn(
+        "group relative block overflow-hidden bg-card shadow-[0_12px_40px_-24px_rgba(40,30,20,0.45)] transition duration-300 hover:-translate-y-0.5",
+        featured ? "md:rounded-3xl" : "rounded-3xl",
+      )}
     >
       <DishImage
         file={recipe.image.replace(/^.*\//, "")}
         alt={recipe.imageAlt}
-        className="aspect-[4/3] w-full object-cover"
+        priority={featured}
+        className={cn("w-full object-cover", featured ? "aspect-[4/5] sm:aspect-[16/9]" : "aspect-[4/5]")}
       />
-      <div className="space-y-2 p-4">
-        <div className="flex items-center justify-between gap-2 text-xs font-medium tracking-wide text-muted-foreground uppercase">
-          <span>{recipe.cuisine}</span>
-          <span className="text-foreground">{recipe.calories} kcal</span>
-        </div>
-        <h2 className="font-serif text-xl leading-tight group-hover:text-primary">{recipe.title}</h2>
-        <p className="line-clamp-2 text-sm text-muted-foreground">{recipe.summary}</p>
-        <div className="flex flex-wrap gap-1.5 pt-1">
-          <Badge variant="secondary">
-            {recipe.totalMinutes} min
-          </Badge>
-          <Badge variant="secondary">{recipe.proteinG} g protein</Badge>
-          {recipe.dietary.includes("vegan") && <Badge variant="outline">Vegan</Badge>}
-          {recipe.dietary.includes("vegetarian") && !recipe.dietary.includes("vegan") && (
-            <Badge variant="outline">Vegetarian</Badge>
-          )}
+      <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent" />
+      <div className={cn("absolute inset-x-0 bottom-0 text-white", featured ? "p-5 sm:p-8" : "p-4")}>
+        <p className="text-[11px] tracking-[0.16em] uppercase opacity-90">{recipe.cuisine}</p>
+        <h2 className={cn("mt-1 font-serif leading-tight", featured ? "text-3xl sm:text-5xl" : "text-2xl")}>{recipe.title}</h2>
+        <div className="mt-3 flex flex-wrap gap-1.5">
+          <span className="rounded-full bg-white/15 px-2.5 py-1 text-xs backdrop-blur-sm">{recipe.calories} kcal</span>
+          <span className="rounded-full bg-white/15 px-2.5 py-1 text-xs backdrop-blur-sm">{recipe.proteinG} g protein</span>
+          <span className="rounded-full bg-white/15 px-2.5 py-1 text-xs backdrop-blur-sm">{recipe.totalMinutes} min</span>
         </div>
       </div>
     </Link>

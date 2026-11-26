@@ -218,9 +218,14 @@ export function groupShoppingList(lines: ShoppingLine[]): { aisle: ShoppingLine[
   })).filter((group) => group.lines.length > 0)
 }
 
+export function linesToShare(lines: ShoppingLine[]): ShoppingLine[] {
+  const open = lines.filter((line) => !line.checked)
+  return open.length > 0 ? open : lines
+}
+
 export function shoppingListPlainText(lines: ShoppingLine[]): string {
   const groups = groupShoppingList(lines)
-  const parts = ["Healthy Dinners shopping list", ""]
+  const parts = ["Low Cal Dinners shopping list", ""]
   for (const group of groups) {
     parts.push(group.label)
     for (const line of group.lines) {

@@ -29,10 +29,6 @@ export function RecipeView({ recipe }: { recipe: Recipe }) {
   const per = roundNutrients(perServing(recipe, foods))
   const total = roundNutrients(scaleNutrients(perServing(recipe, foods), servings))
   const breakdown = useMemo(() => calorieBreakdown(recipe, foods, servings).slice(0, 6), [recipe, servings])
-  const timeline = recipe.steps.reduce<number[]>((marks, step) => {
-    marks.push((marks.at(-1) ?? 0) + step.minutes)
-    return marks
-  }, [])
 
   function add(which: "selected" | "all") {
     const additions = recipe.ingredients.flatMap((ingredient, index) => {
@@ -53,48 +49,53 @@ export function RecipeView({ recipe }: { recipe: Recipe }) {
     )
   }
 
+  const kcalShare = Math.min(100, Math.round((per.calories / 700) * 100))
+
   return (
-    <article className="mx-auto max-w-6xl px-4 py-8">
-      <p className="text-sm text-muted-foreground">
-        <Link href="/" className="hover:underline">
-          Dinners
-        </Link>{" "}
-        / {recipe.cuisine}
-      </p>
-      <div className="mt-4 grid gap-8 lg:grid-cols-[1.15fr_0.85fr]">
-        <div>
-          <DishImage
-            file={recipe.image.file}
-            alt={recipe.image.alt}
-            priority
-            className="aspect-[4/3] h-auto w-full rounded-3xl object-cover"
-          />
-          <p className="mt-2 text-xs text-muted-foreground">
-            Photo: {recipe.image.credit}. {recipe.image.license}.{" "}
-            <a href={recipe.image.sourceUrl} className="underline-offset-4 hover:underline">
-              Source
-            </a>
+    <article>
+      <header className="relative">
+        <DishImage
+          file={recipe.image.file}
+          alt={recipe.image.alt}
+          priority
+          className="aspect-[3/4] w-full object-cover sm:aspect-[16/9] lg:max-h-[36rem]"
+        />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/25 to-black/10" />
+        <div className="absolute inset-x-0 bottom-0 mx-auto max-w-6xl px-5 pb-6 text-white sm:px-8 sm:pb-10">
+          <p className="text-xs tracking-[0.18em] uppercase">
+            <Link href="/" className="hover:underline">
+              Dinners
+            </Link>{" "}
+            / {recipe.cuisine}
           </p>
-        </div>
-        <div>
-          <div className="flex flex-wrap gap-2">
-            <Badge>{recipe.cuisine}</Badge>
-            <Badge variant="secondary">{PROTEIN_LABELS[recipe.protein]}</Badge>
-            <Badge variant="outline">{recipe.difficulty}</Badge>
-            {recipe.dietary.map((tag) => (
-              <Badge key={tag} variant="outline">
-                {DIETARY_LABELS[tag as DietaryTag] ?? tag}
-              </Badge>
-            ))}
+          <h1 className="mt-2 max-w-3xl font-serif text-4xl leading-tight tracking-tight sm:text-6xl">{recipe.title}</h1>
+          <div className="mt-4 flex flex-wrap gap-2">
+            <span className="rounded-full bg-white/15 px-3 py-1 text-xs backdrop-blur-sm">{formatKcal(per.calories)}</span>
+            <span className="rounded-full bg-white/15 px-3 py-1 text-xs backdrop-blur-sm">{per.protein} g protein</span>
+            <span className="rounded-full bg-white/15 px-3 py-1 text-xs backdrop-blur-sm">
+              {formatMinutes(recipe.prepMinutes + recipe.cookMinutes)}
+            </span>
           </div>
-          <h1 className="mt-3 font-serif text-4xl tracking-tight">{recipe.title}</h1>
-          <p className="mt-3 text-muted-foreground">{recipe.summary}</p>
-          <dl className="mt-5 grid grid-cols-3 gap-3 text-sm">
-            <Stat label="Prep" value={formatMinutes(recipe.prepMinutes)} />
-            <Stat label="Cook" value={formatMinutes(recipe.cookMinutes)} />
-            <Stat label="Total" value={formatMinutes(recipe.prepMinutes + recipe.cookMinutes)} />
-          </dl>
-          <div className="mt-5 flex items-center gap-3">
+        </div>
+      </header>
+      <div className="mx-auto max-w-6xl px-5 py-8 sm:px-8">
+        <p className="max-w-2xl text-lg leading-8 text-muted-foreground">{recipe.summary}</p>
+        <p className="mt-2 text-xs text-muted-foreground">
+          Photo: {recipe.image.credit}. {recipe.image.license}.{" "}
+          <a href={recipe.image.sourceUrl} className="underline-offset-4 hover:underline">
+            Source
+          </a>
+        </p>
+        <div className="mt-5 flex flex-wrap gap-2">
+          <Badge>{PROTEIN_LABELS[recipe.protein]}</Badge>
+          <Badge variant="secondary">{recipe.difficulty}</Badge>
+          {recipe.dietary.map((tag) => (
+            <Badge key={tag} variant="outline">
+              {DIETARY_LABELS[tag as DietaryTag] ?? tag}
+            </Badge>
+          ))}
+        </div>
+        <div className="mt-6 flex items-center gap-3">
             <span className="text-sm font-medium" id="servings-label">
               Servings
             </span>
@@ -119,18 +120,16 @@ export function RecipeView({ recipe }: { recipe: Recipe }) {
                 <Plus className="size-4" />
               </button>
             </div>
-            <span className="text-sm text-muted-foreground">Recipe written for {base}</span>
+            <span className="text-sm text-muted-foreground">Written for {base}</span>
           </div>
-        </div>
-      </div>
 
-      <div className="mt-10 grid gap-10 lg:grid-cols-[0.9fr_1.1fr]">
+      <div className="mt-10 grid gap-12 lg:grid-cols-[0.9fr_1.1fr]">
         <section>
           <div className="flex items-end justify-between gap-3">
             <h2 className="font-serif text-2xl">Ingredients</h2>
             <p className="text-sm text-muted-foreground">Scaled to {servings}</p>
           </div>
-          <ul className="mt-4 divide-y divide-border rounded-2xl border border-border bg-card">
+          <ul className="mt-4 divide-y divide-border overflow-hidden rounded-3xl bg-card shadow-[0_12px_40px_-28px_rgba(40,30,20,0.5)]">
             {recipe.ingredients.map((ingredient, index) => {
               const food = foods[ingredient.nutritionId]
               const grams = ingredient.grams * scale
@@ -155,11 +154,11 @@ export function RecipeView({ recipe }: { recipe: Recipe }) {
             })}
           </ul>
           <div className="mt-4 flex flex-wrap gap-2">
-            <Button type="button" className="h-11" onClick={() => add("selected")}>
+            <Button type="button" className="h-12 rounded-full px-5" onClick={() => add("selected")}>
               Add to shopping list
             </Button>
-            <Button variant="ghost" className="h-11" render={<Link href="/basket/" />}>
-              Open shopping list
+            <Button variant="ghost" className="h-12 rounded-full" render={<Link href="/basket/" />}>
+              Open list
             </Button>
           </div>
           {notice && (
@@ -185,39 +184,49 @@ export function RecipeView({ recipe }: { recipe: Recipe }) {
           <p className="mt-1 text-sm text-muted-foreground">
             Timeline total {formatMinutes(recipe.prepMinutes + recipe.cookMinutes)}. Oven temperatures are fan.
           </p>
-          <ol className="mt-4 space-y-4">
-            {recipe.steps.map((step, index) => {
-              const start = index === 0 ? 0 : timeline[index - 1]
-              return (
-                <li key={index} className="grid grid-cols-[4.5rem_1fr] gap-3">
-                  <div className="text-sm">
-                    <p className="font-semibold text-primary">{step.minutes} min</p>
-                    <p className="text-muted-foreground">
-                      {start}–{timeline[index]}
-                    </p>
-                  </div>
-                  <div className="rounded-2xl border border-border bg-card p-4">
-                    <p className="text-sm leading-6">{step.instruction}</p>
+          <ol className="mt-5 space-y-5">
+            {recipe.steps.map((step, index) => (
+              <li key={index} className="grid grid-cols-[2.5rem_1fr] gap-3">
+                <span className="grid size-10 place-items-center rounded-full bg-primary font-serif text-primary-foreground">
+                  {index + 1}
+                </span>
+                <div className="rounded-3xl bg-card p-4 shadow-[0_10px_30px_-24px_rgba(40,30,20,0.6)]">
+                  <div className="mb-2 flex flex-wrap gap-1.5">
+                    <span className="rounded-full bg-secondary px-2.5 py-1 text-xs">{step.minutes} min</span>
                     {step.temperatureC && (
-                      <p className="mt-2 text-sm font-medium">Fan oven {step.temperatureC}°C</p>
+                      <span className="rounded-full bg-secondary px-2.5 py-1 text-xs">Fan {step.temperatureC}°C</span>
                     )}
-                    {step.heat && <p className="mt-2 text-sm font-medium capitalize">{step.heat}</p>}
-                    {step.tip && <p className="mt-2 text-sm text-muted-foreground">Tip: {step.tip}</p>}
+                    {step.heat && <span className="rounded-full bg-secondary px-2.5 py-1 text-xs capitalize">{step.heat}</span>}
                   </div>
-                </li>
-              )
-            })}
+                  <p className="text-[15px] leading-7">{step.instruction}</p>
+                  {step.tip && <p className="mt-2 text-sm leading-6 text-muted-foreground">Tip: {step.tip}</p>}
+                </div>
+              </li>
+            ))}
           </ol>
         </section>
       </div>
 
-      <section className="mt-12 rounded-3xl border border-border bg-card p-5 sm:p-6">
-        <h2 className="font-serif text-2xl">Computed nutrition</h2>
-        <p className="mt-1 max-w-2xl text-sm text-muted-foreground">
-          Added up from the per-100 g values on each ingredient, then divided by {base} servings. Scaling the recipe changes the pot, not the per-serving figures. The stored check figure is {recipe.statedPerServing.calories} kcal.
-        </p>
-        <dl className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-5">
-          <Stat label="Per serving" value={formatKcal(per.calories)} />
+      <section className="mt-12 rounded-3xl bg-card p-5 shadow-[0_12px_40px_-28px_rgba(40,30,20,0.5)] sm:p-6">
+        <div className="flex items-center gap-5">
+          <div
+            className="grid size-28 shrink-0 place-items-center rounded-full"
+            style={{ background: `conic-gradient(var(--primary) ${kcalShare * 3.6}deg, var(--muted) 0)` }}
+            aria-hidden
+          >
+            <div className="grid size-[5.6rem] place-items-center rounded-full bg-card text-center">
+              <span>
+                <span className="block font-serif text-2xl leading-none">{Math.round(per.calories)}</span>
+                <span className="text-[10px] tracking-wide text-muted-foreground uppercase">kcal</span>
+              </span>
+            </div>
+          </div>
+          <div>
+            <h2 className="font-serif text-2xl">Per serving</h2>
+            <p className="mt-1 text-sm text-muted-foreground">{kcalShare}% of the 700 kcal ceiling.</p>
+          </div>
+        </div>
+        <dl className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-4">
           <Stat label="Protein" value={`${per.protein} g`} />
           <Stat label="Carbs" value={`${per.carbs} g`} />
           <Stat label="Fat" value={`${per.fat} g`} />
@@ -241,6 +250,7 @@ export function RecipeView({ recipe }: { recipe: Recipe }) {
           ))}
         </ul>
       </section>
+      </div>
     </article>
   )
 }

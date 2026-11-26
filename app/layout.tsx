@@ -1,12 +1,13 @@
 import type { Metadata } from "next"
-import { Fraunces, Outfit } from "next/font/google"
+import { Fraunces, Source_Sans_3 } from "next/font/google"
+import { MobileTabs } from "@/components/mobile-tabs"
 import { ExternalLinks } from "@/components/external-links"
 import { LibraryProvider } from "@/components/library-provider"
 import { SiteFooter } from "@/components/site-footer"
 import { SiteHeader } from "@/components/site-header"
 import "./globals.css"
 
-const outfit = Outfit({
+const sourceSans = Source_Sans_3({
   subsets: ["latin"],
   variable: "--font-outfit",
 })
@@ -17,20 +18,20 @@ const fraunces = Fraunces({
 })
 
 export const metadata: Metadata = {
-  applicationName: "Healthy Dinners",
+  applicationName: "Low Cal Dinners",
   title: {
-    default: "Healthy Dinners",
-    template: "%s · Healthy Dinners",
+    default: "Low Cal Dinners",
+    template: "%s · Low Cal Dinners",
   },
   description: "Tasty dinners under 700 calories. UK measures, supermarket ingredients, every plate under 700 kcal.",
   appleWebApp: {
-    title: "Healthy Dinners",
+    title: "Low Cal Dinners",
   },
 }
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en-GB" className={`${outfit.variable} ${fraunces.variable}`}>
+    <html lang="en-GB" className={`${sourceSans.variable} ${fraunces.variable}`}>
       <body className="min-h-screen bg-background text-foreground antialiased">
         <a
           href="#content"
@@ -41,8 +42,9 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         <LibraryProvider>
           <ExternalLinks />
           <SiteHeader />
-          <main id="content">{children}</main>
+          <main id="content" className="pb-24 md:pb-0">{children}</main>
           <SiteFooter />
+          <MobileTabs />
         </LibraryProvider>
       </body>
     </html>

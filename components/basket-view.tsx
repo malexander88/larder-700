@@ -5,14 +5,15 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Checkbox } from "@/components/ui/checkbox"
 import { useShoppingList } from "@/components/use-basket"
-import { formatQuantityList, groupShoppingList, shoppingListPlainText, type ShoppingLine } from "@/lib/shopping-list"
+import { sharePlainText } from "@/lib/share-list"
+import { formatQuantityList, groupShoppingList, linesToShare, shoppingListPlainText, type ShoppingLine } from "@/lib/shopping-list"
 
 export function ShoppingListView() {
   const { lines, ready, replace } = useShoppingList()
   const [notice, setNotice] = useState("")
   const groups = useMemo(() => groupShoppingList(lines), [lines])
   const remaining = lines.filter((line) => !line.checked)
-  const text = shoppingListPlainText(lines)
+  const text = shoppingListPlainText(linesToShare(lines))
 
   function update(key: string, patch: Partial<ShoppingLine>) {
     replace(lines.map((line) => (line.key === key ? { ...line, ...patch } : line)))
@@ -28,15 +29,12 @@ export function ShoppingListView() {
   }
 
   async function shareList() {
-    if (navigator.share) {
-      try {
-        await navigator.share({ title: "Healthy Dinners shopping list", text })
-        return
-      } catch {
-        return
-      }
+    try {
+      const result = await sharePlainText("Low Cal Dinners shopping list", text)
+      if (result === "copied") setNotice("Shopping list copied.")
+    } catch {
+      setNotice("Couldn’t share. Select the list below and copy it yourself.")
     }
-    await copyList()
   }
 
   if (!ready) {
@@ -46,7 +44,7 @@ export function ShoppingListView() {
   if (lines.length === 0) {
     return (
       <div className="mx-auto max-w-xl px-4 py-20 text-center">
-        <h1 className="font-serif text-4xl">Your shopping list is empty</h1>
+        <h1 className="font-serif text-4xl">Nothing on the list yet</h1>
         <p className="mt-3 text-muted-foreground">Open a dinner and add its ingredients. They stay on this phone until you clear them.</p>
         <Button className="mt-6 h-11" render={<Link href="/" />}>
           Browse dinners
@@ -56,19 +54,20 @@ export function ShoppingListView() {
   }
 
   return (
-    <div className="mx-auto max-w-3xl px-4 py-8">
-      <h1 className="font-serif text-4xl">Shopping list</h1>
+    <div className="mx-auto max-w-3xl px-5 py-8">
+      <p className="text-xs tracking-[0.18em] text-primary uppercase">For the shop</p>
+      <h1 className="mt-2 font-serif text-4xl">Shopping list</h1>
       <p className="mt-2 text-muted-foreground" aria-live="polite">
         {remaining.length} still to buy · {lines.length - remaining.length} ticked off. The same ingredient from two recipes is one line.
       </p>
       <div className="mt-4 flex flex-wrap gap-2">
-        <Button type="button" onClick={copyList}>
-          Copy list
-        </Button>
-        <Button type="button" variant="outline" onClick={() => void shareList()}>
+        <Button type="button" className="h-11 rounded-full px-5" onClick={() => void shareList()}>
           Share
         </Button>
-        <Button type="button" variant="outline" onClick={() => replace([])}>
+        <Button type="button" variant="outline" className="h-11 rounded-full px-5" onClick={copyList}>
+          Copy
+        </Button>
+        <Button type="button" variant="outline" className="h-11 rounded-full px-5" onClick={() => replace([])}>
           Clear list
         </Button>
       </div>
@@ -81,7 +80,7 @@ export function ShoppingListView() {
         {groups.map((group) => (
           <section key={group.aisle}>
             <h2 className="font-serif text-2xl">{group.label}</h2>
-            <ul className="mt-3 divide-y divide-border rounded-2xl border border-border bg-card">
+            <ul className="mt-3 divide-y divide-border overflow-hidden rounded-3xl bg-card shadow-[0_12px_40px_-28px_rgba(40,30,20,0.5)]">
               {group.lines.map((line) => (
                 <li key={line.key} className="flex items-start gap-3 px-3 py-3">
                   <Checkbox

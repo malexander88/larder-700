@@ -1,4 +1,4 @@
-# Healthy Dinners
+# Low Cal Dinners
 
 Tasty dinners under 700 calories. Every recipe is under 700 kcal a serving, measured in grams, millilitres and fan-oven degrees. The GitHub repository and the Pages path stay `larder-700`.
 

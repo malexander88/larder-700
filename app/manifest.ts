@@ -4,12 +4,12 @@ export const dynamic = "force-static"
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Healthy Dinners",
-    short_name: "Healthy Dinners",
+    name: "Low Cal Dinners",
+    short_name: "Low Cal Dinners",
     description: "Tasty dinners under 700 calories",
     start_url: "/",
     display: "standalone",
-    background_color: "#f6f3ea",
-    theme_color: "#1f6b45",
+    background_color: "#f6f1e7",
+    theme_color: "#1c3d32",
   }
 }

@@ -4,7 +4,7 @@ import { nutritionMethod } from "@/lib/foods"
 
 export const metadata: Metadata = {
   title: "How we count",
-  description: "How Healthy Dinners calculates calories and how the shopping list works.",
+  description: "How Low Cal Dinners calculates calories and how the shopping list works.",
 }
 
 export default function AboutPage() {
