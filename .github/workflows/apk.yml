@@ -29,13 +29,15 @@ jobs:
           distribution: temurin
           java-version: 21
       - uses: android-actions/setup-android@v3
-      - name: Install Android SDK packages
-        run: sdkmanager "platforms;android-36" "build-tools;35.0.0"
+        with:
+          # cmdline-tools 16 dropped the obsolete "tools" package. The action
+          # default (`tools platform-tools`) makes sdkmanager exit 1.
+          packages: platform-tools platforms;android-36 build-tools;35.0.0
       - run: npm ci
       - run: npm run build
       - run: npx cap sync android
       - name: Point Gradle at the SDK
-        run: echo "sdk.dir=$ANDROID_SDK_ROOT" > android/local.properties
+        run: echo "sdk.dir=${ANDROID_SDK_ROOT:-$ANDROID_HOME}" > android/local.properties
       - run: chmod +x android/gradlew && android/gradlew -p android assembleDebug
       - uses: actions/upload-artifact@v4
         with:
