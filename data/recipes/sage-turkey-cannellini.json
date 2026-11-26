@@ -1,0 +1,102 @@
+{
+  "slug": "sage-turkey-cannellini",
+  "title": "Sage turkey with cannellini",
+  "summary": "Sage turkey with cannellini is a italian dinner built around turkey breast steaks and canned cannellini beans, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "turkey",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-breast",
+      "grams": 427,
+      "prepNote": "cut into strips"
+    },
+    {
+      "nutritionId": "cannellini-canned",
+      "grams": 240,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "sage",
+      "grams": 4
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 70,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat turkey breast steaks dry and season it. Prep canned cannellini beans and fresh sage for Sage turkey with cannellini so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook turkey breast steaks on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook canned cannellini beans and fresh sage in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Sage turkey with cannellini before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice turkey breast steaks and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "sage-turkey-cannellini.webp",
+    "alt": "Sage turkey with cannellini",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 439,
+    "protein": 61.6,
+    "carbs": 21.4,
+    "fat": 11.9,
+    "fibre": 8.1
+  }
+}

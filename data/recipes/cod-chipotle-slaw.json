@@ -1,0 +1,109 @@
+{
+  "slug": "cod-chipotle-slaw",
+  "title": "Chipotle cod with cabbage slaw",
+  "summary": "Chipotle cod with cabbage slaw is a mexican dinner built around cod fillets and red cabbage, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mexican",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "cod-raw",
+      "grams": 520,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "red-cabbage",
+      "grams": 180,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 60,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chipotle-paste",
+      "grams": 12
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat cod fillets dry and season it. Prep red cabbage and carrots for Chipotle cod with cabbage slaw so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook cod fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook red cabbage and carrots in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Chipotle cod with cabbage slaw before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice cod fillets and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "cod-chipotle-slaw.webp",
+    "alt": "Chipotle cod with cabbage slaw",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 454,
+    "protein": 51.4,
+    "carbs": 36.7,
+    "fat": 11.4,
+    "fibre": 3.3
+  }
+}

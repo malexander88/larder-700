@@ -1,0 +1,121 @@
+{
+  "slug": "tarka-dal-cauliflower",
+  "title": "Tarka dal with roasted cauliflower",
+  "summary": "Tarka dal with roasted cauliflower is a indian dinner built around dried red lentils and cauliflower, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Indian",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "red-lentils-dry",
+      "grams": 160,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "cauliflower",
+      "grams": 250,
+      "prepNote": "cut into florets"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "mustard-seeds",
+      "grams": 2
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 150
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Tarka dal with roasted cauliflower into even pieces and toss cauliflower with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of cauliflower while you season dried red lentils. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle dried red lentils and onions among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Tarka dal with roasted cauliflower before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Tarka dal with roasted cauliflower into warm bowls with the juices."
+    }
+  ],
+  "image": {
+    "file": "tarka-dal-cauliflower.webp",
+    "alt": "Tarka dal with roasted cauliflower",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 430,
+    "protein": 25.1,
+    "carbs": 57.2,
+    "fat": 11.2,
+    "fibre": 12.4
+  }
+}

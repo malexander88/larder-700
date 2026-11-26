@@ -1,0 +1,109 @@
+{
+  "slug": "turkey-lettuce-cups-ginger",
+  "title": "Ginger turkey lettuce cups",
+  "summary": "Ginger turkey lettuce cups is a chinese dinner built around turkey breast mince and little gem lettuce, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Chinese",
+  "protein": "turkey",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 520,
+      "prepNote": "broken up"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 160,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "watercress",
+      "grams": 40
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 5
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice turkey breast mince and little gem lettuce before the pan is hot. Ginger turkey lettuce cups is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry turkey breast mince until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add little gem lettuce and watercress, return turkey breast mince, and toss with the sauce for a minute. Taste Ginger turkey lettuce cups before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "turkey-lettuce-cups-ginger.webp",
+    "alt": "Ginger turkey lettuce cups",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 539,
+    "protein": 66.8,
+    "carbs": 32.1,
+    "fat": 15.8,
+    "fibre": 2.4
+  }
+}

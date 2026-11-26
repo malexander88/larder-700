@@ -1,0 +1,105 @@
+{
+  "slug": "chicken-parsnip-tray",
+  "title": "Chicken and parsnip tray bake",
+  "summary": "Chicken and parsnip tray bake is a british dinner built around skinless chicken thigh fillets and parsnips, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-thigh-raw",
+      "grams": 403,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "parsnip",
+      "grams": 200,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "mixed-herbs",
+      "grams": 2
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Chicken and parsnip tray bake into even pieces and toss parsnips with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of parsnips while you season skinless chicken thigh fillets. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle skinless chicken thigh fillets and red onions among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Chicken and parsnip tray bake before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Chicken and parsnip tray bake into warm bowls with the juices."
+    }
+  ],
+  "image": {
+    "file": "chicken-parsnip-tray.webp",
+    "alt": "Chicken and parsnip tray bake",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 451,
+    "protein": 42.6,
+    "carbs": 21.6,
+    "fat": 21.5,
+    "fibre": 6.1
+  }
+}

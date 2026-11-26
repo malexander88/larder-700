@@ -1,0 +1,116 @@
+{
+  "slug": "chicken-saag-spinach",
+  "title": "Chicken saag with spinach",
+  "summary": "Chicken saag with spinach is a indian dinner built around skinless chicken thigh fillets and baby spinach, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Indian",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-thigh-raw",
+      "grams": 427,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 200,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garam-masala",
+      "grams": 3
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 40
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Chicken saag with spinach. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add skinless chicken thigh fillets and cook until it loses its raw look. Pour in the tomatoes or coconut and baby spinach."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until onions is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Chicken saag with spinach before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Chicken saag with spinach."
+    }
+  ],
+  "image": {
+    "file": "chicken-saag-spinach.webp",
+    "alt": "Chicken saag with spinach",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 444,
+    "protein": 49.1,
+    "carbs": 10.7,
+    "fat": 22.8,
+    "fibre": 3.7
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "pork-pineapple-tacos",
+  "title": "Pork and pineapple lettuce tacos",
+  "summary": "Pork and pineapple lettuce tacos is a mexican dinner built around lean pork mince 5% fat and pineapple, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mexican",
+  "protein": "pork",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-mince-5",
+      "grams": 503,
+      "prepNote": "broken up"
+    },
+    {
+      "nutritionId": "pineapple",
+      "grams": 100,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 140,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 40,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice lean pork mince 5% fat and pineapple before the pan is hot. Pork and pineapple lettuce tacos is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry lean pork mince 5% fat until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add pineapple and little gem lettuce, return lean pork mince 5% fat, and toss with the sauce for a minute. Taste Pork and pineapple lettuce tacos before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "pork-pineapple-tacos.webp",
+    "alt": "Pork and pineapple lettuce tacos",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 456,
+    "protein": 54.6,
+    "carbs": 9.8,
+    "fat": 22,
+    "fibre": 2.3
+  }
+}

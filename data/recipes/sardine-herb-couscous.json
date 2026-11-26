@@ -1,0 +1,100 @@
+{
+  "slug": "sardine-herb-couscous",
+  "title": "Sardine herb couscous",
+  "summary": "Sardine herb couscous is a middle eastern dinner built around sardines in spring water and couscous, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "fish",
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "sardines",
+      "grams": 220,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "couscous-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 10
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 120,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 160
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook sardines in spring water for Sardine herb couscous in a lightly oiled pan until just done, and cook or warm fresh flat-leaf parsley alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss couscous with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Sardine herb couscous straight away. Taste Sardine herb couscous before serving and add a squeeze of lemon if it wants brightness.  Serve with the couscous, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "sardine-herb-couscous.webp",
+    "alt": "Sardine herb couscous",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 430,
+    "protein": 34.3,
+    "carbs": 37.3,
+    "fat": 16,
+    "fibre": 3.4
+  }
+}

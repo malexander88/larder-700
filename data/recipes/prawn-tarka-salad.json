@@ -1,0 +1,109 @@
+{
+  "slug": "prawn-tarka-salad",
+  "title": "Prawn tarka salad bowl",
+  "summary": "Prawn tarka salad bowl is a indian dinner built around raw king prawns and cucumber, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Indian",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 520,
+      "prepNote": "peeled"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 150,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 140,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 40,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 60
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 8
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 116
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook raw king prawns for Prawn tarka salad bowl in a lightly oiled pan until just done, and cook or warm cherry tomatoes alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss cucumber with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Prawn tarka salad bowl straight away. Taste Prawn tarka salad bowl before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "prawn-tarka-salad.webp",
+    "alt": "Prawn tarka salad bowl",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 454,
+    "protein": 53.4,
+    "carbs": 55,
+    "fat": 2.4,
+    "fibre": 2.4
+  }
+}

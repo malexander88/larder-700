@@ -1,0 +1,100 @@
+{
+  "slug": "sardine-greens-rice",
+  "title": "Sardine and greens rice",
+  "summary": "Sardine and greens rice is a japanese dinner built around sardines in spring water and basmati rice, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "sardines",
+      "grams": 220,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 94
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 100,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat sardines in spring water dry and season it. Prep basmati rice and baby spinach for Sardine and greens rice so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook sardines in spring water on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook basmati rice and baby spinach in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Sardine and greens rice before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice sardines in spring water and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "sardine-greens-rice.webp",
+    "alt": "Sardine and greens rice",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 437,
+    "protein": 33.8,
+    "carbs": 39.5,
+    "fat": 16,
+    "fibre": 2.3
+  }
+}

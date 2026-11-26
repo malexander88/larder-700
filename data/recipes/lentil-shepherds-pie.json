@@ -1,0 +1,113 @@
+{
+  "slug": "lentil-shepherds-pie",
+  "title": "Lentil and swede shepherd's pie",
+  "summary": "Lentil and swede shepherd's pie is a british dinner built around canned green lentils and swede, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "green-lentils-canned",
+      "grams": 520,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "swede",
+      "grams": 280,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tomato-puree",
+      "grams": 15
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "rosemary",
+      "grams": 3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 80
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Lentil and swede shepherd's pie into even pieces and toss swede with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of swede while you season canned green lentils. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle canned green lentils and carrots among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Lentil and swede shepherd's pie before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Lentil and swede shepherd's pie into warm bowls with the juices."
+    }
+  ],
+  "image": {
+    "file": "lentil-shepherds-pie.webp",
+    "alt": "Lentil and swede shepherd's pie",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 432,
+    "protein": 24.5,
+    "carbs": 59.5,
+    "fat": 10.8,
+    "fibre": 17.9
+  }
+}

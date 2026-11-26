@@ -1,0 +1,110 @@
+{
+  "slug": "chicken-teriyaki-veg",
+  "title": "Chicken teriyaki with vegetables",
+  "summary": "Chicken teriyaki with vegetables is a japanese dinner built around skinless chicken thigh fillets and broccoli, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-thigh-raw",
+      "grams": 340,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 180,
+      "prepNote": "cut into florets"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 16
+    },
+    {
+      "nutritionId": "mirin",
+      "grams": 12
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 60
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat skinless chicken thigh fillets dry and season it. Prep broccoli and carrots for Chicken teriyaki with vegetables so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook skinless chicken thigh fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook broccoli and carrots in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Chicken teriyaki with vegetables before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice skinless chicken thigh fillets and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "chicken-teriyaki-veg.webp",
+    "alt": "Chicken teriyaki with vegetables",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 453,
+    "protein": 40.7,
+    "carbs": 36.3,
+    "fat": 16.1,
+    "fibre": 4.3
+  }
+}

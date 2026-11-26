@@ -1,0 +1,113 @@
+{
+  "slug": "tandoori-haddock-mash",
+  "title": "Tandoori haddock with sweet potato",
+  "summary": "Tandoori haddock with sweet potato is a indian dinner built around haddock fillets and sweet potatoes, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Indian",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "haddock-raw",
+      "grams": 520,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "sweet-potato",
+      "grams": 420,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "tandoori-masala",
+      "grams": 8
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 40
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 8
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 150,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 40,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat haddock fillets dry and season it. Prep sweet potatoes and tandoori masala for Tandoori haddock with sweet potato so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook haddock fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook sweet potatoes and tandoori masala in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Tandoori haddock with sweet potato before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice haddock fillets and serve it with the vegetables and pan juices.  Check that the sweet potato is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "tandoori-haddock-mash.webp",
+    "alt": "Tandoori haddock with sweet potato",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 447,
+    "protein": 56.4,
+    "carbs": 50.1,
+    "fat": 2.4,
+    "fibre": 8.2
+  }
+}

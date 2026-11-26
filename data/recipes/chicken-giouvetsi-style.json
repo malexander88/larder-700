@@ -1,0 +1,109 @@
+{
+  "slug": "chicken-giouvetsi-style",
+  "title": "Chicken and orzo bake",
+  "summary": "Chicken and orzo bake is a mediterranean dinner built around skinless chicken thigh fillets and orzo pasta, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "chicken",
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-thigh-raw",
+      "grams": 320,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "orzo-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 240
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 60,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Chicken and orzo bake into even pieces and toss orzo pasta with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of orzo pasta while you season skinless chicken thigh fillets. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle skinless chicken thigh fillets and chopped tomatoes among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Chicken and orzo bake before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Chicken and orzo bake into warm bowls with the juices.  Serve with the orzo, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "chicken-giouvetsi-style.webp",
+    "alt": "Chicken and orzo bake",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 452,
+    "protein": 39.5,
+    "carbs": 40.8,
+    "fat": 14.6,
+    "fibre": 3.2
+  }
+}

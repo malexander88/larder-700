@@ -1,0 +1,99 @@
+{
+  "slug": "edamame-tofu-rice",
+  "title": "Edamame and tofu rice bowl",
+  "summary": "Edamame and tofu rice bowl is a japanese dinner built around firm tofu and frozen edamame beans, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 300,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "edamame",
+      "grams": 140,
+      "prepNote": "podded if needed"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 83
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 80,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "nori",
+      "grams": 2
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rice-vinegar",
+      "grams": 8
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook firm tofu for Edamame and tofu rice bowl in a lightly oiled pan until just done, and cook or warm basmati rice alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss frozen edamame beans with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Edamame and tofu rice bowl straight away. Taste Edamame and tofu rice bowl before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "edamame-tofu-rice.webp",
+    "alt": "Edamame and tofu rice bowl",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 438,
+    "protein": 31.1,
+    "carbs": 42.9,
+    "fat": 15.8,
+    "fibre": 5.3
+  }
+}

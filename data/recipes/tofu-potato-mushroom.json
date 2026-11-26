@@ -1,0 +1,105 @@
+{
+  "slug": "tofu-potato-mushroom",
+  "title": "Tofu, potato and mushroom bake",
+  "summary": "Tofu, potato and mushroom bake is a british dinner built around firm tofu and new potatoes, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 360,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 394,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "rosemary",
+      "grams": 3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Tofu, potato and mushroom bake into even pieces and toss new potatoes with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of new potatoes while you season firm tofu. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle firm tofu and chestnut mushrooms among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Tofu, potato and mushroom bake before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Tofu, potato and mushroom bake into warm bowls with the juices.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "tofu-potato-mushroom.webp",
+    "alt": "Tofu, potato and mushroom bake",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 438,
+    "protein": 28.8,
+    "carbs": 39.9,
+    "fat": 18.1,
+    "fibre": 5.4
+  }
+}

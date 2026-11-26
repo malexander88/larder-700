@@ -1,0 +1,100 @@
+{
+  "slug": "soy-squid-mangetout",
+  "title": "Soy squid with mangetout",
+  "summary": "Soy squid with mangetout is a japanese dinner built around squid rings and mangetout, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "squid",
+      "grams": 520,
+      "prepNote": "patted dry"
+    },
+    {
+      "nutritionId": "mangetout",
+      "grams": 140
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "mirin",
+      "grams": 12
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 15
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Soy squid with mangetout chopped before the pan goes on. Pat squid rings dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook squid rings until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook mangetout and carrots until hot and lightly browned. Return squid rings and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Soy squid with mangetout, add salt if it needs it, and serve straight away.  Serve with the rice, simmered in salted water until tender.",
+      "tip": "Taste Soy squid with mangetout before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "soy-squid-mangetout.webp",
+    "alt": "Soy squid with mangetout",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 493,
+    "protein": 48.1,
+    "carbs": 42.2,
+    "fat": 14.5,
+    "fibre": 3.6
+  }
+}

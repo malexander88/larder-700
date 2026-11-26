@@ -1,0 +1,104 @@
+{
+  "slug": "salmon-fennel-orange",
+  "title": "Salmon with fennel and orange",
+  "summary": "Salmon with fennel and orange is a mediterranean dinner built around salmon fillets and fennel, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 300,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "fennel",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "orange",
+      "grams": 100,
+      "prepNote": "segmented"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 4,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "dill",
+      "grams": 6
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 223,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Salmon with fennel and orange into even pieces and toss fennel with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of fennel while you season salmon fillets. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle salmon fillets and oranges among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Salmon with fennel and orange before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Salmon with fennel and orange into warm bowls with the juices.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "salmon-fennel-orange.webp",
+    "alt": "Salmon with fennel and orange",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 440,
+    "protein": 34,
+    "carbs": 25.5,
+    "fat": 22.3,
+    "fibre": 5.5
+  }
+}

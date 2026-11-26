@@ -1,0 +1,97 @@
+{
+  "slug": "miso-prawn-greens",
+  "title": "Miso prawns with greens",
+  "summary": "Miso prawns with greens is a japanese dinner built around raw king prawns and pak choi, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 520,
+      "prepNote": "peeled"
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 180,
+      "prepNote": "quartered"
+    },
+    {
+      "nutritionId": "miso-rice",
+      "grams": 14
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 19
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 15
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Miso prawns with greens chopped before the pan goes on. Pat raw king prawns dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook raw king prawns until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook pak choi and rice miso paste until hot and lightly browned. Return raw king prawns and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Miso prawns with greens, add salt if it needs it, and serve straight away.  Serve with the rice, simmered in salted water until tender.",
+      "tip": "Taste Miso prawns with greens before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "miso-prawn-greens.webp",
+    "alt": "Miso prawns with greens",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 458,
+    "protein": 49.2,
+    "carbs": 32.2,
+    "fat": 14.8,
+    "fibre": 1.7
+  }
+}

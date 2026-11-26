@@ -1,0 +1,96 @@
+{
+  "slug": "pork-tomato-olives",
+  "title": "Pork with tomato and olives",
+  "summary": "Pork with tomato and olives is a mediterranean dinner built around pork fillet and chopped tomatoes, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "pork",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 520,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 220
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 25
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rosemary",
+      "grams": 3
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat pork fillet dry and season it. Prep chopped tomatoes and pitted black olives for Pork with tomato and olives so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook pork fillet on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook chopped tomatoes and pitted black olives in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Pork with tomato and olives before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice pork fillet and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "pork-tomato-olives.webp",
+    "alt": "Pork with tomato and olives",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 434,
+    "protein": 58.8,
+    "carbs": 5.3,
+    "fat": 19.6,
+    "fibre": 1.4
+  }
+}

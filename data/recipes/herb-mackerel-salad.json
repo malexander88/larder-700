@@ -1,0 +1,103 @@
+{
+  "slug": "herb-mackerel-salad",
+  "title": "Herb mackerel salad",
+  "summary": "Herb mackerel salad is a middle eastern dinner built around mackerel fillets and cucumber, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "mackerel",
+      "grams": 352,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 140,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 120,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 10
+    },
+    {
+      "nutritionId": "mint",
+      "grams": 8
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Herb mackerel salad chopped before the pan goes on. Pat mackerel fillets dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook mackerel fillets until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook cucumber and cherry tomatoes until hot and lightly browned. Return mackerel fillets and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Herb mackerel salad, add salt if it needs it, and serve straight away.",
+      "tip": "Taste Herb mackerel salad before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "herb-mackerel-salad.webp",
+    "alt": "Herb mackerel salad served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 468,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 33.8,
+    "fibre": 1.6
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "turkey-mushroom-soba",
+  "title": "Turkey and mushroom soba",
+  "summary": "Turkey and mushroom soba is a japanese dinner built around turkey breast steaks and chestnut mushrooms, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "turkey",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-breast",
+      "grams": 320,
+      "prepNote": "cut into strips"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "buckwheat-noodles",
+      "grams": 125
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice turkey breast steaks and chestnut mushrooms before the pan is hot. Turkey and mushroom soba is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry turkey breast steaks until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add chestnut mushrooms and buckwheat noodles, return turkey breast steaks, and toss with the sauce for a minute. Taste Turkey and mushroom soba before serving and add a squeeze of lemon if it wants brightness.  Serve with the noodles, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "turkey-mushroom-soba.webp",
+    "alt": "Turkey and mushroom soba",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 438,
+    "protein": 48.6,
+    "carbs": 44.9,
+    "fat": 7.1,
+    "fibre": 3.7
+  }
+}

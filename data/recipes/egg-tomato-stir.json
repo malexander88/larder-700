@@ -1,0 +1,100 @@
+{
+  "slug": "egg-tomato-stir",
+  "title": "Tomato and egg stir-fry",
+  "summary": "Tomato and egg stir-fry is a chinese dinner built around medium eggs and cherry tomatoes, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Chinese",
+  "protein": "eggs",
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 232,
+      "prepNote": "beaten if the method says so"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 220,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 30
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 117
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice medium eggs and cherry tomatoes before the pan is hot. Tomato and egg stir-fry is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry medium eggs until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add cherry tomatoes and spring onions, return medium eggs, and toss with the sauce for a minute. Taste Tomato and egg stir-fry before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "egg-tomato-stir.webp",
+    "alt": "Tomato and egg stir-fry",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 435,
+    "protein": 20.7,
+    "carbs": 51.8,
+    "fat": 16.1,
+    "fibre": 2.3
+  }
+}

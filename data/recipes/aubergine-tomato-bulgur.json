@@ -1,0 +1,111 @@
+{
+  "slug": "aubergine-tomato-bulgur",
+  "title": "Aubergine tomato bulgur",
+  "summary": "Aubergine tomato bulgur is a mediterranean dinner built around aubergines and bulgur wheat, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "aubergine",
+      "grams": 250,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "bulgur",
+      "grams": 130
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 220
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 120,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 60,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 16
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Aubergine tomato bulgur. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add aubergines and cook until it loses its raw look. Pour in the tomatoes or coconut and bulgur wheat."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until chopped tomatoes is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Aubergine tomato bulgur before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Aubergine tomato bulgur.  Serve with the bulgur, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "aubergine-tomato-bulgur.webp",
+    "alt": "Aubergine tomato bulgur",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 435,
+    "protein": 15.4,
+    "carbs": 68.5,
+    "fat": 11,
+    "fibre": 12.7
+  }
+}

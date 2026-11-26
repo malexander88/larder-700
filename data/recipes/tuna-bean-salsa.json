@@ -1,0 +1,103 @@
+{
+  "slug": "tuna-bean-salsa",
+  "title": "Tuna black bean salsa bowl",
+  "summary": "Tuna black bean salsa bowl is a mexican dinner built around tuna in spring water and canned black beans, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mexican",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tuna-water",
+      "grams": 473,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 180,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 80
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 140,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "avocado",
+      "grams": 50
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook tuna in spring water for Tuna black bean salsa bowl in a lightly oiled pan until just done, and cook or warm canned sweetcorn alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss canned black beans with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Tuna black bean salsa bowl straight away. Taste Tuna black bean salsa bowl before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "tuna-bean-salsa.webp",
+    "alt": "Tuna black bean salsa bowl",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 443,
+    "protein": 68.8,
+    "carbs": 24.8,
+    "fat": 7.6,
+    "fibre": 9.7
+  }
+}

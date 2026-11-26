@@ -1,0 +1,104 @@
+{
+  "slug": "halloumi-grain-bowl",
+  "title": "Halloumi quinoa bowl",
+  "summary": "Halloumi quinoa bowl is a mediterranean dinner built around halloumi and quinoa, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "halloumi",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "quinoa-dry",
+      "grams": 116
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 120,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 100,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 120,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat halloumi dry and season it. Prep quinoa and canned chickpeas in water for Halloumi quinoa bowl so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook halloumi on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook quinoa and canned chickpeas in water in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Halloumi quinoa bowl before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice halloumi and serve it with the vegetables and pan juices.  Serve with the quinoa, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "halloumi-grain-bowl.webp",
+    "alt": "Halloumi quinoa bowl",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 457,
+    "protein": 22.2,
+    "carbs": 51.3,
+    "fat": 18.1,
+    "fibre": 7.8
+  }
+}

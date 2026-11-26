@@ -1,0 +1,108 @@
+{
+  "slug": "turkey-pitta-salad",
+  "title": "Turkey pitta salad",
+  "summary": "Turkey pitta salad is a mediterranean dinner built around turkey breast steaks and wholemeal pitta breads, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "turkey",
+  "dietary": [
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-breast",
+      "grams": 300,
+      "prepNote": "cut into strips"
+    },
+    {
+      "nutritionId": "pitta-wholemeal",
+      "grams": 140,
+      "prepNote": "warmed"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 120,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 120,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 50
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat turkey breast steaks dry and season it. Prep wholemeal pitta breads and cucumber for Turkey pitta salad so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook turkey breast steaks on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook wholemeal pitta breads and cucumber in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Turkey pitta salad before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice turkey breast steaks and serve it with the vegetables and pan juices.  Serve with the pittas, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "turkey-pitta-salad.webp",
+    "alt": "Turkey pitta salad served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 438,
+    "protein": 46.1,
+    "carbs": 42.9,
+    "fat": 9.1,
+    "fibre": 5.6
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "cod-cannellini-arrabbiata",
+  "title": "Cod and cannellini arrabbiata",
+  "summary": "Cod and cannellini arrabbiata is a italian dinner built around cod fillets and canned cannellini beans, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "cod-raw",
+      "grams": 477,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "cannellini-canned",
+      "grams": 240,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 300
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.8
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 10
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Cod and cannellini arrabbiata. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add cod fillets and cook until it loses its raw look. Pour in the tomatoes or coconut and canned cannellini beans."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until chopped tomatoes is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Cod and cannellini arrabbiata before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Cod and cannellini arrabbiata."
+    }
+  ],
+  "image": {
+    "file": "cod-cannellini-arrabbiata.webp",
+    "alt": "Cod and cannellini arrabbiata",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 442,
+    "protein": 54.6,
+    "carbs": 29.8,
+    "fat": 11.8,
+    "fibre": 9.4
+  }
+}

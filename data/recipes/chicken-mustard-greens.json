@@ -1,0 +1,100 @@
+{
+  "slug": "chicken-mustard-greens",
+  "title": "Mustard chicken with spring greens",
+  "summary": "Mustard chicken with spring greens is a british dinner built around skinless chicken breast fillets and kale, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 520,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "kale",
+      "grams": 160,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "dijon-gf",
+      "grams": 12
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat skinless chicken breast fillets dry and season it. Prep kale and gluten-free Dijon mustard for Mustard chicken with spring greens so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook skinless chicken breast fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook kale and gluten-free Dijon mustard in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Mustard chicken with spring greens before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice skinless chicken breast fillets and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "chicken-mustard-greens.webp",
+    "alt": "Mustard chicken with spring greens",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 519,
+    "protein": 65.4,
+    "carbs": 32.1,
+    "fat": 14.2,
+    "fibre": 3.3
+  }
+}

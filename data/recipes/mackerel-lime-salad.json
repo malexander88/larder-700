@@ -1,0 +1,103 @@
+{
+  "slug": "mackerel-lime-salad",
+  "title": "Lime mackerel salad",
+  "summary": "Lime mackerel salad is a thai dinner built around mackerel fillets and little gem lettuce, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "mackerel",
+      "grams": 326,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 120,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 100,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 18
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 8
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "mint",
+      "grams": 6
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook mackerel fillets for Lime mackerel salad in a lightly oiled pan until just done, and cook or warm cucumber alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss little gem lettuce with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Lime mackerel salad straight away. Taste Lime mackerel salad before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "mackerel-lime-salad.webp",
+    "alt": "Lime mackerel salad served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 437,
+    "protein": 32.5,
+    "carbs": 4.5,
+    "fat": 32,
+    "fibre": 1.5
+  }
+}

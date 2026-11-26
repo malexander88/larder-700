@@ -1,0 +1,112 @@
+{
+  "slug": "haddock-ratatouille",
+  "title": "Haddock on ratatouille",
+  "summary": "Haddock on ratatouille is a mediterranean dinner built around haddock fillets and aubergines, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "haddock-raw",
+      "grams": 520,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 150,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "courgette",
+      "grams": 150,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 180
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Haddock on ratatouille into even pieces and toss aubergines with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of aubergines while you season haddock fillets. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle haddock fillets and courgettes among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Haddock on ratatouille before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Haddock on ratatouille into warm bowls with the juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "haddock-ratatouille.webp",
+    "alt": "Haddock on ratatouille",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 481,
+    "protein": 55.4,
+    "carbs": 39.4,
+    "fat": 11.4,
+    "fibre": 4.8
+  }
+}

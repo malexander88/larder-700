@@ -1,0 +1,106 @@
+{
+  "slug": "squid-olive-stew",
+  "title": "Squid and olive stew",
+  "summary": "Squid and olive stew is a mediterranean dinner built around squid rings and pitted black olives, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "squid",
+      "grams": 520,
+      "prepNote": "patted dry"
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 30
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 240
+    },
+    {
+      "nutritionId": "fennel",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Squid and olive stew. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add squid rings and cook until it loses its raw look. Pour in the tomatoes or coconut and pitted black olives."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until chopped tomatoes is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Squid and olive stew before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Squid and olive stew.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "squid-olive-stew.webp",
+    "alt": "Squid and olive stew",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 483,
+    "protein": 46.7,
+    "carbs": 40.6,
+    "fat": 14.8,
+    "fibre": 3.5
+  }
+}

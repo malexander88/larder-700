@@ -1,0 +1,100 @@
+{
+  "slug": "squid-pea-lemon",
+  "title": "Squid with peas and lemon",
+  "summary": "Squid with peas and lemon is a british dinner built around squid rings and frozen peas, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "squid",
+      "grams": 520,
+      "prepNote": "patted dry"
+    },
+    {
+      "nutritionId": "peas-frozen",
+      "grams": 140
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 18
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Squid with peas and lemon chopped before the pan goes on. Pat squid rings dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook squid rings until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook frozen peas and garlic until hot and lightly browned. Return squid rings and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Squid with peas and lemon, add salt if it needs it, and serve straight away.  Serve with the rice, simmered in salted water until tender.",
+      "tip": "Taste Squid with peas and lemon before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "squid-pea-lemon.webp",
+    "alt": "Squid with peas and lemon",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 487,
+    "protein": 48.5,
+    "carbs": 43.4,
+    "fat": 13.1,
+    "fibre": 4.1
+  }
+}

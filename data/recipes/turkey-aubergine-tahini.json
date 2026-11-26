@@ -1,0 +1,103 @@
+{
+  "slug": "turkey-aubergine-tahini",
+  "title": "Turkey with aubergine and tahini",
+  "summary": "Turkey with aubergine and tahini is a middle eastern dinner built around turkey breast steaks and aubergines, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "turkey",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-breast",
+      "grams": 520,
+      "prepNote": "cut into strips"
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 260,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "tahini",
+      "grams": 16
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Turkey with aubergine and tahini into even pieces and toss aubergines with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of aubergines while you season turkey breast steaks. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle turkey breast steaks and tahini among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Turkey with aubergine and tahini before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Turkey with aubergine and tahini into warm bowls with the juices."
+    }
+  ],
+  "image": {
+    "file": "turkey-aubergine-tahini.webp",
+    "alt": "Turkey with aubergine and tahini",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 444,
+    "protein": 65.5,
+    "carbs": 8.2,
+    "fat": 16.6,
+    "fibre": 3.8
+  }
+}

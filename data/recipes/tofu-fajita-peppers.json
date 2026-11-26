@@ -1,0 +1,112 @@
+{
+  "slug": "tofu-fajita-peppers",
+  "title": "Tofu fajita peppers",
+  "summary": "Tofu fajita peppers is a mexican dinner built around firm tofu and red peppers, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mexican",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 502,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 150,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "yellow-pepper",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 3
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice firm tofu and red peppers before the pan is hot. Tofu fajita peppers is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry firm tofu until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add red peppers and yellow peppers, return firm tofu, and toss with the sauce for a minute. Taste Tofu fajita peppers before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "tofu-fajita-peppers.webp",
+    "alt": "Tofu fajita peppers served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 448,
+    "protein": 33.5,
+    "carbs": 16.8,
+    "fat": 27.3,
+    "fibre": 4.8
+  }
+}

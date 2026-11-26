@@ -1,0 +1,110 @@
+{
+  "slug": "chermoula-baked-cod",
+  "title": "Chermoula baked cod",
+  "summary": "Chermoula baked cod is a middle eastern dinner built around cod fillets and fresh coriander, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "cod-raw",
+      "grams": 520,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 12
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 18
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 160,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Chermoula baked cod into even pieces and toss fresh coriander with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of fresh coriander while you season cod fillets. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle cod fillets and garlic among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Chermoula baked cod before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Chermoula baked cod into warm bowls with the juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "chermoula-baked-cod.webp",
+    "alt": "Chermoula baked cod served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 435,
+    "protein": 50.9,
+    "carbs": 32.4,
+    "fat": 11.4,
+    "fibre": 1.9
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "slug": "sardine-lemon-spaghetti",
+  "title": "Sardine and lemon spaghetti",
+  "summary": "Sardine and lemon spaghetti is a italian dinner built around sardines in spring water and wholewheat spaghetti, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "fish",
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 16,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Colander"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "sardines",
+      "grams": 200,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "spaghetti-wholewheat",
+      "grams": 110
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.5
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 18
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 10
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Start the sauce for Sardine and lemon spaghetti: soften the onion, then add garlic and wholewheat spaghetti. Season sardines in spring water and have the pasta water on to boil.",
+      "tip": "Salt the pasta water. It is the only chance to season the noodles themselves."
+    },
+    {
+      "minutes": 10,
+      "heat": "medium hob",
+      "instruction": "Cook sardines in spring water in the sauce while the pasta boils until tender with a bite. Save a cup of the cooking water before you drain."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Toss the drained pasta with the sauce, loosening it with a splash of pasta water so it clings to garlic.",
+      "tip": "Taste Sardine and lemon spaghetti before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve Sardine and lemon spaghetti straight away in warm bowls.  Serve with the spaghetti, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "sardine-lemon-spaghetti.webp",
+    "alt": "Sardine and lemon spaghetti",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 432,
+    "protein": 32.9,
+    "carbs": 38.1,
+    "fat": 16.4,
+    "fibre": 5.3
+  }
+}

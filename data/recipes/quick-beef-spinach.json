@@ -1,0 +1,99 @@
+{
+  "slug": "quick-beef-spinach",
+  "title": "Quick beef and spinach bowl",
+  "summary": "Quick beef and spinach bowl is a japanese dinner built around lean beef frying steak and baby spinach, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "beef",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-steak",
+      "grams": 427,
+      "prepNote": "sliced thinly"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 160,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 19
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Quick beef and spinach bowl chopped before the pan goes on. Pat lean beef frying steak dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook lean beef frying steak until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook baby spinach and tamari until hot and lightly browned. Return lean beef frying steak and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Quick beef and spinach bowl, add salt if it needs it, and serve straight away.",
+      "tip": "Taste Quick beef and spinach bowl before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "quick-beef-spinach.webp",
+    "alt": "Quick beef and spinach bowl",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 452,
+    "protein": 52.9,
+    "carbs": 4.1,
+    "fat": 24.9,
+    "fibre": 2.3
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "ginger-pork-cabbage",
+  "title": "Ginger pork with cabbage",
+  "summary": "Ginger pork with cabbage is a japanese dinner built around pork fillet and white cabbage, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "pork",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 340,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "white-cabbage",
+      "grams": 220,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 16
+    },
+    {
+      "nutritionId": "mirin",
+      "grams": 10
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 83
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice pork fillet and white cabbage before the pan is hot. Ginger pork with cabbage is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry pork fillet until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add white cabbage and fresh root ginger, return pork fillet, and toss with the sauce for a minute. Taste Ginger pork with cabbage before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "ginger-pork-cabbage.webp",
+    "alt": "Ginger pork with cabbage",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 437,
+    "protein": 43.3,
+    "carbs": 42.5,
+    "fat": 10.3,
+    "fibre": 3.6
+  }
+}

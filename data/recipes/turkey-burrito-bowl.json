@@ -1,0 +1,109 @@
+{
+  "slug": "turkey-burrito-bowl",
+  "title": "Turkey burrito bowl",
+  "summary": "Turkey burrito bowl is a mexican dinner built around turkey breast mince and canned black beans, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mexican",
+  "protein": "turkey",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 340,
+      "prepNote": "broken up"
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 180,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 3
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice turkey breast mince and canned black beans before the pan is hot. Turkey burrito bowl is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry turkey breast mince until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add canned black beans and basmati rice, return turkey breast mince, and toss with the sauce for a minute. Taste Turkey burrito bowl before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "turkey-burrito-bowl.webp",
+    "alt": "Turkey burrito bowl served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 483,
+    "protein": 51.2,
+    "carbs": 49.4,
+    "fat": 8.9,
+    "fibre": 8.4
+  }
+}

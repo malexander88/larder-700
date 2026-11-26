@@ -1,0 +1,107 @@
+{
+  "slug": "tofu-green-curry",
+  "title": "Tofu and vegetable red curry",
+  "summary": "Tofu and vegetable red curry is a thai dinner built around firm tofu and vegan Thai red curry paste, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 380,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "red-curry-paste",
+      "grams": 22
+    },
+    {
+      "nutritionId": "coconut-milk-light",
+      "grams": 150
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 140,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 60
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 5
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Tofu and vegetable red curry. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add firm tofu and cook until it loses its raw look. Pour in the tomatoes or coconut and vegan Thai red curry paste."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until light coconut milk is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Tofu and vegetable red curry before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Tofu and vegetable red curry.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "tofu-green-curry.webp",
+    "alt": "Tofu and vegetable red curry",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 452,
+    "protein": 28,
+    "carbs": 35.7,
+    "fat": 21.9,
+    "fibre": 4.2
+  }
+}

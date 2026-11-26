@@ -1,0 +1,97 @@
+{
+  "slug": "leek-potato-frittata",
+  "title": "Leek and potato frittata",
+  "summary": "Leek and potato frittata is a british dinner built around medium eggs and leeks, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "eggs",
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 290,
+      "prepNote": "beaten if the method says so"
+    },
+    {
+      "nutritionId": "leek",
+      "grams": 160,
+      "prepNote": "sliced and washed"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 420,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 50,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat medium eggs dry and season it. Prep leeks and new potatoes for Leek and potato frittata so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook medium eggs on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook leeks and new potatoes in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Leek and potato frittata before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice medium eggs and serve it with the vegetables and pan juices.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "leek-potato-frittata.webp",
+    "alt": "Leek and potato frittata",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 430,
+    "protein": 24.3,
+    "carbs": 36,
+    "fat": 21,
+    "fibre": 5.3
+  }
+}

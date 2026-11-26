@@ -1,0 +1,96 @@
+{
+  "slug": "chicken-watercress-fast",
+  "title": "Quick chicken and watercress",
+  "summary": "Quick chicken and watercress is a british dinner built around skinless chicken breast fillets and watercress, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 520,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "watercress",
+      "grams": 50
+    },
+    {
+      "nutritionId": "radish",
+      "grams": 80
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 80,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Quick chicken and watercress chopped before the pan goes on. Pat skinless chicken breast fillets dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook skinless chicken breast fillets until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook watercress and radishes until hot and lightly browned. Return skinless chicken breast fillets and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Quick chicken and watercress, add salt if it needs it, and serve straight away.  Serve with the rice, simmered in salted water until tender.",
+      "tip": "Taste Quick chicken and watercress before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "chicken-watercress-fast.webp",
+    "alt": "Quick chicken and watercress",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 493,
+    "protein": 63.6,
+    "carbs": 29.7,
+    "fat": 13.1,
+    "fibre": 1.6
+  }
+}

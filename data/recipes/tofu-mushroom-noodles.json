@@ -1,0 +1,108 @@
+{
+  "slug": "tofu-mushroom-noodles",
+  "title": "Tofu and mushroom noodles",
+  "summary": "Tofu and mushroom noodles is a chinese dinner built around smoked tofu and chestnut mushrooms, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Chinese",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "smoked-tofu",
+      "grams": 320,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "buckwheat-noodles",
+      "grams": 90
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 120,
+      "prepNote": "quartered"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 16
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 15
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice smoked tofu and chestnut mushrooms before the pan is hot. Tofu and mushroom noodles is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry smoked tofu until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add chestnut mushrooms and buckwheat noodles, return smoked tofu, and toss with the sauce for a minute. Taste Tofu and mushroom noodles before serving and add a squeeze of lemon if it wants brightness.  Serve with the noodles, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "tofu-mushroom-noodles.webp",
+    "alt": "Tofu and mushroom noodles",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 457,
+    "protein": 34.9,
+    "carbs": 38.5,
+    "fat": 18.1,
+    "fibre": 5.2
+  }
+}

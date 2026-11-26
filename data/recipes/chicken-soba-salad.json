@@ -1,0 +1,97 @@
+{
+  "slug": "chicken-soba-salad",
+  "title": "Chicken soba salad",
+  "summary": "Chicken soba salad is a japanese dinner built around skinless chicken breast fillets and buckwheat noodles, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 320,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "buckwheat-noodles",
+      "grams": 125
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 100,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "edamame",
+      "grams": 80,
+      "prepNote": "podded if needed"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "rice-vinegar",
+      "grams": 10
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 3
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook skinless chicken breast fillets for Chicken soba salad in a lightly oiled pan until just done, and cook or warm cucumber alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss buckwheat noodles with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Chicken soba salad straight away. Taste Chicken soba salad before serving and add a squeeze of lemon if it wants brightness.  Serve with the noodles, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "chicken-soba-salad.webp",
+    "alt": "Chicken soba salad served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 450,
+    "protein": 49.8,
+    "carbs": 46.1,
+    "fat": 7.2,
+    "fibre": 5
+  }
+}

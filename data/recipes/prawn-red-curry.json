@@ -1,0 +1,110 @@
+{
+  "slug": "prawn-red-curry",
+  "title": "Prawn red curry",
+  "summary": "Prawn red curry is a thai dinner built around raw king prawns and vegan Thai red curry paste, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 320,
+      "prepNote": "peeled"
+    },
+    {
+      "nutritionId": "red-curry-paste",
+      "grams": 24
+    },
+    {
+      "nutritionId": "coconut-milk-light",
+      "grams": 160
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 120,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "green-beans",
+      "grams": 100,
+      "prepNote": "trimmed"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 117
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 5
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Prawn red curry. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add raw king prawns and cook until it loses its raw look. Pour in the tomatoes or coconut and vegan Thai red curry paste."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until light coconut milk is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Prawn red curry before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Prawn red curry.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "prawn-red-curry.webp",
+    "alt": "Prawn red curry served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 447,
+    "protein": 34.1,
+    "carbs": 55.1,
+    "fat": 10.1,
+    "fibre": 4.1
+  }
+}

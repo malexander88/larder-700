@@ -1,0 +1,104 @@
+{
+  "slug": "miso-chicken-sprouts",
+  "title": "Miso chicken tray with sprouts",
+  "summary": "Miso chicken tray with sprouts is a british dinner built around skinless chicken breast fillets and Brussels sprouts, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 360,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "brussels",
+      "grams": 220,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 394,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "miso-rice",
+      "grams": 18
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Miso chicken tray with sprouts into even pieces and toss Brussels sprouts with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of Brussels sprouts while you season skinless chicken breast fillets. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle skinless chicken breast fillets and new potatoes among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Miso chicken tray with sprouts before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Miso chicken tray with sprouts into warm bowls with the juices.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "miso-chicken-sprouts.webp",
+    "alt": "Miso chicken tray with sprouts",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 440,
+    "protein": 50.8,
+    "carbs": 41.5,
+    "fat": 7.8,
+    "fibre": 9.1
+  }
+}

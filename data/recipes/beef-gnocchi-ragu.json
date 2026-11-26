@@ -1,0 +1,109 @@
+{
+  "slug": "beef-gnocchi-ragu",
+  "title": "Beef ragu with gnocchi",
+  "summary": "Beef ragu with gnocchi is a italian dinner built around lean beef mince 5% fat and fresh gnocchi, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "beef",
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 16,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Colander"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-mince-5",
+      "grams": 280,
+      "prepNote": "broken up"
+    },
+    {
+      "nutritionId": "gnocchi",
+      "grams": 212,
+      "prepNote": "from the packet"
+    },
+    {
+      "nutritionId": "passata",
+      "grams": 280
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 50,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "rosemary",
+      "grams": 3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Start the sauce for Beef ragu with gnocchi: soften the onion, then add garlic and fresh gnocchi. Season lean beef mince 5% fat and have the pasta water on to boil.",
+      "tip": "Salt the pasta water. It is the only chance to season the noodles themselves."
+    },
+    {
+      "minutes": 10,
+      "heat": "medium hob",
+      "instruction": "Cook lean beef mince 5% fat in the sauce while the pasta boils until tender with a bite. Save a cup of the cooking water before you drain."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Toss the drained pasta with the sauce, loosening it with a splash of pasta water so it clings to passata.",
+      "tip": "Taste Beef ragu with gnocchi before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve Beef ragu with gnocchi straight away in warm bowls.  Serve with the gnocchi, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "beef-gnocchi-ragu.webp",
+    "alt": "Beef ragu with gnocchi",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 442,
+    "protein": 37.5,
+    "carbs": 45.3,
+    "fat": 12.4,
+    "fibre": 4.9
+  }
+}

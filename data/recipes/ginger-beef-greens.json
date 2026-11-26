@@ -1,0 +1,109 @@
+{
+  "slug": "ginger-beef-greens",
+  "title": "Ginger beef with greens",
+  "summary": "Ginger beef with greens is a chinese dinner built around lean beef frying steak and pak choi, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Chinese",
+  "protein": "beef",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-steak",
+      "grams": 300,
+      "prepNote": "sliced thinly"
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 200,
+      "prepNote": "quartered"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 15,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 16
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 99
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice lean beef frying steak and pak choi before the pan is hot. Ginger beef with greens is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry lean beef frying steak until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add pak choi and fresh root ginger, return lean beef frying steak, and toss with the sauce for a minute. Taste Ginger beef with greens before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "ginger-beef-greens.webp",
+    "alt": "Ginger beef with greens",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 455,
+    "protein": 41,
+    "carbs": 43.2,
+    "fat": 13,
+    "fibre": 2
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "beef-pepper-kofta",
+  "title": "Beef pepper kofta",
+  "summary": "Beef pepper kofta is a middle eastern dinner built around lean beef mince 5% fat and red peppers, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "beef",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-mince-5",
+      "grams": 478,
+      "prepNote": "broken up"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 140,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "coriander-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat lean beef mince 5% fat dry and season it. Prep red peppers and onions for Beef pepper kofta so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook lean beef mince 5% fat on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook red peppers and onions in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Beef pepper kofta before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice lean beef mince 5% fat and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "beef-pepper-kofta.webp",
+    "alt": "Beef pepper kofta served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 439,
+    "protein": 52,
+    "carbs": 9.3,
+    "fat": 21.5,
+    "fibre": 2.6
+  }
+}

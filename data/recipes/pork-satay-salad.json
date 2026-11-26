@@ -1,0 +1,103 @@
+{
+  "slug": "pork-satay-salad",
+  "title": "Pork satay salad",
+  "summary": "Pork satay salad is a thai dinner built around pork fillet and peanut butter, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "pork",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 472,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "peanut-butter",
+      "grams": 18
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 120,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 100,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 50,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 8
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook pork fillet for Pork satay salad in a lightly oiled pan until just done, and cook or warm lime juice alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss peanut butter with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Pork satay salad straight away. Taste Pork satay salad before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "pork-satay-salad.webp",
+    "alt": "Pork satay salad served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 450,
+    "protein": 55.9,
+    "carbs": 6.6,
+    "fat": 22,
+    "fibre": 2.3
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "cod-pesto-butter-beans",
+  "title": "Cod with pesto and butter beans",
+  "summary": "Cod with pesto and butter beans is a italian dinner built around cod fillets and canned butter beans, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "cod-raw",
+      "grams": 505,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "butter-beans",
+      "grams": 240,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "pesto",
+      "grams": 18
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 140,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 60,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat cod fillets dry and season it. Prep canned butter beans and fresh basil pesto for Cod with pesto and butter beans so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook cod fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook canned butter beans and fresh basil pesto in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Cod with pesto and butter beans before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice cod fillets and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "cod-pesto-butter-beans.webp",
+    "alt": "Cod with pesto and butter beans",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 437,
+    "protein": 55.8,
+    "carbs": 19.4,
+    "fat": 15.1,
+    "fibre": 7.7
+  }
+}

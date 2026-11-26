@@ -1,0 +1,116 @@
+{
+  "slug": "spiced-lentil-carrot",
+  "title": "Spiced lentil and carrot soup",
+  "summary": "Spiced lentil and carrot soup is a middle eastern dinner built around dried red lentils and carrots, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "red-lentils-dry",
+      "grams": 179,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1
+    },
+    {
+      "nutritionId": "stock-vegetable-gf",
+      "grams": 12
+    },
+    {
+      "nutritionId": "water",
+      "grams": 400
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Spiced lentil and carrot soup. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add dried red lentils and cook until it loses its raw look. Pour in the tomatoes or coconut and carrots."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until onions is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Spiced lentil and carrot soup before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Spiced lentil and carrot soup."
+    }
+  ],
+  "image": {
+    "file": "spiced-lentil-carrot.webp",
+    "alt": "Spiced lentil and carrot soup",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 449,
+    "protein": 24.5,
+    "carbs": 62.7,
+    "fat": 11.1,
+    "fibre": 12.2
+  }
+}

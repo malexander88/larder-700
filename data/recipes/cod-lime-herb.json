@@ -1,0 +1,103 @@
+{
+  "slug": "cod-lime-herb",
+  "title": "Lime and herb cod",
+  "summary": "Lime and herb cod is a thai dinner built around cod fillets and lime juice, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "cod-raw",
+      "grams": 380,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 20
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 10
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 8
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "mangetout",
+      "grams": 120
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 130
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat cod fillets dry and season it. Prep lime juice and fresh coriander for Lime and herb cod so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook cod fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook lime juice and fresh coriander in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Lime and herb cod before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice cod fillets and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "cod-lime-herb.webp",
+    "alt": "Lime and herb cod served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 438,
+    "protein": 41.5,
+    "carbs": 54.9,
+    "fat": 5.8,
+    "fibre": 2.4
+  }
+}

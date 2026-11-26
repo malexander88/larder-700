@@ -1,0 +1,111 @@
+{
+  "slug": "bean-stuffed-peppers",
+  "title": "Bean stuffed peppers",
+  "summary": "Bean stuffed peppers is a mexican dinner built around red peppers and canned pinto beans, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mexican",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "red-pepper",
+      "grams": 300,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "pinto-beans",
+      "grams": 280,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 116
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 60
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 60,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chipotle-paste",
+      "grams": 10
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Bean stuffed peppers into even pieces and toss canned pinto beans with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of canned pinto beans while you season red peppers. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle red peppers and basmati rice among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Bean stuffed peppers before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Bean stuffed peppers into warm bowls with the juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "bean-stuffed-peppers.webp",
+    "alt": "Bean stuffed peppers",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 449,
+    "protein": 17.1,
+    "carbs": 83.1,
+    "fat": 5.3,
+    "fibre": 13.5
+  }
+}

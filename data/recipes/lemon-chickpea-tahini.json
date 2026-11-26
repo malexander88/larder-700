@@ -1,0 +1,98 @@
+{
+  "slug": "lemon-chickpea-tahini",
+  "title": "Warm chickpeas with lemon tahini",
+  "summary": "Warm chickpeas with lemon tahini is a middle eastern dinner built around canned chickpeas in water and tahini, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 470,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "tahini",
+      "grams": 20
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 18
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 100,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Warm chickpeas with lemon tahini chopped before the pan goes on. Pat canned chickpeas in water dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook canned chickpeas in water until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook tahini and lemon juice until hot and lightly browned. Return canned chickpeas in water and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Warm chickpeas with lemon tahini, add salt if it needs it, and serve straight away.",
+      "tip": "Taste Warm chickpeas with lemon tahini before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "lemon-chickpea-tahini.webp",
+    "alt": "Warm chickpeas with lemon tahini",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 433,
+    "protein": 20.5,
+    "carbs": 41.2,
+    "fat": 20.8,
+    "fibre": 12.3
+  }
+}

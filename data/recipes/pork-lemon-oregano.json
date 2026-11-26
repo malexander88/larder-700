@@ -1,0 +1,105 @@
+{
+  "slug": "pork-lemon-oregano",
+  "title": "Lemon oregano pork",
+  "summary": "Lemon oregano pork is a mediterranean dinner built around pork fillet and lemon juice, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "pork",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 520,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 18
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "courgette",
+      "grams": 200,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 120,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat pork fillet dry and season it. Prep lemon juice and dried oregano for Lemon oregano pork so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook pork fillet on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook lemon juice and dried oregano in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Lemon oregano pork before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice pork fillet and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "pork-lemon-oregano.webp",
+    "alt": "Lemon oregano pork served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 549,
+    "protein": 61.9,
+    "carbs": 33.2,
+    "fat": 18.7,
+    "fibre": 2.4
+  }
+}

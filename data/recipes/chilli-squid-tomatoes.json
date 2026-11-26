@@ -1,0 +1,104 @@
+{
+  "slug": "chilli-squid-tomatoes",
+  "title": "Chilli squid with cherry tomatoes",
+  "summary": "Chilli squid with cherry tomatoes is a italian dinner built around squid rings and cherry tomatoes, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "squid",
+      "grams": 520,
+      "prepNote": "patted dry"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 200,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 12
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 10
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat squid rings dry and season it. Prep cherry tomatoes and garlic for Chilli squid with cherry tomatoes so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook squid rings on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook cherry tomatoes and garlic in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Chilli squid with cherry tomatoes before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice squid rings and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "chilli-squid-tomatoes.webp",
+    "alt": "Chilli squid with cherry tomatoes",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 454,
+    "protein": 45.7,
+    "carbs": 38.4,
+    "fat": 13,
+    "fibre": 1.9
+  }
+}

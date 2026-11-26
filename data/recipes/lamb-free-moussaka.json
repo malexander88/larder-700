@@ -1,0 +1,110 @@
+{
+  "slug": "lamb-free-moussaka",
+  "title": "Lentil moussaka",
+  "summary": "Lentil moussaka is a mediterranean dinner built around aubergines and canned green lentils, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "aubergine",
+      "grams": 350,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "green-lentils-canned",
+      "grams": 472,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "passata",
+      "grams": 220
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "cinnamon",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 60
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Lentil moussaka into even pieces and toss canned green lentils with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of canned green lentils while you season aubergines. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle aubergines and passata among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Lentil moussaka before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Lentil moussaka into warm bowls with the juices."
+    }
+  ],
+  "image": {
+    "file": "lamb-free-moussaka.webp",
+    "alt": "Lentil moussaka served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 433,
+    "protein": 27.1,
+    "carbs": 56.7,
+    "fat": 11,
+    "fibre": 18.2
+  }
+}

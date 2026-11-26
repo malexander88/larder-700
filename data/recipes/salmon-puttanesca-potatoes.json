@@ -1,0 +1,107 @@
+{
+  "slug": "salmon-puttanesca-potatoes",
+  "title": "Salmon puttanesca with new potatoes",
+  "summary": "Salmon puttanesca with new potatoes is a italian dinner built around salmon fillets and new potatoes, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 300,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 260,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 200,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 30
+    },
+    {
+      "nutritionId": "capers",
+      "grams": 12
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Salmon puttanesca with new potatoes into even pieces and toss new potatoes with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of new potatoes while you season salmon fillets. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle salmon fillets and cherry tomatoes among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Salmon puttanesca with new potatoes before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Salmon puttanesca with new potatoes into warm bowls with the juices.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "salmon-puttanesca-potatoes.webp",
+    "alt": "Salmon puttanesca with new potatoes",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 453,
+    "protein": 34.1,
+    "carbs": 25.1,
+    "fat": 24,
+    "fibre": 4
+  }
+}

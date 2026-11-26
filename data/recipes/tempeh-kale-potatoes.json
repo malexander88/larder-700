@@ -1,0 +1,101 @@
+{
+  "slug": "tempeh-kale-potatoes",
+  "title": "Tempeh with kale and potatoes",
+  "summary": "Tempeh with kale and potatoes is a british dinner built around tempeh and kale, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tempeh",
+      "grams": 280,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "kale",
+      "grams": 120,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 240,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Tempeh with kale and potatoes into even pieces and toss kale with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of kale while you season tempeh. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle tempeh and new potatoes among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Tempeh with kale and potatoes before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Tempeh with kale and potatoes into warm bowls with the juices.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "tempeh-kale-potatoes.webp",
+    "alt": "Tempeh with kale and potatoes",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 450,
+    "protein": 31.1,
+    "carbs": 34.1,
+    "fat": 21,
+    "fibre": 11.2
+  }
+}

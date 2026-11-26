@@ -1,0 +1,97 @@
+{
+  "slug": "salmon-tahini-greens",
+  "title": "Salmon with tahini greens",
+  "summary": "Salmon with tahini greens is a middle eastern dinner built around salmon fillets and baby spinach, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 320,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 140,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "tahini",
+      "grams": 16
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 14
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat salmon fillets dry and season it. Prep baby spinach and tahini for Salmon with tahini greens so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook salmon fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook baby spinach and tahini in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Salmon with tahini greens before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice salmon fillets and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "salmon-tahini-greens.webp",
+    "alt": "Salmon with tahini greens",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 436,
+    "protein": 35.6,
+    "carbs": 3.4,
+    "fat": 31.1,
+    "fibre": 2
+  }
+}

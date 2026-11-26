@@ -1,0 +1,104 @@
+{
+  "slug": "teriyaki-haddock-broccoli",
+  "title": "Teriyaki haddock with broccoli",
+  "summary": "Teriyaki haddock with broccoli is a japanese dinner built around haddock fillets and broccoli, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "haddock-raw",
+      "grams": 520,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 220,
+      "prepNote": "cut into florets"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 16
+    },
+    {
+      "nutritionId": "mirin",
+      "grams": 12
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat haddock fillets dry and season it. Prep broccoli and tamari for Teriyaki haddock with broccoli so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook haddock fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook broccoli and tamari in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Teriyaki haddock with broccoli before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice haddock fillets and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "teriyaki-haddock-broccoli.webp",
+    "alt": "Teriyaki haddock with broccoli",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 485,
+    "protein": 56.5,
+    "carbs": 36.3,
+    "fat": 12.6,
+    "fibre": 3.7
+  }
+}

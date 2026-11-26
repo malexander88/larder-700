@@ -1,0 +1,107 @@
+{
+  "slug": "tuna-olive-orzo",
+  "title": "Tuna and olive orzo",
+  "summary": "Tuna and olive orzo is a italian dinner built around tuna in spring water and orzo pasta, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "fish",
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 16,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Colander"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tuna-water",
+      "grams": 240,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "orzo-dry",
+      "grams": 130
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 180,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 25
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Start the sauce for Tuna and olive orzo: soften the onion, then add garlic and orzo pasta. Season tuna in spring water and have the pasta water on to boil.",
+      "tip": "Salt the pasta water. It is the only chance to season the noodles themselves."
+    },
+    {
+      "minutes": 10,
+      "heat": "medium hob",
+      "instruction": "Cook tuna in spring water in the sauce while the pasta boils until tender with a bite. Save a cup of the cooking water before you drain."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Toss the drained pasta with the sauce, loosening it with a splash of pasta water so it clings to cherry tomatoes.",
+      "tip": "Taste Tuna and olive orzo before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve Tuna and olive orzo straight away in warm bowls.  Serve with the orzo, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "tuna-olive-orzo.webp",
+    "alt": "Tuna and olive orzo served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 433,
+    "protein": 39.1,
+    "carbs": 51.7,
+    "fat": 7.7,
+    "fibre": 3.6
+  }
+}

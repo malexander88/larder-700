@@ -1,0 +1,107 @@
+{
+  "slug": "rosemary-chickpea-kale",
+  "title": "Rosemary chickpeas with kale",
+  "summary": "Rosemary chickpeas with kale is a italian dinner built around canned chickpeas in water and chopped tomatoes, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 520,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 260
+    },
+    {
+      "nutritionId": "rosemary",
+      "grams": 4
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "kale",
+      "grams": 100,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Rosemary chickpeas with kale. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add canned chickpeas in water and cook until it loses its raw look. Pour in the tomatoes or coconut and chopped tomatoes."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until fresh rosemary is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Rosemary chickpeas with kale before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Rosemary chickpeas with kale.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "rosemary-chickpea-kale.webp",
+    "alt": "Rosemary chickpeas with kale",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 548,
+    "protein": 24.6,
+    "carbs": 76.8,
+    "fat": 16,
+    "fibre": 15.1
+  }
+}

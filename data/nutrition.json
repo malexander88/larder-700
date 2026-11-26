@@ -1776,6 +1776,1049 @@
       "flags": [],
       "shopping": false,
       "gramsPerMl": 1
+    },
+    "chicken-thigh-raw": {
+      "shopName": "skinless chicken thigh fillets",
+      "label": "skinless chicken thigh fillets",
+      "aisle": "meat-fish",
+      "per100g": {
+        "calories": 134,
+        "protein": 20,
+        "carbs": 0,
+        "fat": 6,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "meat",
+        "animal",
+        "chicken"
+      ],
+      "shopping": true
+    },
+    "pork-mince-5": {
+      "shopName": "lean pork mince 5% fat",
+      "label": "lean pork mince 5% fat",
+      "aisle": "meat-fish",
+      "per100g": {
+        "calories": 129,
+        "protein": 21,
+        "carbs": 0,
+        "fat": 5,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "meat",
+        "animal",
+        "pork"
+      ],
+      "shopping": true
+    },
+    "turkey-breast": {
+      "shopName": "turkey breast steaks",
+      "label": "turkey breast steaks",
+      "aisle": "meat-fish",
+      "per100g": {
+        "calories": 105,
+        "protein": 24,
+        "carbs": 0,
+        "fat": 1,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "meat",
+        "animal",
+        "turkey"
+      ],
+      "shopping": true
+    },
+    "beef-steak": {
+      "shopName": "lean beef frying steak",
+      "label": "lean beef frying steak",
+      "aisle": "meat-fish",
+      "per100g": {
+        "calories": 137,
+        "protein": 23,
+        "carbs": 0,
+        "fat": 5,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "meat",
+        "animal",
+        "beef"
+      ],
+      "shopping": true
+    },
+    "tuna-water": {
+      "shopName": "tuna in spring water",
+      "label": "tuna in spring water",
+      "aisle": "tins-jars",
+      "per100g": {
+        "calories": 109,
+        "protein": 25,
+        "carbs": 0,
+        "fat": 1,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "fish",
+        "animal"
+      ],
+      "shopping": true
+    },
+    "sardines": {
+      "shopName": "sardines in spring water",
+      "label": "sardines in spring water",
+      "aisle": "tins-jars",
+      "per100g": {
+        "calories": 190,
+        "protein": 25,
+        "carbs": 0,
+        "fat": 10,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "fish",
+        "animal"
+      ],
+      "shopping": true
+    },
+    "mackerel": {
+      "shopName": "mackerel fillets",
+      "label": "mackerel fillets",
+      "aisle": "meat-fish",
+      "per100g": {
+        "calories": 202,
+        "protein": 19,
+        "carbs": 0,
+        "fat": 14,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "fish",
+        "animal"
+      ],
+      "shopping": true
+    },
+    "squid": {
+      "shopName": "squid rings",
+      "label": "squid rings",
+      "aisle": "meat-fish",
+      "per100g": {
+        "calories": 85,
+        "protein": 16,
+        "carbs": 2,
+        "fat": 1.4,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "seafood",
+        "animal"
+      ],
+      "shopping": true
+    },
+    "mussels": {
+      "shopName": "mussels",
+      "label": "mussels",
+      "aisle": "meat-fish",
+      "per100g": {
+        "calories": 78,
+        "protein": 12,
+        "carbs": 3,
+        "fat": 2,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "seafood",
+        "animal"
+      ],
+      "shopping": true
+    },
+    "crab": {
+      "shopName": "white crab meat",
+      "label": "white crab meat",
+      "aisle": "tins-jars",
+      "per100g": {
+        "calories": 81,
+        "protein": 18,
+        "carbs": 0,
+        "fat": 1,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "seafood",
+        "animal"
+      ],
+      "shopping": true
+    },
+    "smoked-tofu": {
+      "shopName": "smoked tofu",
+      "label": "smoked tofu",
+      "aisle": "plant-based",
+      "per100g": {
+        "calories": 144,
+        "protein": 16,
+        "carbs": 2,
+        "fat": 8,
+        "fibre": 1
+      },
+      "displayAs": "g",
+      "flags": [
+        "tofu"
+      ],
+      "shopping": true
+    },
+    "tempeh": {
+      "shopName": "tempeh",
+      "label": "tempeh",
+      "aisle": "plant-based",
+      "per100g": {
+        "calories": 211,
+        "protein": 19,
+        "carbs": 9,
+        "fat": 11,
+        "fibre": 5
+      },
+      "displayAs": "g",
+      "flags": [
+        "legume"
+      ],
+      "shopping": true
+    },
+    "cottage-cheese": {
+      "shopName": "cottage cheese",
+      "label": "cottage cheese",
+      "aisle": "dairy-eggs",
+      "per100g": {
+        "calories": 92,
+        "protein": 11,
+        "carbs": 3,
+        "fat": 4,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "dairy",
+        "animal"
+      ],
+      "shopping": true
+    },
+    "mozzarella-light": {
+      "shopName": "light mozzarella",
+      "label": "light mozzarella",
+      "aisle": "dairy-eggs",
+      "per100g": {
+        "calories": 179,
+        "protein": 18,
+        "carbs": 2,
+        "fat": 11,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "dairy",
+        "animal"
+      ],
+      "shopping": true
+    },
+    "ricotta": {
+      "shopName": "ricotta",
+      "label": "ricotta",
+      "aisle": "dairy-eggs",
+      "per100g": {
+        "calories": 146,
+        "protein": 11,
+        "carbs": 3,
+        "fat": 10,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "dairy",
+        "animal"
+      ],
+      "shopping": true
+    },
+    "halloumi": {
+      "shopName": "halloumi",
+      "label": "halloumi",
+      "aisle": "dairy-eggs",
+      "per100g": {
+        "calories": 321,
+        "protein": 22,
+        "carbs": 2,
+        "fat": 25,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "dairy",
+        "animal"
+      ],
+      "shopping": true
+    },
+    "quinoa-dry": {
+      "shopName": "quinoa",
+      "label": "quinoa",
+      "aisle": "grains",
+      "per100g": {
+        "calories": 366,
+        "protein": 14,
+        "carbs": 64,
+        "fat": 6,
+        "fibre": 7
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "polenta": {
+      "shopName": "polenta",
+      "label": "polenta",
+      "aisle": "grains",
+      "per100g": {
+        "calories": 341,
+        "protein": 8,
+        "carbs": 75,
+        "fat": 1,
+        "fibre": 3
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "buckwheat-noodles": {
+      "shopName": "buckwheat noodles",
+      "label": "buckwheat noodles",
+      "aisle": "grains",
+      "per100g": {
+        "calories": 326,
+        "protein": 12,
+        "carbs": 65,
+        "fat": 2,
+        "fibre": 4
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "corn-tortilla": {
+      "shopName": "corn tortillas",
+      "label": "corn tortillas",
+      "aisle": "world",
+      "per100g": {
+        "calories": 223,
+        "protein": 5,
+        "carbs": 45,
+        "fat": 2.5,
+        "fibre": 6
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "edamame": {
+      "shopName": "frozen edamame beans",
+      "label": "frozen edamame beans",
+      "aisle": "frozen",
+      "per100g": {
+        "calories": 121,
+        "protein": 11,
+        "carbs": 8,
+        "fat": 5,
+        "fibre": 5
+      },
+      "displayAs": "g",
+      "flags": [
+        "legume"
+      ],
+      "shopping": true
+    },
+    "butter-beans": {
+      "shopName": "canned butter beans",
+      "label": "canned butter beans",
+      "aisle": "tins-jars",
+      "per100g": {
+        "calories": 85,
+        "protein": 7,
+        "carbs": 13,
+        "fat": 0.5,
+        "fibre": 5
+      },
+      "displayAs": "g",
+      "flags": [
+        "legume"
+      ],
+      "shopping": true
+    },
+    "asparagus": {
+      "shopName": "asparagus",
+      "label": "asparagus",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 19,
+        "protein": 2.2,
+        "carbs": 2,
+        "fat": 0.2,
+        "fibre": 2
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "beetroot": {
+      "shopName": "cooked beetroot",
+      "label": "cooked beetroot",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 39,
+        "protein": 1.6,
+        "carbs": 8,
+        "fat": 0.1,
+        "fibre": 2
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "brussels": {
+      "shopName": "Brussels sprouts",
+      "label": "Brussels sprouts",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 32,
+        "protein": 3.4,
+        "carbs": 4,
+        "fat": 0.3,
+        "fibre": 4
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "fennel": {
+      "shopName": "fennel",
+      "label": "fennel",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 23,
+        "protein": 1.2,
+        "carbs": 4,
+        "fat": 0.2,
+        "fibre": 3
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "rocket": {
+      "shopName": "rocket",
+      "label": "rocket",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 25,
+        "protein": 2.6,
+        "carbs": 2,
+        "fat": 0.7,
+        "fibre": 1.6
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "mango": {
+      "shopName": "mango",
+      "label": "mango",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 63,
+        "protein": 0.8,
+        "carbs": 14,
+        "fat": 0.4,
+        "fibre": 1.6
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "pineapple": {
+      "shopName": "pineapple",
+      "label": "pineapple",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 51,
+        "protein": 0.5,
+        "carbs": 12,
+        "fat": 0.1,
+        "fibre": 1.4
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "red-cabbage": {
+      "shopName": "red cabbage",
+      "label": "red cabbage",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 27,
+        "protein": 1.4,
+        "carbs": 5,
+        "fat": 0.2,
+        "fibre": 2
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "kimchi": {
+      "shopName": "kimchi",
+      "label": "kimchi",
+      "aisle": "world",
+      "per100g": {
+        "calories": 29,
+        "protein": 2,
+        "carbs": 4,
+        "fat": 0.5,
+        "fibre": 2
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "gochujang": {
+      "shopName": "gochujang",
+      "label": "gochujang",
+      "aisle": "world",
+      "per100g": {
+        "calories": 189,
+        "protein": 5,
+        "carbs": 40,
+        "fat": 1,
+        "fibre": 3
+      },
+      "displayAs": "tsp",
+      "flags": [],
+      "shopping": true,
+      "gramsPerMl": 1.1
+    },
+    "red-curry-paste": {
+      "shopName": "vegan Thai red curry paste",
+      "label": "vegan Thai red curry paste",
+      "aisle": "world",
+      "per100g": {
+        "calories": 124,
+        "protein": 3,
+        "carbs": 10,
+        "fat": 8,
+        "fibre": 2
+      },
+      "displayAs": "tsp",
+      "flags": [],
+      "shopping": true,
+      "gramsPerMl": 1.05
+    },
+    "chipotle-paste": {
+      "shopName": "chipotle paste",
+      "label": "chipotle paste",
+      "aisle": "oils-sauces",
+      "per100g": {
+        "calories": 83,
+        "protein": 2,
+        "carbs": 12,
+        "fat": 3,
+        "fibre": 2
+      },
+      "displayAs": "tsp",
+      "flags": [],
+      "shopping": true,
+      "gramsPerMl": 1.05
+    },
+    "sesame-seeds": {
+      "shopName": "sesame seeds",
+      "label": "sesame seeds",
+      "aisle": "spices",
+      "per100g": {
+        "calories": 562,
+        "protein": 18,
+        "carbs": 10,
+        "fat": 50,
+        "fibre": 12
+      },
+      "displayAs": "tsp",
+      "flags": [],
+      "shopping": true,
+      "gramsPerMl": 0.6
+    },
+    "nori": {
+      "shopName": "nori sheets",
+      "label": "nori sheets",
+      "aisle": "world",
+      "per100g": {
+        "calories": 47,
+        "protein": 6,
+        "carbs": 5,
+        "fat": 0.3,
+        "fibre": 4
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "orange": {
+      "shopName": "oranges",
+      "label": "oranges",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 41,
+        "protein": 0.9,
+        "carbs": 9,
+        "fat": 0.1,
+        "fibre": 2
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "gf-oats": {
+      "shopName": "gluten-free oats",
+      "label": "gluten-free oats",
+      "aisle": "grains",
+      "per100g": {
+        "calories": 355,
+        "protein": 13,
+        "carbs": 60,
+        "fat": 7,
+        "fibre": 9
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "bulgur": {
+      "shopName": "bulgur wheat",
+      "label": "bulgur wheat",
+      "aisle": "grains",
+      "per100g": {
+        "calories": 342,
+        "protein": 12,
+        "carbs": 70,
+        "fat": 1.5,
+        "fibre": 8
+      },
+      "displayAs": "g",
+      "flags": [
+        "gluten"
+      ],
+      "shopping": true
+    },
+    "pitta-wholemeal": {
+      "shopName": "wholemeal pitta breads",
+      "label": "wholemeal pitta breads",
+      "aisle": "bakery",
+      "per100g": {
+        "calories": 262,
+        "protein": 9,
+        "carbs": 52,
+        "fat": 2,
+        "fibre": 6
+      },
+      "displayAs": "g",
+      "flags": [
+        "gluten"
+      ],
+      "shopping": true
+    },
+    "gnocchi": {
+      "shopName": "fresh gnocchi",
+      "label": "fresh gnocchi",
+      "aisle": "grains",
+      "per100g": {
+        "calories": 149,
+        "protein": 5,
+        "carbs": 30,
+        "fat": 1,
+        "fibre": 2
+      },
+      "displayAs": "g",
+      "flags": [
+        "gluten"
+      ],
+      "shopping": true
+    },
+    "coconut-yoghurt": {
+      "shopName": "unsweetened coconut yoghurt",
+      "label": "unsweetened coconut yoghurt",
+      "aisle": "plant-based",
+      "per100g": {
+        "calories": 96,
+        "protein": 2,
+        "carbs": 4,
+        "fat": 8,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "nutritional-yeast": {
+      "shopName": "nutritional yeast",
+      "label": "nutritional yeast",
+      "aisle": "world",
+      "per100g": {
+        "calories": 316,
+        "protein": 45,
+        "carbs": 25,
+        "fat": 4,
+        "fibre": 18
+      },
+      "displayAs": "tsp",
+      "flags": [],
+      "shopping": true,
+      "gramsPerMl": 0.4
+    },
+    "walnuts": {
+      "shopName": "walnuts",
+      "label": "walnuts",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 673,
+        "protein": 15,
+        "carbs": 7,
+        "fat": 65,
+        "fibre": 7
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "pumpkin-seeds": {
+      "shopName": "pumpkin seeds",
+      "label": "pumpkin seeds",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 605,
+        "protein": 30,
+        "carbs": 11,
+        "fat": 49,
+        "fibre": 6
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "chickpea-flour": {
+      "shopName": "gram flour",
+      "label": "gram flour",
+      "aisle": "grains",
+      "per100g": {
+        "calories": 342,
+        "protein": 22,
+        "carbs": 50,
+        "fat": 6,
+        "fibre": 10
+      },
+      "displayAs": "g",
+      "flags": [
+        "legume"
+      ],
+      "shopping": true
+    },
+    "artichoke-hearts": {
+      "shopName": "canned artichoke hearts",
+      "label": "canned artichoke hearts",
+      "aisle": "tins-jars",
+      "per100g": {
+        "calories": 39,
+        "protein": 2,
+        "carbs": 7,
+        "fat": 0.3,
+        "fibre": 5
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "sun-dried-tomatoes": {
+      "shopName": "sun-dried tomatoes",
+      "label": "sun-dried tomatoes",
+      "aisle": "tins-jars",
+      "per100g": {
+        "calories": 259,
+        "protein": 14,
+        "carbs": 44,
+        "fat": 3,
+        "fibre": 12
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "pesto": {
+      "shopName": "fresh basil pesto",
+      "label": "fresh basil pesto",
+      "aisle": "oils-sauces",
+      "per100g": {
+        "calories": 404,
+        "protein": 5,
+        "carbs": 6,
+        "fat": 40,
+        "fibre": 2
+      },
+      "displayAs": "tsp",
+      "flags": [
+        "dairy",
+        "animal"
+      ],
+      "shopping": true,
+      "gramsPerMl": 1.05
+    },
+    "anchovies": {
+      "shopName": "anchovy fillets",
+      "label": "anchovy fillets",
+      "aisle": "tins-jars",
+      "per100g": {
+        "calories": 190,
+        "protein": 25,
+        "carbs": 0,
+        "fat": 10,
+        "fibre": 0
+      },
+      "displayAs": "g",
+      "flags": [
+        "fish",
+        "animal"
+      ],
+      "shopping": true
+    },
+    "orange-juice": {
+      "shopName": "orange juice",
+      "label": "orange juice",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 40,
+        "protein": 0.7,
+        "carbs": 9,
+        "fat": 0.1,
+        "fibre": 0.2
+      },
+      "displayAs": "ml",
+      "flags": [],
+      "shopping": true,
+      "gramsPerMl": 1.04
+    },
+    "mirin": {
+      "shopName": "mirin",
+      "label": "mirin",
+      "aisle": "world",
+      "per100g": {
+        "calories": 170,
+        "protein": 0.4,
+        "carbs": 42,
+        "fat": 0,
+        "fibre": 0
+      },
+      "displayAs": "ml",
+      "flags": [],
+      "shopping": true,
+      "gramsPerMl": 1.1
+    },
+    "parsnip": {
+      "shopName": "parsnips",
+      "label": "parsnips",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 60,
+        "protein": 1.2,
+        "carbs": 13,
+        "fat": 0.3,
+        "fibre": 4
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "swede": {
+      "shopName": "swede",
+      "label": "swede",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 28,
+        "protein": 0.7,
+        "carbs": 6,
+        "fat": 0.1,
+        "fibre": 2
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "celeriac": {
+      "shopName": "celeriac",
+      "label": "celeriac",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 37,
+        "protein": 1.5,
+        "carbs": 7,
+        "fat": 0.3,
+        "fibre": 2
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "radish": {
+      "shopName": "radishes",
+      "label": "radishes",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 12,
+        "protein": 0.7,
+        "carbs": 2,
+        "fat": 0.1,
+        "fibre": 1.6
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "watercress": {
+      "shopName": "watercress",
+      "label": "watercress",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 14,
+        "protein": 2.3,
+        "carbs": 1,
+        "fat": 0.1,
+        "fibre": 1.5
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "pinto-beans": {
+      "shopName": "canned pinto beans",
+      "label": "canned pinto beans",
+      "aisle": "tins-jars",
+      "per100g": {
+        "calories": 93,
+        "protein": 7,
+        "carbs": 15,
+        "fat": 0.6,
+        "fibre": 6
+      },
+      "displayAs": "g",
+      "flags": [
+        "legume"
+      ],
+      "shopping": true
+    },
+    "green-lentils-dry": {
+      "shopName": "dried green lentils",
+      "label": "dried green lentils",
+      "aisle": "grains",
+      "per100g": {
+        "calories": 302,
+        "protein": 24,
+        "carbs": 48,
+        "fat": 1.5,
+        "fibre": 11
+      },
+      "displayAs": "g",
+      "flags": [
+        "legume"
+      ],
+      "shopping": true
+    },
+    "beansprouts": {
+      "shopName": "beansprouts",
+      "label": "beansprouts",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 30,
+        "protein": 3,
+        "carbs": 4,
+        "fat": 0.2,
+        "fibre": 1.8
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "peanuts": {
+      "shopName": "unsalted peanuts",
+      "label": "unsalted peanuts",
+      "aisle": "fruit-veg",
+      "per100g": {
+        "calories": 577,
+        "protein": 26,
+        "carbs": 8,
+        "fat": 49,
+        "fibre": 8
+      },
+      "displayAs": "g",
+      "flags": [],
+      "shopping": true
+    },
+    "curry-leaves": {
+      "shopName": "dried curry leaves",
+      "label": "dried curry leaves",
+      "aisle": "spices",
+      "per100g": {
+        "calories": 228,
+        "protein": 8,
+        "carbs": 40,
+        "fat": 4,
+        "fibre": 15
+      },
+      "displayAs": "tsp",
+      "flags": [],
+      "shopping": true,
+      "gramsPerMl": 0.2
+    },
+    "mustard-seeds": {
+      "shopName": "black mustard seeds",
+      "label": "black mustard seeds",
+      "aisle": "spices",
+      "per100g": {
+        "calories": 516,
+        "protein": 20,
+        "carbs": 28,
+        "fat": 36,
+        "fibre": 12
+      },
+      "displayAs": "tsp",
+      "flags": [],
+      "shopping": true,
+      "gramsPerMl": 0.5
+    },
+    "coriander-seeds": {
+      "shopName": "coriander seeds",
+      "label": "coriander seeds",
+      "aisle": "spices",
+      "per100g": {
+        "calories": 350,
+        "protein": 12,
+        "carbs": 35,
+        "fat": 18,
+        "fibre": 30
+      },
+      "displayAs": "tsp",
+      "flags": [],
+      "shopping": true,
+      "gramsPerMl": 0.4
     }
   }
 }

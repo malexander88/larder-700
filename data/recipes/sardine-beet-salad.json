@@ -1,0 +1,97 @@
+{
+  "slug": "sardine-beet-salad",
+  "title": "Sardine and beetroot salad",
+  "summary": "Sardine and beetroot salad is a british dinner built around sardines in spring water and cooked beetroot, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "sardines",
+      "grams": 337,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "beetroot",
+      "grams": 180,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "rocket",
+      "grams": 40,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 40
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "dill",
+      "grams": 6
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Sardine and beetroot salad chopped before the pan goes on. Pat sardines in spring water dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook sardines in spring water until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook cooked beetroot and rocket until hot and lightly browned. Return sardines in spring water and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Sardine and beetroot salad, add salt if it needs it, and serve straight away.",
+      "tip": "Taste Sardine and beetroot salad before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "sardine-beet-salad.webp",
+    "alt": "Sardine and beetroot salad",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 455,
+    "protein": 46.3,
+    "carbs": 8.9,
+    "fat": 26.1,
+    "fibre": 2.2
+  }
+}

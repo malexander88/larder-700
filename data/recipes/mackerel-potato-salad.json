@@ -1,0 +1,96 @@
+{
+  "slug": "mackerel-potato-salad",
+  "title": "Mackerel and warm potato salad",
+  "summary": "Mackerel and warm potato salad is a british dinner built around mackerel fillets and new potatoes, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "mackerel",
+      "grams": 260,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 389,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 80,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "radish",
+      "grams": 60
+    },
+    {
+      "nutritionId": "dill",
+      "grams": 6
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook mackerel fillets for Mackerel and warm potato salad in a lightly oiled pan until just done, and cook or warm little gem lettuce alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss new potatoes with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Mackerel and warm potato salad straight away. Taste Mackerel and warm potato salad before serving and add a squeeze of lemon if it wants brightness.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "mackerel-potato-salad.webp",
+    "alt": "Mackerel and warm potato salad",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 444,
+    "protein": 29.4,
+    "carbs": 30.8,
+    "fat": 22.5,
+    "fibre": 3.9
+  }
+}

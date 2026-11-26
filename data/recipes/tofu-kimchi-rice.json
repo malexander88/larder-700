@@ -1,0 +1,101 @@
+{
+  "slug": "tofu-kimchi-rice",
+  "title": "Tofu kimchi rice bowl",
+  "summary": "Tofu kimchi rice bowl is a japanese dinner built around smoked tofu and kimchi, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "smoked-tofu",
+      "grams": 300,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "kimchi",
+      "grams": 80,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 94
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 60,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 3
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 8
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice smoked tofu and kimchi before the pan is hot. Tofu kimchi rice bowl is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry smoked tofu until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add kimchi and basmati rice, return smoked tofu, and toss with the sauce for a minute. Taste Tofu kimchi rice bowl before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "tofu-kimchi-rice.webp",
+    "alt": "Tofu kimchi rice bowl",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 443,
+    "protein": 29.7,
+    "carbs": 42.6,
+    "fat": 17,
+    "fibre": 3.7
+  }
+}

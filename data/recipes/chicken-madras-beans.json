@@ -1,0 +1,120 @@
+{
+  "slug": "chicken-madras-beans",
+  "title": "Chicken madras with green beans",
+  "summary": "Chicken madras with green beans is a indian dinner built around skinless chicken breast fillets and green beans, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Indian",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 340,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "green-beans",
+      "grams": 160,
+      "prepNote": "trimmed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 240
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 90,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 1
+    },
+    {
+      "nutritionId": "garam-masala",
+      "grams": 2
+    },
+    {
+      "nutritionId": "paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 83
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Chicken madras with green beans. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add skinless chicken breast fillets and cook until it loses its raw look. Pour in the tomatoes or coconut and green beans."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until chopped tomatoes is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Chicken madras with green beans before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Chicken madras with green beans.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "chicken-madras-beans.webp",
+    "alt": "Chicken madras with green beans",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 446,
+    "protein": 46.3,
+    "carbs": 48,
+    "fat": 7.6,
+    "fibre": 5.2
+  }
+}

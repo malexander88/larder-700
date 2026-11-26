@@ -1,0 +1,102 @@
+{
+  "slug": "salmon-soy-asparagus",
+  "title": "Soy salmon with asparagus",
+  "summary": "Soy salmon with asparagus is a chinese dinner built around salmon fillets and asparagus, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Chinese",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 336,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "asparagus",
+      "grams": 220,
+      "prepNote": "trimmed"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 19
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 4
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 15
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat salmon fillets dry and season it. Prep asparagus and tamari for Soy salmon with asparagus so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook salmon fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook asparagus and tamari in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Soy salmon with asparagus before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice salmon fillets and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "salmon-soy-asparagus.webp",
+    "alt": "Soy salmon with asparagus",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 454,
+    "protein": 37.1,
+    "carbs": 4.7,
+    "fat": 31.8,
+    "fibre": 2.6
+  }
+}

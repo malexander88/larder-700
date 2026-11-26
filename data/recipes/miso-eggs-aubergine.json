@@ -1,0 +1,104 @@
+{
+  "slug": "miso-eggs-aubergine",
+  "title": "Miso eggs with aubergine",
+  "summary": "Miso eggs with aubergine is a japanese dinner built around medium eggs and aubergines, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "eggs",
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 458,
+      "prepNote": "beaten if the method says so"
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 260,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "miso-rice",
+      "grams": 16
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Miso eggs with aubergine. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add medium eggs and cook until it loses its raw look. Pour in the tomatoes or coconut and aubergines."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until rice miso paste is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Miso eggs with aubergine before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Miso eggs with aubergine."
+    }
+  ],
+  "image": {
+    "file": "miso-eggs-aubergine.webp",
+    "alt": "Miso eggs with aubergine",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 460,
+    "protein": 31.5,
+    "carbs": 10.1,
+    "fat": 32.6,
+    "fibre": 3.8
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "sesame-tofu-spinach",
+  "title": "Sesame tofu with spinach",
+  "summary": "Sesame tofu with spinach is a japanese dinner built around firm tofu and baby spinach, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 448,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 180,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 12
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Sesame tofu with spinach chopped before the pan goes on. Pat firm tofu dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook firm tofu until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook baby spinach and sesame seeds until hot and lightly browned. Return firm tofu and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Sesame tofu with spinach, add salt if it needs it, and serve straight away.",
+      "tip": "Taste Sesame tofu with spinach before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "sesame-tofu-spinach.webp",
+    "alt": "Sesame tofu with spinach",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 445,
+    "protein": 32.6,
+    "carbs": 8.9,
+    "fat": 31,
+    "fibre": 4
+  }
+}

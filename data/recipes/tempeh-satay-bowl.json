@@ -1,0 +1,100 @@
+{
+  "slug": "tempeh-satay-bowl",
+  "title": "Tempeh satay bowl",
+  "summary": "Tempeh satay bowl is a thai dinner built around tempeh and peanut butter, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tempeh",
+      "grams": 260,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "peanut-butter",
+      "grams": 16
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 120,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 60,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 80,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 8
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 50
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook tempeh for Tempeh satay bowl in a lightly oiled pan until just done, and cook or warm lime juice alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss peanut butter with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Tempeh satay bowl straight away. Taste Tempeh satay bowl before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "tempeh-satay-bowl.webp",
+    "alt": "Tempeh satay bowl served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 441,
+    "protein": 30.2,
+    "carbs": 37.9,
+    "fat": 18.7,
+    "fibre": 8.9
+  }
+}

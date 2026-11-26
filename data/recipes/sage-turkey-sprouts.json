@@ -1,0 +1,103 @@
+{
+  "slug": "sage-turkey-sprouts",
+  "title": "Sage turkey with sprouts",
+  "summary": "Sage turkey with sprouts is a british dinner built around turkey breast steaks and Brussels sprouts, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "turkey",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-breast",
+      "grams": 520,
+      "prepNote": "cut into strips"
+    },
+    {
+      "nutritionId": "brussels",
+      "grams": 220,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sage",
+      "grams": 4
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Sage turkey with sprouts into even pieces and toss Brussels sprouts with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of Brussels sprouts while you season turkey breast steaks. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle turkey breast steaks and red onions among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Sage turkey with sprouts before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Sage turkey with sprouts into warm bowls with the juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "sage-turkey-sprouts.webp",
+    "alt": "Sage turkey with sprouts",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 530,
+    "protein": 69.4,
+    "carbs": 35.8,
+    "fat": 12.1,
+    "fibre": 5.5
+  }
+}

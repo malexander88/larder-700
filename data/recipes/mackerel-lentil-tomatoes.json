@@ -1,0 +1,101 @@
+{
+  "slug": "mackerel-lentil-tomatoes",
+  "title": "Mackerel with lentils and tomatoes",
+  "summary": "Mackerel with lentils and tomatoes is a italian dinner built around mackerel fillets and canned green lentils, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "mackerel",
+      "grams": 260,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "green-lentils-canned",
+      "grams": 280,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 160,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat mackerel fillets dry and season it. Prep canned green lentils and cherry tomatoes for Mackerel with lentils and tomatoes so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook mackerel fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook canned green lentils and cherry tomatoes in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Mackerel with lentils and tomatoes before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice mackerel fillets and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "mackerel-lentil-tomatoes.webp",
+    "alt": "Mackerel with lentils and tomatoes",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 456,
+    "protein": 37.6,
+    "carbs": 26.5,
+    "fat": 22.2,
+    "fibre": 8.1
+  }
+}

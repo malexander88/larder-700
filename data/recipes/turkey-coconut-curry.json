@@ -1,0 +1,101 @@
+{
+  "slug": "turkey-coconut-curry",
+  "title": "Turkey coconut curry",
+  "summary": "Turkey coconut curry is a thai dinner built around turkey breast mince and light coconut milk, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "turkey",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 320,
+      "prepNote": "broken up"
+    },
+    {
+      "nutritionId": "coconut-milk-light",
+      "grams": 140
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 120,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "red-curry-paste",
+      "grams": 18
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 98
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Turkey coconut curry. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add turkey breast mince and cook until it loses its raw look. Pour in the tomatoes or coconut and light coconut milk."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until aubergines is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Turkey coconut curry before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Turkey coconut curry.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "turkey-coconut-curry.webp",
+    "alt": "Turkey coconut curry",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 451,
+    "protein": 42.7,
+    "carbs": 43.5,
+    "fat": 11.8,
+    "fibre": 2.3
+  }
+}

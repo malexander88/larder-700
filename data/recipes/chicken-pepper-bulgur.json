@@ -1,0 +1,110 @@
+{
+  "slug": "chicken-pepper-bulgur",
+  "title": "Chicken and pepper bulgur",
+  "summary": "Chicken and pepper bulgur is a middle eastern dinner built around skinless chicken thigh fillets and bulgur wheat, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "chicken",
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-thigh-raw",
+      "grams": 320,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "bulgur",
+      "grams": 90
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 140,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 250
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Chicken and pepper bulgur. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add skinless chicken thigh fillets and cook until it loses its raw look. Pour in the tomatoes or coconut and bulgur wheat."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until red peppers is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Chicken and pepper bulgur before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Chicken and pepper bulgur.  Serve with the bulgur, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "chicken-pepper-bulgur.webp",
+    "alt": "Chicken and pepper bulgur",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 451,
+    "protein": 39.1,
+    "carbs": 40.4,
+    "fat": 14.7,
+    "fibre": 5.9
+  }
+}

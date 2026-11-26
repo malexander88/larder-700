@@ -1,0 +1,109 @@
+{
+  "slug": "beef-cabbage-braise",
+  "title": "Beef and cabbage braise",
+  "summary": "Beef and cabbage braise is a british dinner built around lean stewing beef and white cabbage, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "beef",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-stewing-lean",
+      "grams": 427,
+      "prepNote": "cut into 3 cm pieces"
+    },
+    {
+      "nutritionId": "white-cabbage",
+      "grams": 200,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 90,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "stock-vegetable-gf",
+      "grams": 12
+    },
+    {
+      "nutritionId": "water",
+      "grams": 300
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Beef and cabbage braise. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add lean stewing beef and cook until it loses its raw look. Pour in the tomatoes or coconut and white cabbage."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until onions is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Beef and cabbage braise before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Beef and cabbage braise."
+    }
+  ],
+  "image": {
+    "file": "beef-cabbage-braise.webp",
+    "alt": "Beef and cabbage braise",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 442,
+    "protein": 49.9,
+    "carbs": 14.7,
+    "fat": 20.4,
+    "fibre": 4.5
+  }
+}

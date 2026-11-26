@@ -1,0 +1,114 @@
+{
+  "slug": "lentil-ragu-spaghetti",
+  "title": "Green lentil ragu with spaghetti",
+  "summary": "Green lentil ragu with spaghetti is a italian dinner built around dried green lentils and wholewheat spaghetti, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 16,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Colander"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "green-lentils-dry",
+      "grams": 160,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "spaghetti-wholewheat",
+      "grams": 110
+    },
+    {
+      "nutritionId": "passata",
+      "grams": 280
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "kale",
+      "grams": 80,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "rosemary",
+      "grams": 3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Start the sauce for Green lentil ragu with spaghetti: soften the onion, then add garlic and wholewheat spaghetti. Season dried green lentils and have the pasta water on to boil.",
+      "tip": "Salt the pasta water. It is the only chance to season the noodles themselves."
+    },
+    {
+      "minutes": 10,
+      "heat": "medium hob",
+      "instruction": "Cook dried green lentils in the sauce while the pasta boils until tender with a bite. Save a cup of the cooking water before you drain."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Toss the drained pasta with the sauce, loosening it with a splash of pasta water so it clings to passata.",
+      "tip": "Taste Green lentil ragu with spaghetti before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve Green lentil ragu with spaghetti straight away in warm bowls.  Serve with the spaghetti, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "lentil-ragu-spaghetti.webp",
+    "alt": "Green lentil ragu with spaghetti",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 538,
+    "protein": 31.4,
+    "carbs": 86.6,
+    "fat": 7.3,
+    "fibre": 17.4
+  }
+}

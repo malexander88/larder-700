@@ -1,0 +1,100 @@
+{
+  "slug": "pork-greens-soba",
+  "title": "Pork and greens soba",
+  "summary": "Pork and greens soba is a japanese dinner built around pork fillet and buckwheat noodles, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "pork",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 320,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "buckwheat-noodles",
+      "grams": 125
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 140,
+      "prepNote": "quartered"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice pork fillet and buckwheat noodles before the pan is hot. Pork and greens soba is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry pork fillet until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add buckwheat noodles and pak choi, return pork fillet, and toss with the sauce for a minute. Taste Pork and greens soba before serving and add a squeeze of lemon if it wants brightness.  Serve with the noodles, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "pork-greens-soba.webp",
+    "alt": "Pork and greens soba",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 461,
+    "protein": 44.7,
+    "carbs": 43.2,
+    "fat": 12,
+    "fibre": 3.6
+  }
+}

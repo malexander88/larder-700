@@ -1,0 +1,95 @@
+{
+  "slug": "steak-mushroom-greens",
+  "title": "Steak with mushrooms and greens",
+  "summary": "Steak with mushrooms and greens is a british dinner built around lean beef frying steak and chestnut mushrooms, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "beef",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-steak",
+      "grams": 478,
+      "prepNote": "sliced thinly"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "kale",
+      "grams": 120,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.4
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Steak with mushrooms and greens chopped before the pan goes on. Pat lean beef frying steak dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook lean beef frying steak until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook chestnut mushrooms and kale until hot and lightly browned. Return lean beef frying steak and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Steak with mushrooms and greens, add salt if it needs it, and serve straight away.",
+      "tip": "Taste Steak with mushrooms and greens before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "steak-mushroom-greens.webp",
+    "alt": "Steak with mushrooms and greens",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 455,
+    "protein": 59,
+    "carbs": 6.3,
+    "fat": 21.6,
+    "fibre": 3.2
+  }
+}

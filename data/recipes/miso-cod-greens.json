@@ -1,0 +1,104 @@
+{
+  "slug": "miso-cod-greens",
+  "title": "Miso cod with greens",
+  "summary": "Miso cod with greens is a japanese dinner built around cod fillets and pak choi, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "cod-raw",
+      "grams": 520,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 200,
+      "prepNote": "quartered"
+    },
+    {
+      "nutritionId": "miso-rice",
+      "grams": 16
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 19
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat cod fillets dry and season it. Prep pak choi and rice miso paste for Miso cod with greens so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook cod fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook pak choi and rice miso paste in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Miso cod with greens before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice cod fillets and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "miso-cod-greens.webp",
+    "alt": "Miso cod with greens",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 470,
+    "protein": 52.1,
+    "carbs": 31.5,
+    "fat": 15.1,
+    "fibre": 1.9
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "cottage-cheese-salsa-peppers",
+  "title": "Cottage cheese stuffed peppers",
+  "summary": "Cottage cheese stuffed peppers is a mexican dinner built around red peppers and cottage cheese, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mexican",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "red-pepper",
+      "grams": 280,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cottage-cheese",
+      "grams": 180
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 520,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 50
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 8
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Cottage cheese stuffed peppers into even pieces and toss cottage cheese with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of cottage cheese while you season red peppers. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle red peppers and canned black beans among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Cottage cheese stuffed peppers before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Cottage cheese stuffed peppers into warm bowls with the juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "cottage-cheese-salsa-peppers.webp",
+    "alt": "Cottage cheese stuffed peppers",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 540,
+    "protein": 35.6,
+    "carbs": 84.1,
+    "fat": 6.8,
+    "fibre": 20.9
+  }
+}

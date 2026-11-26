@@ -1,0 +1,103 @@
+{
+  "slug": "teriyaki-tempeh-broccoli",
+  "title": "Teriyaki tempeh with broccoli",
+  "summary": "Teriyaki tempeh with broccoli is a japanese dinner built around tempeh and broccoli, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tempeh",
+      "grams": 280,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 200,
+      "prepNote": "cut into florets"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 16
+    },
+    {
+      "nutritionId": "mirin",
+      "grams": 12
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 16
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat tempeh dry and season it. Prep broccoli and tamari for Teriyaki tempeh with broccoli so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook tempeh on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook broccoli and tamari in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Teriyaki tempeh with broccoli before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice tempeh and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "teriyaki-tempeh-broccoli.webp",
+    "alt": "Teriyaki tempeh with broccoli",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 436,
+    "protein": 30.8,
+    "carbs": 21.2,
+    "fat": 25.3,
+    "fibre": 10.1
+  }
+}

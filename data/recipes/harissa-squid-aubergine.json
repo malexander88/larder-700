@@ -1,0 +1,101 @@
+{
+  "slug": "harissa-squid-aubergine",
+  "title": "Harissa squid with aubergine",
+  "summary": "Harissa squid with aubergine is a middle eastern dinner built around squid rings and aubergines, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "squid",
+      "grams": 520,
+      "prepNote": "patted dry"
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 220,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "harissa",
+      "grams": 12
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 80,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Harissa squid with aubergine chopped before the pan goes on. Pat squid rings dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook squid rings until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook aubergines and rose harissa paste until hot and lightly browned. Return squid rings and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Harissa squid with aubergine, add salt if it needs it, and serve straight away.  Serve with the rice, simmered in salted water until tender.",
+      "tip": "Taste Harissa squid with aubergine before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "harissa-squid-aubergine.webp",
+    "alt": "Harissa squid with aubergine",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 471,
+    "protein": 46.8,
+    "carbs": 39.3,
+    "fat": 14,
+    "fibre": 4.2
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "salmon-beet-watercress",
+  "title": "Salmon with beetroot and watercress",
+  "summary": "Salmon with beetroot and watercress is a british dinner built around salmon fillets and cooked beetroot, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 320,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "beetroot",
+      "grams": 180,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "watercress",
+      "grams": 40
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 40
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "dill",
+      "grams": 6
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat salmon fillets dry and season it. Prep cooked beetroot and watercress for Salmon with beetroot and watercress so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook salmon fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook cooked beetroot and watercress in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Salmon with beetroot and watercress before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice salmon fillets and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "salmon-beet-watercress.webp",
+    "alt": "Salmon with beetroot and watercress",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 433,
+    "protein": 36.1,
+    "carbs": 8.7,
+    "fat": 28.3,
+    "fibre": 2.2
+  }
+}

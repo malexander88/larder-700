@@ -1,0 +1,97 @@
+{
+  "slug": "harissa-prawn-greens",
+  "title": "Harissa prawns with greens",
+  "summary": "Harissa prawns with greens is a middle eastern dinner built around raw king prawns and rose harissa paste, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 520,
+      "prepNote": "peeled"
+    },
+    {
+      "nutritionId": "harissa",
+      "grams": 12
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 140,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 83
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Harissa prawns with greens chopped before the pan goes on. Pat raw king prawns dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook raw king prawns until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook rose harissa paste and baby spinach until hot and lightly browned. Return raw king prawns and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Harissa prawns with greens, add salt if it needs it, and serve straight away.  Serve with the rice, simmered in salted water until tender.",
+      "tip": "Taste Harissa prawns with greens before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "harissa-prawn-greens.webp",
+    "alt": "Harissa prawns with greens",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 450,
+    "protein": 49.7,
+    "carbs": 36.8,
+    "fat": 11.7,
+    "fibre": 2.2
+  }
+}

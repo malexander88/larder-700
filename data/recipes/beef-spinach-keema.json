@@ -1,0 +1,116 @@
+{
+  "slug": "beef-spinach-keema",
+  "title": "Beef and spinach keema",
+  "summary": "Beef and spinach keema is a indian dinner built around lean beef mince 5% fat and baby spinach, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Indian",
+  "protein": "beef",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-mince-5",
+      "grams": 320,
+      "prepNote": "broken up"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 150,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "peas-frozen",
+      "grams": 120
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 90,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garam-masala",
+      "grams": 3
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 60
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Beef and spinach keema. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add lean beef mince 5% fat and cook until it loses its raw look. Pour in the tomatoes or coconut and baby spinach."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until frozen peas is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Beef and spinach keema before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Beef and spinach keema.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "beef-spinach-keema.webp",
+    "alt": "Beef and spinach keema",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 448,
+    "protein": 42.6,
+    "carbs": 39.5,
+    "fat": 13.2,
+    "fibre": 6.2
+  }
+}

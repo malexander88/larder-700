@@ -1,0 +1,117 @@
+{
+  "slug": "mapo-tofu-mild",
+  "title": "Mild mapo tofu",
+  "summary": "Mild mapo tofu is a chinese dinner built around firm tofu and turkey breast mince, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Chinese",
+  "protein": "tofu",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 502,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 80,
+      "prepNote": "broken up"
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 120,
+      "prepNote": "quartered"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.6
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "tomato-puree",
+      "grams": 10
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Mild mapo tofu. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add firm tofu and cook until it loses its raw look. Pour in the tomatoes or coconut and turkey breast mince."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until pak choi is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Mild mapo tofu before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Mild mapo tofu."
+    }
+  ],
+  "image": {
+    "file": "mapo-tofu-mild.webp",
+    "alt": "Mild mapo tofu served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 459,
+    "protein": 43.1,
+    "carbs": 9.5,
+    "fat": 27.5,
+    "fibre": 2.5
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "slug": "aubergine-bean-parmigiana",
+  "title": "Aubergine and bean parmigiana",
+  "summary": "Aubergine and bean parmigiana is a italian dinner built around aubergines and canned cannellini beans, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "aubergine",
+      "grams": 400,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "cannellini-canned",
+      "grams": 377,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "passata",
+      "grams": 320
+    },
+    {
+      "nutritionId": "mozzarella-light",
+      "grams": 50
+    },
+    {
+      "nutritionId": "parmesan",
+      "grams": 10
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Aubergine and bean parmigiana into even pieces and toss canned cannellini beans with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of canned cannellini beans while you season aubergines. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle aubergines and passata among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Aubergine and bean parmigiana before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Aubergine and bean parmigiana into warm bowls with the juices."
+    }
+  ],
+  "image": {
+    "file": "aubergine-bean-parmigiana.webp",
+    "alt": "Aubergine and bean parmigiana",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 431,
+    "protein": 25.1,
+    "carbs": 49.2,
+    "fat": 15,
+    "fibre": 18.2
+  }
+}

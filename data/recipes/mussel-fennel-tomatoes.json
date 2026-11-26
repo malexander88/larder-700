@@ -1,0 +1,107 @@
+{
+  "slug": "mussel-fennel-tomatoes",
+  "title": "Mussels with fennel and tomato",
+  "summary": "Mussels with fennel and tomato is a italian dinner built around mussels and fennel, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "mussels",
+      "grams": 480,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "fennel",
+      "grams": 150,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 240
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 420,
+      "prepNote": "cut into chunks"
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Mussels with fennel and tomato. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add mussels and cook until it loses its raw look. Pour in the tomatoes or coconut and fennel."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until chopped tomatoes is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Mussels with fennel and tomato before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Mussels with fennel and tomato.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "mussel-fennel-tomatoes.webp",
+    "alt": "Mussels with fennel and tomato",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 434,
+    "protein": 35.6,
+    "carbs": 47.2,
+    "fat": 11.4,
+    "fibre": 6.6
+  }
+}

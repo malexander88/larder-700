@@ -1,0 +1,102 @@
+{
+  "slug": "pepper-egg-spaghetti",
+  "title": "Pepper and egg spaghetti",
+  "summary": "Pepper and egg spaghetti is a italian dinner built around medium eggs and wholewheat spaghetti, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "eggs",
+  "dietary": [
+    "vegetarian"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 16,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Colander"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 232,
+      "prepNote": "beaten if the method says so"
+    },
+    {
+      "nutritionId": "spaghetti-wholewheat",
+      "grams": 110
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 150,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "parmesan",
+      "grams": 10
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Start the sauce for Pepper and egg spaghetti: soften the onion, then add garlic and wholewheat spaghetti. Season medium eggs and have the pasta water on to boil.",
+      "tip": "Salt the pasta water. It is the only chance to season the noodles themselves."
+    },
+    {
+      "minutes": 10,
+      "heat": "medium hob",
+      "instruction": "Cook medium eggs in the sauce while the pasta boils until tender with a bite. Save a cup of the cooking water before you drain."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Toss the drained pasta with the sauce, loosening it with a splash of pasta water so it clings to red peppers.",
+      "tip": "Taste Pepper and egg spaghetti before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve Pepper and egg spaghetti straight away in warm bowls.  Serve with the spaghetti, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "pepper-egg-spaghetti.webp",
+    "alt": "Pepper and egg spaghetti",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 436,
+    "protein": 24.7,
+    "carbs": 42.3,
+    "fat": 18.6,
+    "fibre": 6.6
+  }
+}

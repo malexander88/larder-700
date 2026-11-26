@@ -1,0 +1,106 @@
+{
+  "slug": "salmon-tikka-cauliflower",
+  "title": "Salmon tikka with cauliflower",
+  "summary": "Salmon tikka with cauliflower is a indian dinner built around salmon fillets and cauliflower, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Indian",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 320,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "cauliflower",
+      "grams": 280,
+      "prepNote": "cut into florets"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 50
+    },
+    {
+      "nutritionId": "tandoori-masala",
+      "grams": 6
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 14
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Salmon tikka with cauliflower into even pieces and toss cauliflower with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of cauliflower while you season salmon fillets. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle salmon fillets and 0% fat Greek style yoghurt among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Salmon tikka with cauliflower before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Salmon tikka with cauliflower into warm bowls with the juices."
+    }
+  ],
+  "image": {
+    "file": "salmon-tikka-cauliflower.webp",
+    "alt": "Salmon tikka with cauliflower",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 432,
+    "protein": 38.6,
+    "carbs": 8.8,
+    "fat": 26.9,
+    "fibre": 3.3
+  }
+}

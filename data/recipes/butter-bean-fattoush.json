@@ -1,0 +1,106 @@
+{
+  "slug": "butter-bean-fattoush",
+  "title": "Butter bean fattoush salad",
+  "summary": "Butter bean fattoush salad is a middle eastern dinner built around canned butter beans and cucumber, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "butter-beans",
+      "grams": 360,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 140,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 140,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "radish",
+      "grams": 60
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 10
+    },
+    {
+      "nutritionId": "mint",
+      "grams": 8
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 14
+    },
+    {
+      "nutritionId": "pitta-wholemeal",
+      "grams": 140,
+      "prepNote": "warmed"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook canned butter beans for Butter bean fattoush salad in a lightly oiled pan until just done, and cook or warm cherry tomatoes alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss cucumber with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Butter bean fattoush salad straight away. Taste Butter bean fattoush salad before serving and add a squeeze of lemon if it wants brightness.  Serve with the pittas, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "butter-bean-fattoush.webp",
+    "alt": "Butter bean fattoush salad",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 430,
+    "protein": 20.5,
+    "carbs": 65.4,
+    "fat": 9.5,
+    "fibre": 15.2
+  }
+}

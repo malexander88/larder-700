@@ -1,0 +1,114 @@
+{
+  "slug": "chicken-enchilada-bake",
+  "title": "Chicken enchilada bake",
+  "summary": "Chicken enchilada bake is a mexican dinner built around skinless chicken breast fillets and canned black beans, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mexican",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 320,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 200,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 260
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chipotle-paste",
+      "grams": 12
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "mozzarella-light",
+      "grams": 40
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Chicken enchilada bake into even pieces and toss canned black beans with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of canned black beans while you season skinless chicken breast fillets. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle skinless chicken breast fillets and chopped tomatoes among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Chicken enchilada bake before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Chicken enchilada bake into warm bowls with the juices."
+    }
+  ],
+  "image": {
+    "file": "chicken-enchilada-bake.webp",
+    "alt": "Chicken enchilada bake",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 431,
+    "protein": 51.2,
+    "carbs": 28.8,
+    "fat": 12.2,
+    "fibre": 9.6
+  }
+}

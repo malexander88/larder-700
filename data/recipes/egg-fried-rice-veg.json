@@ -1,0 +1,104 @@
+{
+  "slug": "egg-fried-rice-veg",
+  "title": "Vegetable egg fried rice",
+  "summary": "Vegetable egg fried rice is a chinese dinner built around medium eggs and basmati rice, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Chinese",
+  "protein": "eggs",
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 174,
+      "prepNote": "beaten if the method says so"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 130
+    },
+    {
+      "nutritionId": "peas-frozen",
+      "grams": 80
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 50,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 30
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice medium eggs and basmati rice before the pan is hot. Vegetable egg fried rice is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry medium eggs until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add basmati rice and frozen peas, return medium eggs, and toss with the sauce for a minute. Taste Vegetable egg fried rice before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "egg-fried-rice-veg.webp",
+    "alt": "Vegetable egg fried rice",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 439,
+    "protein": 19.2,
+    "carbs": 60.6,
+    "fat": 13.3,
+    "fibre": 3.8
+  }
+}

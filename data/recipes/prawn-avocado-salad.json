@@ -1,0 +1,106 @@
+{
+  "slug": "prawn-avocado-salad",
+  "title": "Prawn avocado chilli salad",
+  "summary": "Prawn avocado chilli salad is a mexican dinner built around raw king prawns and avocados, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mexican",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 520,
+      "prepNote": "peeled"
+    },
+    {
+      "nutritionId": "avocado",
+      "grams": 80
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 120,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 140,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 18
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 83
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook raw king prawns for Prawn avocado chilli salad in a lightly oiled pan until just done, and cook or warm little gem lettuce alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss avocados with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Prawn avocado chilli salad straight away. Taste Prawn avocado chilli salad before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "prawn-avocado-salad.webp",
+    "alt": "Prawn avocado chilli salad",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 434,
+    "protein": 49.9,
+    "carbs": 40.1,
+    "fat": 8.3,
+    "fibre": 5.1
+  }
+}

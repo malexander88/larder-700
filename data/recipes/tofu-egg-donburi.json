@@ -1,0 +1,111 @@
+{
+  "slug": "tofu-egg-donburi",
+  "title": "Tofu and egg donburi",
+  "summary": "Tofu and egg donburi is a japanese dinner built around firm tofu and medium eggs, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 320,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "egg-whole",
+      "grams": 174,
+      "prepNote": "beaten if the method says so"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "mirin",
+      "grams": 10
+    },
+    {
+      "nutritionId": "stock-vegetable-gf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "water",
+      "grams": 250
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Tofu and egg donburi. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add firm tofu and cook until it loses its raw look. Pour in the tomatoes or coconut and medium eggs."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until basmati rice is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Tofu and egg donburi before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Tofu and egg donburi.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "tofu-egg-donburi.webp",
+    "alt": "Tofu and egg donburi",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 521,
+    "protein": 35.5,
+    "carbs": 41.8,
+    "fat": 23.5,
+    "fibre": 2.1
+  }
+}

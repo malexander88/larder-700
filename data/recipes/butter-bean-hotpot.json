@@ -1,0 +1,117 @@
+{
+  "slug": "butter-bean-hotpot",
+  "title": "Butter bean and leek hotpot",
+  "summary": "Butter bean and leek hotpot is a british dinner built around canned butter beans and parsnips, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "butter-beans",
+      "grams": 520,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "parsnip",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "leek",
+      "grams": 140,
+      "prepNote": "sliced and washed"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "passata",
+      "grams": 180
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "sage",
+      "grams": 3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 80
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Butter bean and leek hotpot into even pieces and toss parsnips with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of parsnips while you season canned butter beans. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle canned butter beans and leeks among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Butter bean and leek hotpot before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Butter bean and leek hotpot into warm bowls with the juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "butter-bean-hotpot.webp",
+    "alt": "Butter bean and leek hotpot",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 536,
+    "protein": 25.5,
+    "carbs": 82.7,
+    "fat": 11.2,
+    "fibre": 19.9
+  }
+}

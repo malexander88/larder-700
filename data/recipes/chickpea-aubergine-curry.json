@@ -1,0 +1,114 @@
+{
+  "slug": "chickpea-aubergine-curry",
+  "title": "Chickpea and aubergine curry",
+  "summary": "Chickpea and aubergine curry is a indian dinner built around canned chickpeas in water and aubergines, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Indian",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 503,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 250,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 240
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garam-masala",
+      "grams": 3
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 60,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Chickpea and aubergine curry. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add canned chickpeas in water and cook until it loses its raw look. Pour in the tomatoes or coconut and aubergines."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until chopped tomatoes is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Chickpea and aubergine curry before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Chickpea and aubergine curry."
+    }
+  ],
+  "image": {
+    "file": "chickpea-aubergine-curry.webp",
+    "alt": "Chickpea and aubergine curry",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 458,
+    "protein": 22.6,
+    "carbs": 56.6,
+    "fat": 15.9,
+    "fibre": 17.1
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "mushroom-egg-hash",
+  "title": "Mushroom and egg hash",
+  "summary": "Mushroom and egg hash is a british dinner built around medium eggs and chestnut mushrooms, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "eggs",
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 260,
+      "prepNote": "beaten if the method says so"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 200,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 420,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 60,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Mushroom and egg hash chopped before the pan goes on. Pat medium eggs dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook medium eggs until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook chestnut mushrooms and new potatoes until hot and lightly browned. Return medium eggs and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Mushroom and egg hash, add salt if it needs it, and serve straight away.  Check that the potatoes is tender, then serve.",
+      "tip": "Taste Mushroom and egg hash before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "mushroom-egg-hash.webp",
+    "alt": "Mushroom and egg hash",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 446,
+    "protein": 23.7,
+    "carbs": 37,
+    "fat": 22.6,
+    "fibre": 5
+  }
+}

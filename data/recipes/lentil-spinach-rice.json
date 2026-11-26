@@ -1,0 +1,117 @@
+{
+  "slug": "lentil-spinach-rice",
+  "title": "Spinach dal with brown-style rice",
+  "summary": "Spinach dal with brown-style rice is a indian dinner built around dried red lentils and baby spinach, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Indian",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "red-lentils-dry",
+      "grams": 150,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 120,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 71
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 10
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Spinach dal with brown-style rice. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add dried red lentils and cook until it loses its raw look. Pour in the tomatoes or coconut and baby spinach."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until basmati rice is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Spinach dal with brown-style rice before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Spinach dal with brown-style rice.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "lentil-spinach-rice.webp",
+    "alt": "Spinach dal with brown-style rice",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 440,
+    "protein": 24.1,
+    "carbs": 75.2,
+    "fat": 4.7,
+    "fibre": 10.2
+  }
+}

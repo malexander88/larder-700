@@ -1,0 +1,106 @@
+{
+  "slug": "harissa-tofu-tray",
+  "title": "Harissa tofu tray bake",
+  "summary": "Harissa tofu tray bake is a middle eastern dinner built around firm tofu and red peppers, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 400,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 140,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "harissa",
+      "grams": 12
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 120,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 16
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Harissa tofu tray bake into even pieces and toss red peppers with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of red peppers while you season firm tofu. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle firm tofu and red onions among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Harissa tofu tray bake before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Harissa tofu tray bake into warm bowls with the juices."
+    }
+  ],
+  "image": {
+    "file": "harissa-tofu-tray.webp",
+    "alt": "Harissa tofu tray bake",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 431,
+    "protein": 30.7,
+    "carbs": 22.2,
+    "fat": 24.3,
+    "fibre": 6
+  }
+}

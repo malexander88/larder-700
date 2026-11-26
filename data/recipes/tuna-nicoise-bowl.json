@@ -1,0 +1,108 @@
+{
+  "slug": "tuna-nicoise-bowl",
+  "title": "Tuna niçoise bowl",
+  "summary": "Tuna niçoise bowl is a mediterranean dinner built around tuna in spring water and new potatoes, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tuna-water",
+      "grams": 220,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 420,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "green-beans",
+      "grams": 120,
+      "prepNote": "trimmed"
+    },
+    {
+      "nutritionId": "egg-whole",
+      "grams": 116,
+      "prepNote": "beaten if the method says so"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 120,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 20
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 80,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook tuna in spring water for Tuna niçoise bowl in a lightly oiled pan until just done, and cook or warm green beans alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss new potatoes with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Tuna niçoise bowl straight away. Taste Tuna niçoise bowl before serving and add a squeeze of lemon if it wants brightness.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "tuna-nicoise-bowl.webp",
+    "alt": "Tuna niçoise bowl served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 431,
+    "protein": 41.2,
+    "carbs": 38.4,
+    "fat": 12.5,
+    "fibre": 6.5
+  }
+}

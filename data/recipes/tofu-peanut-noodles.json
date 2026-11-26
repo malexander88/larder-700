@@ -1,0 +1,104 @@
+{
+  "slug": "tofu-peanut-noodles",
+  "title": "Tofu peanut noodles",
+  "summary": "Tofu peanut noodles is a thai dinner built around firm tofu and rice noodles, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 360,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 80
+    },
+    {
+      "nutritionId": "peanut-butter",
+      "grams": 16
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "beansprouts",
+      "grams": 80
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 50,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice firm tofu and rice noodles before the pan is hot. Tofu peanut noodles is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry firm tofu until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add rice noodles and peanut butter, return firm tofu, and toss with the sauce for a minute. Taste Tofu peanut noodles before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice noodles, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "tofu-peanut-noodles.webp",
+    "alt": "Tofu peanut noodles served for dinner",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 477,
+    "protein": 29.1,
+    "carbs": 42.8,
+    "fat": 21,
+    "fibre": 3.5
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "slug": "mustard-pork-cabbage",
+  "title": "Mustard pork with cabbage and apple",
+  "summary": "Mustard pork with cabbage and apple is a british dinner built around pork fillet and white cabbage, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "pork",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 478,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "white-cabbage",
+      "grams": 220,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "apple",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "dijon-gf",
+      "grams": 12
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "sage",
+      "grams": 2
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat pork fillet dry and season it. Prep white cabbage and eating apples for Mustard pork with cabbage and apple so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook pork fillet on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook white cabbage and eating apples in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Mustard pork with cabbage and apple before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice pork fillet and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "mustard-pork-cabbage.webp",
+    "alt": "Mustard pork with cabbage and apple",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 438,
+    "protein": 54.8,
+    "carbs": 13.6,
+    "fat": 18.2,
+    "fibre": 4.4
+  }
+}

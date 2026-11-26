@@ -1,0 +1,110 @@
+{
+  "slug": "turkey-pepperonata",
+  "title": "Turkey steak pepperonata",
+  "summary": "Turkey steak pepperonata is a italian dinner built around turkey breast steaks and red peppers, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "turkey",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-breast",
+      "grams": 520,
+      "prepNote": "cut into strips"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "yellow-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "balsamic",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat turkey breast steaks dry and season it. Prep red peppers and yellow peppers for Turkey steak pepperonata so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook turkey breast steaks on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook red peppers and yellow peppers in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Turkey steak pepperonata before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice turkey breast steaks and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "turkey-pepperonata.webp",
+    "alt": "Turkey steak pepperonata",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 543,
+    "protein": 67.2,
+    "carbs": 40.9,
+    "fat": 12.2,
+    "fibre": 3.9
+  }
+}

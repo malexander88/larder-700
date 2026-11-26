@@ -1,0 +1,98 @@
+{
+  "slug": "mackerel-miso-rice",
+  "title": "Mackerel miso rice bowl",
+  "summary": "Mackerel miso rice bowl is a japanese dinner built around mackerel fillets and rice miso paste, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "mackerel",
+      "grams": 260,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "miso-rice",
+      "grams": 16
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 80,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    },
+    {
+      "nutritionId": "rice-vinegar",
+      "grams": 8
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 4
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat mackerel fillets dry and season it. Prep rice miso paste and basmati rice for Mackerel miso rice bowl so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook mackerel fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook rice miso paste and basmati rice in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Mackerel miso rice bowl before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice mackerel fillets and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "mackerel-miso-rice.webp",
+    "alt": "Mackerel miso rice bowl",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 442,
+    "protein": 29.3,
+    "carbs": 30.9,
+    "fat": 22.4,
+    "fibre": 1.4
+  }
+}

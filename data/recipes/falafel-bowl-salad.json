@@ -1,0 +1,119 @@
+{
+  "slug": "falafel-bowl-salad",
+  "title": "Baked falafel salad bowl",
+  "summary": "Baked falafel salad bowl is a mediterranean dinner built around canned chickpeas in water and gram flour, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 451,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "chickpea-flour",
+      "grams": 30
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 50,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "coriander-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 10
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 120,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 120,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 50
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Baked falafel salad bowl into even pieces and toss gram flour with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of gram flour while you season canned chickpeas in water. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle canned chickpeas in water and onions among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Baked falafel salad bowl before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Baked falafel salad bowl into warm bowls with the juices."
+    }
+  ],
+  "image": {
+    "file": "falafel-bowl-salad.webp",
+    "alt": "Baked falafel salad bowl",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 448,
+    "protein": 24.1,
+    "carbs": 52.4,
+    "fat": 15.9,
+    "fibre": 13.7
+  }
+}

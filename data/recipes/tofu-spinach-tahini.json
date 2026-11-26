@@ -1,0 +1,103 @@
+{
+  "slug": "tofu-spinach-tahini",
+  "title": "Tofu spinach with tahini",
+  "summary": "Tofu spinach with tahini is a middle eastern dinner built around firm tofu and baby spinach, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 448,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 180,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "tahini",
+      "grams": 18
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat firm tofu dry and season it. Prep baby spinach and tahini for Tofu spinach with tahini so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook firm tofu on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook baby spinach and tahini in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Tofu spinach with tahini before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice firm tofu and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "tofu-spinach-tahini.webp",
+    "alt": "Tofu spinach with tahini",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 437,
+    "protein": 32.5,
+    "carbs": 8.6,
+    "fat": 30.3,
+    "fibre": 3.7
+  }
+}

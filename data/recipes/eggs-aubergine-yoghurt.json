@@ -1,0 +1,101 @@
+{
+  "slug": "eggs-aubergine-yoghurt",
+  "title": "Eggs with aubergine and yoghurt",
+  "summary": "Eggs with aubergine and yoghurt is a middle eastern dinner built around medium eggs and aubergines, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "eggs",
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 409,
+      "prepNote": "beaten if the method says so"
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 280,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 80
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat medium eggs dry and season it. Prep aubergines and 0% fat Greek style yoghurt for Eggs with aubergine and yoghurt so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook medium eggs on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook aubergines and 0% fat Greek style yoghurt in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Eggs with aubergine and yoghurt before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice medium eggs and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "eggs-aubergine-yoghurt.webp",
+    "alt": "Eggs with aubergine and yoghurt",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 437,
+    "protein": 31.6,
+    "carbs": 10.2,
+    "fat": 30,
+    "fibre": 3.8
+  }
+}

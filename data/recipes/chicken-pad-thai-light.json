@@ -1,0 +1,118 @@
+{
+  "slug": "chicken-pad-thai-light",
+  "title": "Lighter chicken pad Thai",
+  "summary": "Lighter chicken pad Thai is a thai dinner built around skinless chicken thigh fillets and rice noodles, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-thigh-raw",
+      "grams": 280,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "beansprouts",
+      "grams": 80
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 50,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 18
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "peanuts",
+      "grams": 12
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice skinless chicken thigh fillets and rice noodles before the pan is hot. Lighter chicken pad Thai is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry skinless chicken thigh fillets until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add rice noodles and beansprouts, return skinless chicken thigh fillets, and toss with the sauce for a minute. Taste Lighter chicken pad Thai before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice noodles, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "chicken-pad-thai-light.webp",
+    "alt": "Lighter chicken pad Thai",
+    "credit": "Credit pending",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 473,
+    "protein": 35.2,
+    "carbs": 47.2,
+    "fat": 15.9,
+    "fibre": 3.6
+  }
+}
