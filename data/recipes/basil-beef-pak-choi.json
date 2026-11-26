@@ -1,0 +1,108 @@
+{
+  "slug": "basil-beef-pak-choi",
+  "title": "Basil beef with pak choi",
+  "summary": "Basil beef with pak choi is a thai dinner built around lean beef frying steak and pak choi, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "beef",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-steak",
+      "grams": 280,
+      "prepNote": "sliced thinly"
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 180,
+      "prepNote": "quartered"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 60,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "peanuts",
+      "grams": 12
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice lean beef frying steak and pak choi before the pan is hot. Basil beef with pak choi is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry lean beef frying steak until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add pak choi and carrots, return lean beef frying steak, and toss with the sauce for a minute. Taste Basil beef with pak choi before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "basil-beef-pak-choi.webp",
+    "alt": "Basil beef with pak choi",
+    "credit": "Ruth Hartnup from Vancouver via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hot_Chilli_Basil_Beef_(8486599038).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 432,
+    "protein": 39.3,
+    "carbs": 32.9,
+    "fat": 15.9,
+    "fibre": 3
+  }
+}

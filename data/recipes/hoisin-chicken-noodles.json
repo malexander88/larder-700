@@ -1,0 +1,105 @@
+{
+  "slug": "hoisin-chicken-noodles",
+  "title": "Hoisin chicken buckwheat noodles",
+  "summary": "Hoisin chicken buckwheat noodles is a chinese dinner built around skinless chicken breast fillets and buckwheat noodles, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Chinese",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 320,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "buckwheat-noodles",
+      "grams": 125
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "honey",
+      "grams": 10
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice skinless chicken breast fillets and buckwheat noodles before the pan is hot. Hoisin chicken buckwheat noodles is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry skinless chicken breast fillets until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add buckwheat noodles and red peppers, return skinless chicken breast fillets, and toss with the sauce for a minute. Taste Hoisin chicken buckwheat noodles before serving and add a squeeze of lemon if it wants brightness.  Serve with the noodles, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "hoisin-chicken-noodles.webp",
+    "alt": "Hoisin chicken buckwheat noodles",
+    "credit": "Wikimedia Commons contributor via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_chow_mein.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 455,
+    "protein": 45.9,
+    "carbs": 49.9,
+    "fat": 7.8,
+    "fibre": 3.9
+  }
+}

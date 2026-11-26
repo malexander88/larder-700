@@ -1,0 +1,100 @@
+{
+  "slug": "salmon-edamame-bowl",
+  "title": "Salmon and edamame rice bowl",
+  "summary": "Salmon and edamame rice bowl is a japanese dinner built around salmon fillets and frozen edamame beans, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 280,
+      "prepNote": "cut into portions"
+    },
+    {
+      "nutritionId": "edamame",
+      "grams": 140,
+      "prepNote": "podded if needed"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 80,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 10
+    },
+    {
+      "nutritionId": "rice-vinegar",
+      "grams": 8
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 15
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat salmon fillets dry and season it. Prep frozen edamame beans and basmati rice for Salmon and edamame rice bowl so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook salmon fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook frozen edamame beans and basmati rice in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Salmon and edamame rice bowl before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice salmon fillets and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "salmon-edamame-bowl.webp",
+    "alt": "Salmon and edamame rice bowl",
+    "credit": "Tokumeigakarinoaoshima via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nakau_salmon_bowl_and_udon.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 498,
+    "protein": 39.8,
+    "carbs": 35,
+    "fat": 22,
+    "fibre": 4.6
+  }
+}

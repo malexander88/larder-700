@@ -1,0 +1,104 @@
+{
+  "slug": "tofu-chickpea-tahini",
+  "title": "Tofu chickpea tahini bowl",
+  "summary": "Tofu chickpea tahini bowl is a middle eastern dinner built around firm tofu and canned chickpeas in water, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 320,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 200,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 100,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 100,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "tahini",
+      "grams": 18
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook firm tofu for Tofu chickpea tahini bowl in a lightly oiled pan until just done, and cook or warm cucumber alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss canned chickpeas in water with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Tofu chickpea tahini bowl straight away. Taste Tofu chickpea tahini bowl before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "tofu-chickpea-tahini.webp",
+    "alt": "Tofu chickpea tahini bowl",
+    "credit": "J Doll via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tangerine_Baked_Tofu_(140491767).jpeg",
+    "license": "CC BY 3.0"
+  },
+  "statedPerServing": {
+    "calories": 437,
+    "protein": 29.7,
+    "carbs": 23.6,
+    "fat": 24.9,
+    "fibre": 6.7
+  }
+}

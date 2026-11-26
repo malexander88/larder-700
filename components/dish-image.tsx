@@ -4,7 +4,7 @@ import { useEffect, useState } from "react"
 import Image from "next/image"
 import { Capacitor } from "@capacitor/core"
 import { Directory, Filesystem } from "@capacitor/filesystem"
-import { remoteUrl } from "@/lib/site"
+import { bundledUrl, remoteUrl } from "@/lib/site"
 
 function bytesToBase64(bytes: Uint8Array) {
   let binary = ""
@@ -48,7 +48,7 @@ export function DishImage({
   className?: string
   priority?: boolean
 }) {
-  const local = `/images/recipes/${file}`
+  const local = bundledUrl(`/images/recipes/${file}`)
   const [src, setSrc] = useState(local)
 
   useEffect(() => {
@@ -68,5 +68,5 @@ export function DishImage({
     return <img src={src} alt={alt} className={className} />
   }
 
-  return <Image src={local} alt={alt} width={1200} height={900} priority={priority} className={className} />
+  return <Image src={src} alt={alt} width={1200} height={900} priority={priority} className={className} />
 }

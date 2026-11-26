@@ -15,7 +15,7 @@ const nextConfig: NextConfig = {
     ],
   },
   trailingSlash: true,
-  ...(basePath ? { basePath } : {}),
+  ...(basePath ? { basePath, assetPrefix: basePath } : {}),
 }
 
 export default nextConfig

@@ -1,0 +1,110 @@
+{
+  "slug": "pineapple-chicken-stir",
+  "title": "Pineapple chicken stir-fry",
+  "summary": "Pineapple chicken stir-fry is a thai dinner built around skinless chicken breast fillets and pineapple, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 320,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "pineapple",
+      "grams": 140,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 98
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 15
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice skinless chicken breast fillets and pineapple before the pan is hot. Pineapple chicken stir-fry is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry skinless chicken breast fillets until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add pineapple and red peppers, return skinless chicken breast fillets, and toss with the sauce for a minute. Taste Pineapple chicken stir-fry before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "pineapple-chicken-stir.webp",
+    "alt": "Pineapple chicken stir-fry",
+    "credit": "pulaw via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pineapple_chicken_(Pininyahang_Manok).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 443,
+    "protein": 42.4,
+    "carbs": 52.5,
+    "fat": 6.9,
+    "fibre": 2.8
+  }
+}

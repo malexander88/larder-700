@@ -1,0 +1,106 @@
+{
+  "slug": "beef-green-pepper-stir",
+  "title": "Beef and green pepper stir-fry",
+  "summary": "Beef and green pepper stir-fry is a chinese dinner built around lean beef frying steak and green peppers, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Chinese",
+  "protein": "beef",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-steak",
+      "grams": 300,
+      "prepNote": "sliced thinly"
+    },
+    {
+      "nutritionId": "green-pepper",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 16
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 84
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice lean beef frying steak and green peppers before the pan is hot. Beef and green pepper stir-fry is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry lean beef frying steak until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add green peppers and onions, return lean beef frying steak, and toss with the sauce for a minute. Taste Beef and green pepper stir-fry before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "beef-green-pepper-stir.webp",
+    "alt": "Beef and green pepper stir-fry",
+    "credit": "Alpha from Melbourne via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Curry_Beef_Pepper_Rice.jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 439,
+    "protein": 40.2,
+    "carbs": 42.5,
+    "fat": 12,
+    "fibre": 3.1
+  }
+}

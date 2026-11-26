@@ -1,0 +1,98 @@
+{
+  "slug": "sardine-white-bean-salad",
+  "title": "Sardine and white bean salad",
+  "summary": "Sardine and white bean salad is a mediterranean dinner built around sardines in spring water and canned cannellini beans, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "sardines",
+      "grams": 220,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "cannellini-canned",
+      "grams": 280,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 140,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 14
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook sardines in spring water for Sardine and white bean salad in a lightly oiled pan until just done, and cook or warm cherry tomatoes alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss canned cannellini beans with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Sardine and white bean salad straight away. Taste Sardine and white bean salad before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "sardine-white-bean-salad.webp",
+    "alt": "Sardine and white bean salad",
+    "credit": "Yusuke Kawasaki from Tokyo via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grilled_Sardines_5.50%E2%82%AC_Marisqueira_O_Varino_Nazar%C3%A9_(3785526688).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 433,
+    "protein": 39,
+    "carbs": 26.7,
+    "fat": 19,
+    "fibre": 9.6
+  }
+}

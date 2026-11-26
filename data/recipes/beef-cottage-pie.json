@@ -1,0 +1,111 @@
+{
+  "slug": "beef-cottage-pie",
+  "title": "Beef mince cottage pie",
+  "summary": "Beef mince cottage pie is a british dinner built around lean beef mince 5% fat and new potatoes, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "beef",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-mince-5",
+      "grams": 300,
+      "prepNote": "broken up"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 420,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "peas-frozen",
+      "grams": 80
+    },
+    {
+      "nutritionId": "tomato-puree",
+      "grams": 15
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "rosemary",
+      "grams": 3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 80
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Beef mince cottage pie into even pieces and toss new potatoes with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of new potatoes while you season lean beef mince 5% fat. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle lean beef mince 5% fat and carrots among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Beef mince cottage pie before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Beef mince cottage pie into warm bowls with the juices.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "beef-cottage-pie.webp",
+    "alt": "Beef mince cottage pie",
+    "credit": "Sandy maistry via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cookoff._Cottage_pie.veg_soups_and_scones.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 447,
+    "protein": 39.1,
+    "carbs": 45.3,
+    "fat": 12,
+    "fibre": 7.2
+  }
+}

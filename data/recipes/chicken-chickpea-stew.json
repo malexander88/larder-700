@@ -1,0 +1,111 @@
+{
+  "slug": "chicken-chickpea-stew",
+  "title": "Chicken and chickpea stew",
+  "summary": "Chicken and chickpea stew is a middle eastern dinner built around skinless chicken thigh fillets and canned chickpeas in water, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-thigh-raw",
+      "grams": 320,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 240,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 220
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Chicken and chickpea stew. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add skinless chicken thigh fillets and cook until it loses its raw look. Pour in the tomatoes or coconut and canned chickpeas in water."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until chopped tomatoes is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Chicken and chickpea stew before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Chicken and chickpea stew."
+    }
+  ],
+  "image": {
+    "file": "chicken-chickpea-stew.webp",
+    "alt": "Chicken and chickpea stew",
+    "credit": "thebittenword.com via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moroccan_Chicken_with_Apricot_and_Olive_Relish.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 439,
+    "protein": 43,
+    "carbs": 28.5,
+    "fat": 17.1,
+    "fibre": 7.5
+  }
+}

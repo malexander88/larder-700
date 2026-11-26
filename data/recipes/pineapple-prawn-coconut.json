@@ -1,0 +1,116 @@
+{
+  "slug": "pineapple-prawn-coconut",
+  "title": "Pineapple prawn coconut curry",
+  "summary": "Pineapple prawn coconut curry is a thai dinner built around raw king prawns and pineapple, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 320,
+      "prepNote": "peeled"
+    },
+    {
+      "nutritionId": "pineapple",
+      "grams": 140,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "coconut-milk-light",
+      "grams": 160
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 98
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Pineapple prawn coconut curry. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add raw king prawns and cook until it loses its raw look. Pour in the tomatoes or coconut and pineapple."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until light coconut milk is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Pineapple prawn coconut curry before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Pineapple prawn coconut curry.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "pineapple-prawn-coconut.webp",
+    "alt": "Pineapple prawn coconut curry",
+    "credit": "Yvette Tan via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pininyahang_hipon_(shrimp_in_a_pineapple_and_coconut_milk_sauce)_-_Philippines.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 430,
+    "protein": 32.5,
+    "carbs": 53.5,
+    "fat": 9.7,
+    "fibre": 2.7
+  }
+}

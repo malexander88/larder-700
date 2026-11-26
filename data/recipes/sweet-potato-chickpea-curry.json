@@ -1,0 +1,118 @@
+{
+  "slug": "sweet-potato-chickpea-curry",
+  "title": "Sweet potato chickpea curry",
+  "summary": "Sweet potato chickpea curry is a indian dinner built around sweet potatoes and canned chickpeas in water, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Indian",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "sweet-potato",
+      "grams": 420,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 280,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 220
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "garam-masala",
+      "grams": 2
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 60,
+      "prepNote": "washed"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Sweet potato chickpea curry. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add sweet potatoes and cook until it loses its raw look. Pour in the tomatoes or coconut and canned chickpeas in water."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until chopped tomatoes is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Sweet potato chickpea curry before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Sweet potato chickpea curry.  Check that the sweet potato is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "sweet-potato-chickpea-curry.webp",
+    "alt": "Sweet potato chickpea curry",
+    "credit": "spurekar via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sweet_potatoes_and_za%27atar_chickpeas_with_herby_yogurt_(49803694683).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 439,
+    "protein": 16.4,
+    "carbs": 74.9,
+    "fat": 8.3,
+    "fibre": 15.2
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "pork-fennel-ragu",
+  "title": "Pork and fennel ragu",
+  "summary": "Pork and fennel ragu is a italian dinner built around lean pork mince 5% fat and wholewheat spaghetti, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "pork",
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 16,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Colander"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-mince-5",
+      "grams": 300,
+      "prepNote": "broken up"
+    },
+    {
+      "nutritionId": "spaghetti-wholewheat",
+      "grams": 110
+    },
+    {
+      "nutritionId": "fennel",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "passata",
+      "grams": 280
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "rosemary",
+      "grams": 3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Start the sauce for Pork and fennel ragu: soften the onion, then add garlic and wholewheat spaghetti. Season lean pork mince 5% fat and have the pasta water on to boil.",
+      "tip": "Salt the pasta water. It is the only chance to season the noodles themselves."
+    },
+    {
+      "minutes": 10,
+      "heat": "medium hob",
+      "instruction": "Cook lean pork mince 5% fat in the sauce while the pasta boils until tender with a bite. Save a cup of the cooking water before you drain."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Toss the drained pasta with the sauce, loosening it with a splash of pasta water so it clings to fennel.",
+      "tip": "Taste Pork and fennel ragu before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve Pork and fennel ragu straight away in warm bowls.  Serve with the spaghetti, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "pork-fennel-ragu.webp",
+    "alt": "Pork and fennel ragu",
+    "credit": "Lechonero via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beef_and_pork_ragu_with_fettucine_and_parmigiano_reggiano_cheese.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 496,
+    "protein": 42.7,
+    "carbs": 51.3,
+    "fat": 13.4,
+    "fibre": 9.8
+  }
+}

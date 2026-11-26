@@ -1,0 +1,97 @@
+{
+  "slug": "crab-potato-salad",
+  "title": "Crab and new potato salad",
+  "summary": "Crab and new potato salad is a mediterranean dinner built around white crab meat and new potatoes, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "crab",
+      "grams": 435,
+      "prepNote": "picked over"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 420,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 80,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "dill",
+      "grams": 6
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "radish",
+      "grams": 40
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook white crab meat for Crab and new potato salad in a lightly oiled pan until just done, and cook or warm little gem lettuce alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss new potatoes with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Crab and new potato salad straight away. Taste Crab and new potato salad before serving and add a squeeze of lemon if it wants brightness.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "crab-potato-salad.webp",
+    "alt": "Crab and new potato salad",
+    "credit": "inazakira via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jumbo_Last_Crab_salad_(4634347292).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 412,
+    "protein": 44.1,
+    "carbs": 33,
+    "fat": 11.4,
+    "fibre": 4
+  }
+}

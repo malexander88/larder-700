@@ -1,0 +1,115 @@
+{
+  "slug": "egg-pea-curry",
+  "title": "Egg and pea curry",
+  "summary": "Egg and pea curry is a indian dinner built around medium eggs and frozen peas, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Indian",
+  "protein": "eggs",
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 232,
+      "prepNote": "beaten if the method says so"
+    },
+    {
+      "nutritionId": "peas-frozen",
+      "grams": 160
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 90,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 220
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "curry-powder",
+      "grams": 4
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 71
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Egg and pea curry. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add medium eggs and cook until it loses its raw look. Pour in the tomatoes or coconut and frozen peas."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until onions is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Egg and pea curry before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Egg and pea curry.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "egg-pea-curry.webp",
+    "alt": "Egg and pea curry served for dinner",
+    "credit": "Ekabhishek via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egg_curry_pic.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 444,
+    "protein": 24,
+    "carbs": 49.1,
+    "fat": 16.7,
+    "fibre": 6.5
+  }
+}

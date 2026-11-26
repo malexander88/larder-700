@@ -1,0 +1,100 @@
+{
+  "slug": "crab-lemon-potatoes",
+  "title": "Crab with lemon new potatoes",
+  "summary": "Crab with lemon new potatoes is a british dinner built around white crab meat and new potatoes, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "crab",
+      "grams": 473,
+      "prepNote": "picked over"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 420,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 60,
+      "prepNote": "shredded"
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat white crab meat dry and season it. Prep new potatoes and lemon juice for Crab with lemon new potatoes so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook white crab meat on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook new potatoes and lemon juice in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Crab with lemon new potatoes before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice white crab meat and serve it with the vegetables and pan juices.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "crab-lemon-potatoes.webp",
+    "alt": "Crab with lemon new potatoes",
+    "credit": "Wikimedia Commons contributor via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018-06-09_Dressed_Cromer_crab,_Cromer.JPG",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 426,
+    "protein": 47.4,
+    "carbs": 32.9,
+    "fat": 11.6,
+    "fibre": 3.9
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "prawn-chickpea-stew",
+  "title": "Prawn and chickpea stew",
+  "summary": "Prawn and chickpea stew is a middle eastern dinner built around raw king prawns and canned chickpeas in water, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 520,
+      "prepNote": "peeled"
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 224,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 200
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Prawn and chickpea stew. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add raw king prawns and cook until it loses its raw look. Pour in the tomatoes or coconut and canned chickpeas in water."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until chopped tomatoes is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Prawn and chickpea stew before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Prawn and chickpea stew."
+    }
+  ],
+  "image": {
+    "file": "prawn-chickpea-stew.webp",
+    "alt": "Prawn and chickpea stew",
+    "credit": "Judgefloro via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:980Shrimp_and_prawn_stew_with_Baguio_beans,_napa_cabbage,_tomatoes_and_tamarind_soup_in_lemon_grass.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 436,
+    "protein": 54,
+    "carbs": 24.5,
+    "fat": 13.7,
+    "fibre": 6.3
+  }
+}

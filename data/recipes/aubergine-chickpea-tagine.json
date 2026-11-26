@@ -1,0 +1,112 @@
+{
+  "slug": "aubergine-chickpea-tagine",
+  "title": "Aubergine chickpea tagine",
+  "summary": "Aubergine chickpea tagine is a middle eastern dinner built around aubergines and canned chickpeas in water, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Middle Eastern",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "aubergine",
+      "grams": 280,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 494,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 220
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "cinnamon",
+      "grams": 0.5
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Aubergine chickpea tagine. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add aubergines and cook until it loses its raw look. Pour in the tomatoes or coconut and canned chickpeas in water."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until chopped tomatoes is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Aubergine chickpea tagine before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Aubergine chickpea tagine."
+    }
+  ],
+  "image": {
+    "file": "aubergine-chickpea-tagine.webp",
+    "alt": "Aubergine chickpea tagine",
+    "credit": "calflier001 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:TAGINE_COOKED_CHICKEN_AND_VEGETABLES_WITH_MINT_TEA_IN_JEMAA_EL_FNA_SQUARE_MARRAKECH_MOROCCO_APRIL_2013_(8704488002).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 443,
+    "protein": 21.3,
+    "carbs": 54.5,
+    "fat": 15.6,
+    "fibre": 16.5
+  }
+}

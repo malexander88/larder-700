@@ -1,0 +1,99 @@
+{
+  "slug": "crab-ginger-omelette",
+  "title": "Crab and ginger omelette",
+  "summary": "Crab and ginger omelette is a chinese dinner built around white crab meat and medium eggs, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Chinese",
+  "protein": "seafood",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 10,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "crab",
+      "grams": 200,
+      "prepNote": "picked over"
+    },
+    {
+      "nutritionId": "egg-whole",
+      "grams": 365,
+      "prepNote": "beaten if the method says so"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 30
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 8
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 140,
+      "prepNote": "quartered"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Have everything for Crab and ginger omelette chopped before the pan goes on. Pat white crab meat dry and season it.",
+      "tip": "A short cook only works if the chopping is finished first."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil in a wide pan and cook white crab meat until just done. Lift it out."
+    },
+    {
+      "minutes": 5,
+      "heat": "high hob",
+      "instruction": "In the same pan, cook medium eggs and fresh root ginger until hot and lightly browned. Return white crab meat and toss with the lemon, lime or sauce."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Taste Crab and ginger omelette, add salt if it needs it, and serve straight away.",
+      "tip": "Taste Crab and ginger omelette before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "crab-ginger-omelette.webp",
+    "alt": "Crab and ginger omelette",
+    "credit": "Alpha from Melbourne via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crab_meat_fried_rice_-_Me_Dee_Thai.jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 441,
+    "protein": 42.6,
+    "carbs": 3.6,
+    "fat": 28.4,
+    "fibre": 1.2
+  }
+}

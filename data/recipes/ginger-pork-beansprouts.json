@@ -1,0 +1,103 @@
+{
+  "slug": "ginger-pork-beansprouts",
+  "title": "Ginger pork with beansprouts",
+  "summary": "Ginger pork with beansprouts is a japanese dinner built around pork fillet and beansprouts, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Japanese",
+  "protein": "pork",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 300,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "beansprouts",
+      "grams": 140
+    },
+    {
+      "nutritionId": "mangetout",
+      "grams": 80
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "mirin",
+      "grams": 10
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 3
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 98
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice pork fillet and beansprouts before the pan is hot. Ginger pork with beansprouts is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry pork fillet until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add beansprouts and mangetout, return pork fillet, and toss with the sauce for a minute. Taste Ginger pork with beansprouts before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "ginger-pork-beansprouts.webp",
+    "alt": "Ginger pork with beansprouts",
+    "credit": "pelican from Tokyo via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stir_fried_pork_and_qing-geng-cai_(3493345997).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 442,
+    "protein": 40.9,
+    "carbs": 46.2,
+    "fat": 10.2,
+    "fibre": 2.9
+  }
+}

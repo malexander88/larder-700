@@ -1,0 +1,109 @@
+{
+  "slug": "lentil-mushroom-pie",
+  "title": "Lentil and mushroom cottage pie",
+  "summary": "Lentil and mushroom cottage pie is a british dinner built around canned green lentils and chestnut mushrooms, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "British",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "green-lentils-canned",
+      "grams": 360,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 420,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 60,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tomato-puree",
+      "grams": 12
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "rosemary",
+      "grams": 3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Lentil and mushroom cottage pie into even pieces and toss chestnut mushrooms with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of chestnut mushrooms while you season canned green lentils. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle canned green lentils and new potatoes among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Lentil and mushroom cottage pie before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Lentil and mushroom cottage pie into warm bowls with the juices.  Check that the potatoes is tender, then serve."
+    }
+  ],
+  "image": {
+    "file": "lentil-mushroom-pie.webp",
+    "alt": "Lentil and mushroom cottage pie",
+    "credit": "cyclonebill from Copenhagen via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shepherds_pie_(6962180559).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 437,
+    "protein": 22.3,
+    "carbs": 69.9,
+    "fat": 7.6,
+    "fibre": 14.7
+  }
+}

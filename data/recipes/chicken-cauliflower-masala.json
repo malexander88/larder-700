@@ -1,0 +1,112 @@
+{
+  "slug": "chicken-cauliflower-masala",
+  "title": "Chicken cauliflower masala",
+  "summary": "Chicken cauliflower masala is a indian dinner built around skinless chicken thigh fillets and cauliflower, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Indian",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large saucepan",
+      "notes": "with a lid"
+    },
+    {
+      "name": "Wooden spoon"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-thigh-raw",
+      "grams": 401,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "cauliflower",
+      "grams": 240,
+      "prepNote": "cut into florets"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 200
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garam-masala",
+      "grams": 3
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 40
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Warm the oil and soften the onion for Chicken cauliflower masala. Stir in the garlic, ginger and spices until they smell fragrant.",
+      "tip": "If the spices look dusty, give them a minute in the oil before any liquid goes in."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Add skinless chicken thigh fillets and cook until it loses its raw look. Pour in the tomatoes or coconut and cauliflower."
+    },
+    {
+      "minutes": 20,
+      "heat": "low hob",
+      "instruction": "Simmer gently, lid ajar, until chopped tomatoes is tender and the sauce coats a spoon. Add a splash of water if it sticks.",
+      "tip": "Taste Chicken cauliflower masala before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Taste for salt and acid, then rest the pan for a couple of minutes before serving Chicken cauliflower masala."
+    }
+  ],
+  "image": {
+    "file": "chicken-cauliflower-masala.webp",
+    "alt": "Chicken cauliflower masala",
+    "credit": "Gaurav Dhwaj Khadka via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_Curry_4.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 445,
+    "protein": 47.2,
+    "carbs": 15,
+    "fat": 21.9,
+    "fibre": 4.2
+  }
+}

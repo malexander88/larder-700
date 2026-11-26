@@ -1,0 +1,102 @@
+{
+  "slug": "chicken-mango-bowl",
+  "title": "Chicken mango salsa bowl",
+  "summary": "Chicken mango salsa bowl is a mexican dinner built around skinless chicken breast fillets and mango, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mexican",
+  "protein": "chicken",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 340,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "mango",
+      "grams": 120,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 100,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 99
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook skinless chicken breast fillets for Chicken mango salsa bowl in a lightly oiled pan until just done, and cook or warm little gem lettuce alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss mango with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Chicken mango salsa bowl straight away. Taste Chicken mango salsa bowl before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "chicken-mango-bowl.webp",
+    "alt": "Chicken mango salsa bowl",
+    "credit": "BOSTON66 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grilled_Chicken_Vegetable_Salad.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 441,
+    "protein": 44.2,
+    "carbs": 49.6,
+    "fat": 7.1,
+    "fibre": 2.4
+  }
+}

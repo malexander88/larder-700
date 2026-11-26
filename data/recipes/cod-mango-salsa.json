@@ -1,0 +1,109 @@
+{
+  "slug": "cod-mango-salsa",
+  "title": "Cod with mango salsa",
+  "summary": "Cod with mango salsa is a mexican dinner built around cod fillets and mango, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mexican",
+  "protein": "fish",
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "cod-raw",
+      "grams": 520,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "mango",
+      "grams": 120,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 40,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 8
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 80,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat cod fillets dry and season it. Prep mango and red onions for Cod with mango salsa so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook cod fillets on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook mango and red onions in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Cod with mango salsa before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice cod fillets and serve it with the vegetables and pan juices.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "cod-mango-salsa.webp",
+    "alt": "Cod with mango salsa",
+    "credit": "Taz from Vancouver via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Halibut_with_mango_salsa_on_coconut_brown_rice_(434662467).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 460,
+    "protein": 50.8,
+    "carbs": 38.9,
+    "fat": 11.3,
+    "fibre": 2.3
+  }
+}

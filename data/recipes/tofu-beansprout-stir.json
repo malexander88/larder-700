@@ -1,0 +1,111 @@
+{
+  "slug": "tofu-beansprout-stir",
+  "title": "Tofu and beansprout stir-fry",
+  "summary": "Tofu and beansprout stir-fry is a chinese dinner built around firm tofu and beansprouts, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Chinese",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Small saucepan"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 380,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "beansprouts",
+      "grams": 160
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 60,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 2
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice firm tofu and beansprouts before the pan is hot. Tofu and beansprout stir-fry is a fast cook, so have the sauce measured too.",
+      "tip": "A crowded wok steams. Cook the protein in two batches if the pan looks full."
+    },
+    {
+      "minutes": 8,
+      "heat": "low hob",
+      "instruction": "If the dish includes a grain or noodles, start them now in salted water so they are ready when the stir-fry is."
+    },
+    {
+      "minutes": 4,
+      "heat": "high hob",
+      "instruction": "Heat the oil until it shimmers and fry firm tofu until just cooked. Scoop it onto a plate."
+    },
+    {
+      "minutes": 2,
+      "heat": "high hob",
+      "instruction": "Fry the garlic and ginger, add beansprouts and carrots, return firm tofu, and toss with the sauce for a minute. Taste Tofu and beansprout stir-fry before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "tofu-beansprout-stir.webp",
+    "alt": "Tofu and beansprout stir-fry",
+    "credit": "6ibberish via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stir-Fried_Tofu.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 449,
+    "protein": 30.2,
+    "carbs": 39.9,
+    "fat": 18.7,
+    "fibre": 4
+  }
+}

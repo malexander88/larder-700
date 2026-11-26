@@ -1,0 +1,108 @@
+{
+  "slug": "anchovy-broccoli-spaghetti",
+  "title": "Anchovy and broccoli spaghetti",
+  "summary": "Anchovy and broccoli spaghetti is a italian dinner built around wholewheat spaghetti and anchovy fillets, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Italian",
+  "protein": "fish",
+  "dietary": [],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 16,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Colander"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "spaghetti-wholewheat",
+      "grams": 130
+    },
+    {
+      "nutritionId": "anchovies",
+      "grams": 71,
+      "prepNote": "drained and chopped"
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 200,
+      "prepNote": "cut into florets"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.6
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "parmesan",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "heat": "medium hob",
+      "instruction": "Start the sauce for Anchovy and broccoli spaghetti: soften the onion, then add garlic and anchovy fillets. Season wholewheat spaghetti and have the pasta water on to boil.",
+      "tip": "Salt the pasta water. It is the only chance to season the noodles themselves."
+    },
+    {
+      "minutes": 10,
+      "heat": "medium hob",
+      "instruction": "Cook wholewheat spaghetti in the sauce while the pasta boils until tender with a bite. Save a cup of the cooking water before you drain."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "Toss the drained pasta with the sauce, loosening it with a splash of pasta water so it clings to broccoli.",
+      "tip": "Taste Anchovy and broccoli spaghetti before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve Anchovy and broccoli spaghetti straight away in warm bowls.  Serve with the spaghetti, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "anchovy-broccoli-spaghetti.webp",
+    "alt": "Anchovy and broccoli spaghetti",
+    "credit": "Yknott via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pasta%2Bbroccoli.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 436,
+    "protein": 23,
+    "carbs": 49.1,
+    "fat": 16.3,
+    "fibre": 8.7
+  }
+}

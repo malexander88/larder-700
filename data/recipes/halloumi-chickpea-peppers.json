@@ -1,0 +1,102 @@
+{
+  "slug": "halloumi-chickpea-peppers",
+  "title": "Halloumi chickpea pepper tray",
+  "summary": "Halloumi chickpea pepper tray is a mediterranean dinner built around halloumi and canned chickpeas in water, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large roasting tin",
+      "notes": "big enough for one layer"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "halloumi",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 337,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "temperatureC": 200,
+      "instruction": "Heat the fan oven to 200°C. Cut the vegetables for Halloumi chickpea pepper tray into even pieces and toss canned chickpeas in water with a teaspoon of the oil and a pinch of salt in the tin.",
+      "tip": "Even pieces cook at the same rate, so nothing is burnt while something else is still raw."
+    },
+    {
+      "minutes": 12,
+      "temperatureC": 200,
+      "instruction": "Roast that first tray of canned chickpeas in water while you season halloumi. Pat it dry so the surface browns instead of steaming."
+    },
+    {
+      "minutes": 16,
+      "temperatureC": 200,
+      "instruction": "Nestle halloumi and red peppers among the vegetables. Roast until the protein is cooked through and the vegetables are tender.",
+      "tip": "Taste Halloumi chickpea pepper tray before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the tin for a few minutes, taste, and spoon Halloumi chickpea pepper tray into warm bowls with the juices."
+    }
+  ],
+  "image": {
+    "file": "halloumi-chickpea-peppers.webp",
+    "alt": "Halloumi chickpea pepper tray",
+    "credit": "Andy Li via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Halloumi_%26_Crispy_Chickpeas_Salad_-_No.16_2025-08-24.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 443,
+    "protein": 22.2,
+    "carbs": 36.2,
+    "fat": 23.2,
+    "fibre": 9.9
+  }
+}

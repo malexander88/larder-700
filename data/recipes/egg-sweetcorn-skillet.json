@@ -1,0 +1,105 @@
+{
+  "slug": "egg-sweetcorn-skillet",
+  "title": "Egg and sweetcorn skillet",
+  "summary": "Egg and sweetcorn skillet is a mexican dinner built around medium eggs and canned sweetcorn, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mexican",
+  "protein": "eggs",
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Fish slice or tongs"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 291,
+      "prepNote": "beaten if the method says so"
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 160
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 60,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chipotle-paste",
+      "grams": 8
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 120,
+      "prepNote": "drained and rinsed"
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Pat medium eggs dry and season it. Prep canned sweetcorn and red peppers for Egg and sweetcorn skillet so the pan is not waiting.",
+      "tip": "Dry protein browns. Wet protein steams and turns grey."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium-high hob",
+      "instruction": "Heat the oil and cook medium eggs on both sides until done. Lift it out to rest."
+    },
+    {
+      "minutes": 6,
+      "heat": "medium hob",
+      "instruction": "In the same pan, cook canned sweetcorn and red peppers in the leftover juices until tender. Add any lemon, mustard or herbs.",
+      "tip": "Taste Egg and sweetcorn skillet before serving and add a squeeze of lemon if it wants brightness."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Slice medium eggs and serve it with the vegetables and pan juices."
+    }
+  ],
+  "image": {
+    "file": "egg-sweetcorn-skillet.webp",
+    "alt": "Egg and sweetcorn skillet",
+    "credit": "JFVelasquez Floro via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:9584Saut%C3%A9ed_bitter_gourd_and_waxy_corn_with_organic_eggs_03.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 442,
+    "protein": 26,
+    "carbs": 27.8,
+    "fat": 25.2,
+    "fibre": 7.6
+  }
+}

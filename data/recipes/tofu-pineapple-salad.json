@@ -1,0 +1,104 @@
+{
+  "slug": "tofu-pineapple-salad",
+  "title": "Tofu pineapple herb salad",
+  "summary": "Tofu pineapple herb salad is a thai dinner built around firm tofu and pineapple, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Thai",
+  "protein": "tofu",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free",
+    "low-carb"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 403,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "pineapple",
+      "grams": 140,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 120,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 50,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "peanuts",
+      "grams": 16
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 10
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 18
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook firm tofu for Tofu pineapple herb salad in a lightly oiled pan until just done, and cook or warm cucumber alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss pineapple with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Tofu pineapple herb salad straight away. Taste Tofu pineapple herb salad before serving and add a squeeze of lemon if it wants brightness."
+    }
+  ],
+  "image": {
+    "file": "tofu-pineapple-salad.webp",
+    "alt": "Tofu pineapple herb salad",
+    "credit": "Wagaung via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tofu_salad.JPG",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 447,
+    "protein": 29.3,
+    "carbs": 18.1,
+    "fat": 28.6,
+    "fibre": 4
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "roasted-pepper-chickpeas",
+  "title": "Roasted pepper chickpea salad",
+  "summary": "Roasted pepper chickpea salad is a mediterranean dinner built around canned chickpeas in water and red peppers, with the portions weighed so each serving stays under 700 kcal.",
+  "cuisine": "Mediterranean",
+  "protein": "legumes",
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 8,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 520,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 100,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 40,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 18
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cook canned chickpeas in water for Roasted pepper chickpea salad in a lightly oiled pan until just done, and cook or warm cucumber alongside.",
+      "tip": "Keep the heat lively so a bowl supper still tastes cooked, not assembled from cold jars."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss red peppers with lemon or lime, herbs and a pinch of salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pile the protein, salad and any grain into bowls."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon over yoghurt, tahini or the pan juices and serve Roasted pepper chickpea salad straight away. Taste Roasted pepper chickpea salad before serving and add a squeeze of lemon if it wants brightness.  Serve with the rice, simmered in salted water until tender."
+    }
+  ],
+  "image": {
+    "file": "roasted-pepper-chickpeas.webp",
+    "alt": "Roasted pepper chickpea salad",
+    "credit": "Cajsa Lilliehook from Portland via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chickpea_Chop_Salad_(9484308160).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 546,
+    "protein": 23.1,
+    "carbs": 78,
+    "fat": 15.8,
+    "fibre": 14.6
+  }
+}
