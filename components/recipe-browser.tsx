@@ -412,7 +412,7 @@ function RecipeCard({ recipe, native, featured = false }: { recipe: CatalogItem;
         className={cn("w-full object-cover", featured ? "aspect-[4/5] sm:aspect-[16/9]" : "aspect-[4/5]")}
       />
       <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/75 via-black/15 to-transparent" />
-      <div className={cn("absolute inset-x-0 bottom-0 text-white", featured ? "p-5 sm:p-8" : "p-4")}>
+      <div className={cn("absolute inset-x-0 bottom-0 text-white", featured ? "p-5 pb-20 sm:p-8 sm:pb-8" : "p-4")}>
         <p className="text-[11px] tracking-[0.16em] uppercase opacity-90">{recipe.cuisine}</p>
         <h2 className={cn("mt-1 font-serif leading-tight", featured ? "text-3xl sm:text-5xl" : "text-2xl")}>{recipe.title}</h2>
         <div className="mt-3 flex flex-wrap gap-1.5">
