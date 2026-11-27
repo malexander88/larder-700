@@ -1,0 +1,122 @@
+{
+  "slug": "haddock-kedgeree",
+  "title": "Haddock kedgeree with peas",
+  "summary": "A fresh-haddock kedgeree: turmeric rice, peas and chopped egg, with the fish poached in the same spiced pan rather than smoked.",
+  "cuisine": "British",
+  "protein": "fish",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 37,
+  "equipment": [
+    {
+      "name": "Wide lidded saucepan"
+    },
+    {
+      "name": "Small saucepan",
+      "notes": "for the eggs"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "haddock-raw",
+      "grams": 300,
+      "prepNote": "skinned and cut into large pieces"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "egg-whole",
+      "grams": 110,
+      "prepNote": "two eggs"
+    },
+    {
+      "nutritionId": "peas-frozen",
+      "grams": 80
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "curry-powder",
+      "grams": 3
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 280
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cover the eggs with water, bring them to a simmer and boil for 8 minutes. Cool them under the cold tap, peel and chop."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and soften the onion for 5 minutes. Stir in the curry powder and turmeric for a minute until fragrant.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 14,
+      "instruction": "Add the rice and 220 g of the water with half the salt. Cover and cook on a low heat for 12 minutes, until the water is absorbed.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 10,
+      "instruction": "Scatter the peas and lay the haddock on top. Sprinkle with the remaining water, cover, and cook until the fish flakes and the peas are hot.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Fold the fish into the rice, then add the egg, parsley and lemon juice. Taste for salt and serve straight away."
+    }
+  ],
+  "image": {
+    "file": "haddock-kedgeree.webp",
+    "alt": "Kedgeree of spiced rice, fish and chopped egg",
+    "credit": "User:Justinc via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kedgeree.jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 450,
+    "protein": 41.8,
+    "carbs": 45.5,
+    "fat": 11.1,
+    "fibre": 3.6
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

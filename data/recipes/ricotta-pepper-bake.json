@@ -1,0 +1,121 @@
+{
+  "slug": "ricotta-pepper-bake",
+  "title": "Ricotta and spinach stuffed peppers",
+  "summary": "Peppers filled with ricotta, spinach, egg and quinoa, baked over cherry tomatoes. A vegetarian bake that stands as dinner.",
+  "cuisine": "Italian",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 40,
+  "equipment": [
+    {
+      "name": "Oven dish"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Mixing bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "red-pepper",
+      "grams": 280,
+      "prepNote": "halved and deseeded"
+    },
+    {
+      "nutritionId": "ricotta",
+      "grams": 180
+    },
+    {
+      "nutritionId": "egg-whole",
+      "grams": 100,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 80,
+      "prepNote": "roughly chopped"
+    },
+    {
+      "nutritionId": "quinoa-dry",
+      "grams": 60,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 160,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 5,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 6,
+      "prepNote": "torn"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 140
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the oven to 190°C fan. Halve the peppers and the tomatoes. Rinse the quinoa."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Simmer the quinoa in the water with a pinch of salt until the water is absorbed.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Mix the quinoa with the ricotta, egg, spinach, garlic, oregano, basil and the rest of the salt."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Put the tomatoes in the dish with half the oil. Sit the pepper halves on top and fill them."
+    },
+    {
+      "minutes": 18,
+      "instruction": "Bake until the filling is set and the peppers are soft.",
+      "temperatureC": 190
+    }
+  ],
+  "image": {
+    "file": "ricotta-pepper-bake.webp",
+    "alt": "Peppers stuffed with a cheese filling",
+    "credit": "Benreis via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fill_stuffed_peppers_(1).JPG",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 421,
+    "protein": 23.9,
+    "carbs": 35.2,
+    "fat": 20.6,
+    "fibre": 7
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free"
+  ]
+}

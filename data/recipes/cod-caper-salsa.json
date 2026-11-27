@@ -1,0 +1,111 @@
+{
+  "slug": "cod-caper-salsa",
+  "title": "Cod with caper salsa verde",
+  "summary": "Baked cod with new potatoes and green beans, and a parsley, caper and lemon dressing spooned over at the table.",
+  "cuisine": "Mediterranean",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 38,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Small bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "cod-raw",
+      "grams": 320
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 520,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "green-beans",
+      "grams": 160
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 15,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "capers",
+      "grams": 14,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 18
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 5,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "dijon-gf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 16
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the oven to 200°C fan. Halve the potatoes. Chop the parsley and rinse the capers."
+    },
+    {
+      "minutes": 18,
+      "instruction": "Toss the potatoes with half the oil and half the salt and roast until they are tender and starting to colour.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 6,
+      "instruction": "Stir the parsley, capers, lemon juice, garlic, mustard and the rest of the oil and salt into a salsa."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Push the potatoes aside, add the cod and green beans, and roast until the fish flakes and the beans are bright.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon the salsa over the cod and serve in the tin."
+    }
+  ],
+  "image": {
+    "file": "cod-caper-salsa.webp",
+    "alt": "A grilled cod fillet",
+    "credit": "pelican from Tokyo via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grilled_cod_(48137564662).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 415,
+    "protein": 36.2,
+    "carbs": 45.3,
+    "fat": 9.9,
+    "fibre": 6.8
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

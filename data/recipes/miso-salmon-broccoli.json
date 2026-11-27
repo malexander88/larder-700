@@ -1,0 +1,116 @@
+{
+  "slug": "miso-salmon-broccoli",
+  "title": "Miso salmon with broccoli",
+  "summary": "Salmon roasted under a miso and ginger glaze, with sesame broccoli and a small bowl of rice. The glaze is painted on halfway so it doesn't burn.",
+  "cuisine": "Japanese",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Small bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 220
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 240,
+      "prepNote": "cut into florets"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "miso-rice",
+      "grams": 18
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 8
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 5
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 160
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the oven to 200°C fan. Stir the miso, ginger, tamari and half the sesame oil together. Rinse the rice and cut the broccoli."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Toss the broccoli with the remaining sesame oil and a pinch of salt. Put it in the tin with the salmon, skin-side down if it has skin. Roast for 8 minutes.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 6,
+      "instruction": "Spread the miso glaze over the salmon and sprinkle the broccoli with sesame seeds. Roast until the salmon flakes.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve the salmon and broccoli over the rice, with the spring onion on top."
+    }
+  ],
+  "image": {
+    "file": "miso-salmon-broccoli.webp",
+    "alt": "A miso-glazed salmon fillet",
+    "credit": "Calvin Marquess via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miso_Salmon.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 433,
+    "protein": 30.2,
+    "carbs": 36.3,
+    "fat": 18.4,
+    "fibre": 4.4
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

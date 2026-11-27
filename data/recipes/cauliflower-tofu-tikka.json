@@ -1,0 +1,123 @@
+{
+  "slug": "cauliflower-tofu-tikka",
+  "title": "Cauliflower tofu tikka",
+  "summary": "Tofu, cauliflower and chickpeas roasted in yoghurt with garam masala, paprika and turmeric, finished with lemon and coriander.",
+  "cuisine": "Indian",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 31,
+  "equipment": [
+    {
+      "name": "Large roasting tin"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 280,
+      "prepNote": "cubed and patted dry"
+    },
+    {
+      "nutritionId": "cauliflower",
+      "grams": 280,
+      "prepNote": "small florets"
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 200,
+      "prepNote": "drained and patted dry"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 80
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "cut into wedges"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garam-masala",
+      "grams": 3
+    },
+    {
+      "nutritionId": "paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Heat the oven to 200°C fan. Dry and cube the tofu. Drain the chickpeas. Cut the cauliflower and onion. Stir the yoghurt with the garlic, garam masala, paprika, turmeric, cumin, oil and salt."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss the tofu, cauliflower, chickpeas and onion in the yoghurt mix and spread them in the tin."
+    },
+    {
+      "minutes": 22,
+      "instruction": "Roast until the cauliflower is tender and the edges are browned, turning once.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 3,
+      "instruction": "Squeeze over the lemon juice, scatter with coriander and serve from the tin."
+    }
+  ],
+  "image": {
+    "file": "cauliflower-tofu-tikka.webp",
+    "alt": "Tofu tikka masala with rice",
+    "credit": "Vegan Feast Catering via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tofu_Tikka_Masala_with_Brown_Rice_and_Chilies_(4940054389).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 414,
+    "protein": 33.4,
+    "carbs": 31.5,
+    "fat": 17.2,
+    "fibre": 9.3
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "high-protein"
+  ]
+}

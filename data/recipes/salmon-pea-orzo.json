@@ -1,0 +1,114 @@
+{
+  "slug": "salmon-pea-orzo",
+  "title": "Salmon and pea orzo",
+  "summary": "Orzo cooked with peas and spinach, with salmon fried separately and flaked on top, plus lemon and parsley. A one-bowl pasta supper.",
+  "cuisine": "Italian",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 24,
+  "equipment": [
+    {
+      "name": "Wide saucepan"
+    },
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Kettle"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 220
+    },
+    {
+      "nutritionId": "orzo-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "peas-frozen",
+      "grams": 100
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 70
+    },
+    {
+      "nutritionId": "lemon",
+      "grams": 40,
+      "prepNote": "zested and juiced"
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 5,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    },
+    {
+      "nutritionId": "water",
+      "grams": 500
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Boil the kettle. Zest and juice the lemon. Slice the garlic."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Boil the orzo in the water with half the salt until it is almost tender. Add the peas for the last 2 minutes, then drain, saving a splash of the water.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Meanwhile warm half the oil and fry the salmon, skin-side down if it has skin, until it flakes. Break it into large pieces.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "In the pasta pan, warm the rest of the oil and the garlic for 30 seconds. Toss in the orzo, peas, spinach, lemon zest and juice, parsley and a splash of the cooking water.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Top with the salmon and the rest of the salt and pepper."
+    }
+  ],
+  "image": {
+    "file": "salmon-pea-orzo.webp",
+    "alt": "Pasta with salmon and peas",
+    "credit": "JIP via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pasta_with_cold-smoked_salmon_and_peas_in_Loviisa.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 468,
+    "protein": 31.6,
+    "carbs": 41.7,
+    "fat": 19.3,
+    "fibre": 5.4
+  },
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ]
+}

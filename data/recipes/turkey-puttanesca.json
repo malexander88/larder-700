@@ -1,0 +1,115 @@
+{
+  "slug": "turkey-puttanesca",
+  "title": "Turkey puttanesca spaghetti",
+  "summary": "Turkey mince in a tomato sauce with olives, capers and chilli, on wholewheat spaghetti. A puttanesca that uses mince instead of anchovy.",
+  "cuisine": "Italian",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 29,
+  "equipment": [
+    {
+      "name": "Large saucepan"
+    },
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Kettle"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 280
+    },
+    {
+      "nutritionId": "spaghetti-wholewheat",
+      "grams": 120
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 280
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 30,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "capers",
+      "grams": 12,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.6
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 700
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Boil the kettle. Slice the garlic, halve the olives and rinse the capers."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Boil the spaghetti in the water with half the salt until tender, then drain, saving a little water.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Meanwhile warm the oil and fry the mince, breaking it up, until it browns. Add the garlic and chilli.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Pour in the tomatoes, olives, capers and the rest of the salt. Simmer until the sauce thickens.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Toss the spaghetti through the sauce with a splash of cooking water and the parsley."
+    }
+  ],
+  "image": {
+    "file": "turkey-puttanesca.webp",
+    "alt": "Spaghetti puttanesca with olives and tomato",
+    "credit": "Kai Olav Fredriksen via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spaghetti_alla_Puttanesca.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 452,
+    "protein": 43.2,
+    "carbs": 46.7,
+    "fat": 10.3,
+    "fibre": 7.4
+  },
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ]
+}

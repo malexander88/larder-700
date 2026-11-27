@@ -1,0 +1,116 @@
+{
+  "slug": "squid-polenta-stew",
+  "title": "Squid stew on soft polenta",
+  "summary": "Squid simmered briefly with tomatoes, olives and chilli, spooned over soft polenta. The polenta is stirred with water, not butter.",
+  "cuisine": "Italian",
+  "protein": "seafood",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 26,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "squid",
+      "grams": 280,
+      "prepNote": "sliced into rings"
+    },
+    {
+      "nutritionId": "polenta",
+      "grams": 110
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 260
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 30,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.5
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 9
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 420
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the squid and pat it dry. Chop the onion and parsley. Slice the garlic and halve the olives."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm half the oil and soften the onion. Add the garlic and chilli, then the tomatoes, olives and half the salt. Simmer until slightly thick.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 12,
+      "instruction": "Meanwhile whisk the polenta into the boiling water with the rest of the salt. Stir over a low heat until it is thick and soft.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Stir the squid into the tomato sauce and cook only until it turns opaque. Add the parsley and the rest of the oil.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon the polenta into bowls and top with the squid stew."
+    }
+  ],
+  "image": {
+    "file": "squid-polenta-stew.webp",
+    "alt": "Squid in a tomato sauce",
+    "credit": "Vimal.manchanda via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calamari_in_Tomato_Gravy.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 412,
+    "protein": 29.1,
+    "carbs": 53.4,
+    "fat": 9,
+    "fibre": 4
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free"
+  ]
+}

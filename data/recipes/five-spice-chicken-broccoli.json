@@ -1,0 +1,116 @@
+{
+  "slug": "five-spice-chicken-broccoli",
+  "title": "Five-spice chicken with broccoli",
+  "summary": "Chicken breast dusted with five-spice and stir-fried with broccoli and yellow pepper, tossed with rice noodles. A dry, fragrant fry rather than a saucy one.",
+  "cuisine": "Chinese",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 15,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 340,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 220,
+      "prepNote": "small florets"
+    },
+    {
+      "nutritionId": "yellow-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "five-spice",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 9
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 400
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the chicken and toss it with the five-spice and a pinch of salt. Cut the broccoli and pepper. Slice the garlic. Soak the noodles in boiled water until tender, then drain."
+    },
+    {
+      "minutes": 5,
+      "instruction": "Heat half the oil and stir-fry the chicken until just cooked. Lift it out.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Add the rest of the oil, the broccoli, pepper and garlic. Stir-fry until the broccoli is bright.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Return the chicken with the noodles, tamari and chilli. Toss, then scatter with sesame seeds and serve.",
+      "heat": "high hob"
+    }
+  ],
+  "image": {
+    "file": "five-spice-chicken-broccoli.webp",
+    "alt": "Chicken and broccoli in a light sauce",
+    "credit": "Daderot via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_and_broccoli_with_white_sauce_-_Massachusetts.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 464,
+    "protein": 46.9,
+    "carbs": 47.4,
+    "fat": 9.5,
+    "fibre": 5.1
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

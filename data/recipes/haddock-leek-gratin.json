@@ -1,0 +1,123 @@
+{
+  "slug": "haddock-leek-gratin",
+  "title": "Haddock and leek oat gratin",
+  "summary": "Haddock and leeks in a mustardy milk sauce, with a gluten-free oat crust instead of breadcrumbs. Spinach wilts into the base.",
+  "cuisine": "British",
+  "protein": "fish",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 36,
+  "equipment": [
+    {
+      "name": "Ovenproof frying pan"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "haddock-raw",
+      "grams": 320,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 260,
+      "prepNote": "thinly sliced"
+    },
+    {
+      "nutritionId": "leek",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 80
+    },
+    {
+      "nutritionId": "milk-semi",
+      "grams": 180
+    },
+    {
+      "nutritionId": "dijon-gf",
+      "grams": 12
+    },
+    {
+      "nutritionId": "gf-oats",
+      "grams": 35
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "cornflour",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.4
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the oven to 190°C fan. Slice the leek and the potatoes. Stir the cornflour into 2 tablespoons of the milk until smooth."
+    },
+    {
+      "minutes": 10,
+      "instruction": "Warm the oil and soften the leek and potatoes for 8 minutes, with a splash of the milk if they catch. Add the spinach and let it collapse, then scrape the vegetables into a bowl.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Pour the rest of the milk into the pan with the cornflour mix, mustard, salt and pepper. Stir until it thickens, then take it off the heat.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Fold the haddock, leek, spinach, parsley and lemon juice into the sauce. Spread it in the pan and cover with the oats and a thread of the remaining oil."
+    },
+    {
+      "minutes": 16,
+      "instruction": "Bake until the oats are golden and the fish is opaque in the centre.",
+      "temperatureC": 190
+    }
+  ],
+  "image": {
+    "file": "haddock-leek-gratin.webp",
+    "alt": "A baked fish gratin in a dish",
+    "credit": "Smabs Sputzer via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vin_des_Allobroges_et_gratin_de_poisson.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 413,
+    "protein": 41.3,
+    "carbs": 42,
+    "fat": 9,
+    "fibre": 6.2
+  },
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ]
+}

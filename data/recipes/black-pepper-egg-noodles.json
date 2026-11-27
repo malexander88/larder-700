@@ -1,0 +1,119 @@
+{
+  "slug": "black-pepper-egg-noodles",
+  "title": "Black pepper egg noodles",
+  "summary": "Rice noodles tossed with egg, pak choi and a lot of freshly ground pepper, in the spirit of a pepper stir-fry rather than a saucy noodle dish.",
+  "cuisine": "Chinese",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 220,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 130
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 80,
+      "prepNote": "cut into matchsticks"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 1.5,
+      "prepNote": "coarsely ground"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 400
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Soak the noodles in freshly boiled water until they bend, then drain. Slice the pak choi, carrot, garlic and spring onion. Beat the eggs with a pinch of salt."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Heat half the sesame oil and scramble the eggs until just set. Tip them onto a plate.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Add the rest of the oil and stir-fry the carrot, pak choi stems and garlic for 2 minutes. Add the leaves.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Toss in the noodles, tamari, pepper and chilli. Fold the egg and spring onion through and serve.",
+      "heat": "high hob",
+      "tip": "Grind the pepper coarsely. Fine dust disappears into the noodles."
+    }
+  ],
+  "image": {
+    "file": "black-pepper-egg-noodles.webp",
+    "alt": "Fried noodles topped with egg",
+    "credit": "Fitrah 9131 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Instant_fried_noodles_with_a_fried_egg.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 457,
+    "protein": 20.3,
+    "carbs": 60.8,
+    "fat": 14.7,
+    "fibre": 3.2
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

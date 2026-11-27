@@ -1,0 +1,114 @@
+{
+  "slug": "turkey-sweet-potato-tray",
+  "title": "Turkey and sweet potato tray",
+  "summary": "Turkey steaks roasted with sweet potato, red onion and broccoli, rubbed with paprika and lime. Everything goes on one tray.",
+  "cuisine": "Mexican",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 32,
+  "equipment": [
+    {
+      "name": "Large roasting tin"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-breast",
+      "grams": 300
+    },
+    {
+      "nutritionId": "sweet-potato",
+      "grams": 320,
+      "prepNote": "scrubbed and cut into wedges"
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 180,
+      "prepNote": "cut into florets"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 100,
+      "prepNote": "cut into wedges"
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Heat the oven to 200°C fan. Cut the sweet potato and onion into wedges and the broccoli into florets. Stir the paprika, cumin, garlic, oil, lime juice and salt together."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Toss the sweet potato and onion with two thirds of the spice mix. Roast them until the potato is starting to soften.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 6,
+      "instruction": "Rub the turkey with the rest of the spice mix."
+    },
+    {
+      "minutes": 16,
+      "instruction": "Add the turkey and broccoli to the tin. Roast until the turkey is cooked through and the broccoli is charred at the tips.",
+      "temperatureC": 200,
+      "tip": "Turkey breast dries out if it overcooks. It is ready when the centre is no longer pink."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Rest for a couple of minutes, then scatter with coriander and serve from the tin."
+    }
+  ],
+  "image": {
+    "file": "turkey-sweet-potato-tray.webp",
+    "alt": "A plate of roast turkey with sweet potatoes and vegetables",
+    "credit": "Famartin via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017-12-25_15_31_07_An_example_of_a_Christmas_dinner,_including_deviled_eggs,_peas,_corn,_stuffing,_turkey,_mashed_potatoes,_croissant_rolls_and_mashed_sweet_potatoes_in_Ewing,_Mercer_County,_New_Jersey.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 403,
+    "protein": 42,
+    "carbs": 42.3,
+    "fat": 7.3,
+    "fibre": 8.4
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

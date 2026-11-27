@@ -1,0 +1,109 @@
+{
+  "slug": "fennel-orange-pork",
+  "title": "Fennel and orange pork fillet",
+  "summary": "Pork fillet roasted with fennel and orange, with cannellini beans and rocket so the plate is a full meal. Rosemary and garlic go in the tin.",
+  "cuisine": "Mediterranean",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 34,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 380
+    },
+    {
+      "nutritionId": "fennel",
+      "grams": 220,
+      "prepNote": "cut into wedges"
+    },
+    {
+      "nutritionId": "orange",
+      "grams": 140,
+      "prepNote": "peeled and sliced"
+    },
+    {
+      "nutritionId": "cannellini-canned",
+      "grams": 180,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "rocket",
+      "grams": 40
+    },
+    {
+      "nutritionId": "rosemary",
+      "grams": 3,
+      "prepNote": "leaves chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Heat the oven to 200°C fan. Cut the fennel into wedges and peel and slice the orange. Slice the garlic."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Toss the fennel with half the oil, the rosemary, garlic and half the salt. Roast until it is starting to soften.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 6,
+      "instruction": "Rub the pork with the rest of the oil, salt and pepper."
+    },
+    {
+      "minutes": 16,
+      "instruction": "Add the pork and orange to the tin and roast until the pork is just cooked through.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 4,
+      "instruction": "Rest the pork for 3 minutes, then slice it. Fold the warm beans and rocket through the fennel and serve with the pork juices."
+    }
+  ],
+  "image": {
+    "file": "fennel-orange-pork.webp",
+    "alt": "Roast pork with fennel and citrus",
+    "credit": "avlxyz via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Slow_roasted_belly_pork_with_fennel_salad_and_citrus_jam_-_d%27Arry%27s_Verandah_AUD29.jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 426,
+    "protein": 51.3,
+    "carbs": 26.5,
+    "fat": 12.6,
+    "fibre": 10.6
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

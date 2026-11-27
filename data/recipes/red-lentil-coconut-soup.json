@@ -1,0 +1,131 @@
+{
+  "slug": "red-lentil-coconut-soup",
+  "title": "Red lentil and coconut soup",
+  "summary": "Red lentils and sweet potato cooked down with ginger, turmeric and coconut milk into a thick soup. Lime and coriander go on at the end.",
+  "cuisine": "Indian",
+  "protein": "legumes",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large lidded saucepan"
+    },
+    {
+      "name": "Stick blender",
+      "notes": "optional, for a smoother soup"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "red-lentils-dry",
+      "grams": 150,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "sweet-potato",
+      "grams": 220,
+      "prepNote": "peeled and diced"
+    },
+    {
+      "nutritionId": "coconut-milk-light",
+      "grams": 120
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 650
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Rinse the lentils. Peel and dice the sweet potato. Chop the onion and grate the garlic and ginger."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the oil and soften the onion. Stir in the garlic, ginger, turmeric, cumin and chilli flakes for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 18,
+      "instruction": "Add the lentils, sweet potato, water and salt. Cover and simmer until the lentils have collapsed and the potato is soft.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Stir in the coconut milk and warm it through. Mash a few pieces of potato if you want a thicker soup.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Add the lime juice and coriander, and serve."
+    }
+  ],
+  "image": {
+    "file": "red-lentil-coconut-soup.webp",
+    "alt": "A bowl of lentil soup",
+    "credit": "Whoisjohngalt via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bowl_of_lentil_soup_with_green_and_red_lentils.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 444,
+    "protein": 22,
+    "carbs": 70.2,
+    "fat": 8.4,
+    "fibre": 12.2
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

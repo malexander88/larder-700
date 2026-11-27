@@ -1,0 +1,118 @@
+{
+  "slug": "beef-pinto-stew",
+  "title": "Beef and pinto bean stew",
+  "summary": "Lean mince simmered with pinto beans, sweetcorn and smoked paprika in tomatoes. A one-pan stew, not a chilli, with coriander at the end.",
+  "cuisine": "Mexican",
+  "protein": "beef",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 29,
+  "equipment": [
+    {
+      "name": "Large lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-mince-5",
+      "grams": 260
+    },
+    {
+      "nutritionId": "pinto-beans",
+      "grams": 240,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 120,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 300
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 100,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.5
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Chop the onion and grate the garlic. Drain the beans and sweetcorn."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil, soften the onion for 4 minutes, then add the mince and cook until it loses its pink colour.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Stir in the garlic, paprika, cumin and chilli flakes for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 16,
+      "instruction": "Pour in the tomatoes, beans, sweetcorn and salt. Cover and simmer until the sauce is thick and the mince is tender.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Stir through the coriander and taste for salt before serving."
+    }
+  ],
+  "image": {
+    "file": "beef-pinto-stew.webp",
+    "alt": "A bowl of beef and bean chilli",
+    "credit": "cyclonebill from Copenhagen via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chili_con_carne_(4431800858).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 422,
+    "protein": 40.1,
+    "carbs": 38,
+    "fat": 12.2,
+    "fibre": 11.3
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

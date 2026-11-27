@@ -1,0 +1,114 @@
+{
+  "slug": "tempeh-pineapple-tacos",
+  "title": "Tempeh and pineapple tacos",
+  "summary": "Cumin-crusted tempeh and pineapple in warm corn tortillas, with a quick red cabbage and lime slaw. A meat-free taco that still feels like dinner.",
+  "cuisine": "Mexican",
+  "protein": "legumes",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tempeh",
+      "grams": 220,
+      "prepNote": "crumbled"
+    },
+    {
+      "nutritionId": "pineapple",
+      "grams": 110,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "corn-tortilla",
+      "grams": 120
+    },
+    {
+      "nutritionId": "red-cabbage",
+      "grams": 100,
+      "prepNote": "finely shredded"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 6,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Crumble the tempeh. Dice the pineapple and chop the chilli. Toss the cabbage with half the lime juice and a pinch of salt."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and fry the tempeh with the cumin, paprika and salt until the crumbs are crisp at the edges.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Add the pineapple and chilli and toss for a minute so the fruit warms.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Warm the tortillas in a dry pan for a few seconds each. Fill them with tempeh, pineapple and cabbage, then finish with coriander and the rest of the lime.",
+      "heat": "low hob"
+    }
+  ],
+  "image": {
+    "file": "tempeh-pineapple-tacos.webp",
+    "alt": "Tempeh tacos on a plate",
+    "credit": "J Doll via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tempeh_Tacos_(140492089).jpeg",
+    "license": "CC BY 3.0"
+  },
+  "statedPerServing": {
+    "calories": 453,
+    "protein": 25.4,
+    "carbs": 47.2,
+    "fat": 18,
+    "fibre": 11.3
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "cod-chickpea-tagine",
+  "title": "Cod and chickpea tagine",
+  "summary": "Cod poached in a tomato and chickpea sauce scented with cumin and cinnamon, with carrot, coriander and couscous. The fish is added only for the last few minutes.",
+  "cuisine": "Middle Eastern",
+  "protein": "fish",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 29,
+  "equipment": [
+    {
+      "name": "Wide lidded casserole"
+    },
+    {
+      "name": "Heatproof bowl",
+      "notes": "for the couscous"
+    },
+    {
+      "name": "Kettle"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "cod-raw",
+      "grams": 300,
+      "prepNote": "cut into large pieces"
+    },
+    {
+      "nutritionId": "couscous-dry",
+      "grams": 70
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 200,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 260
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "cinnamon",
+      "grams": 0.6
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 100
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the onion and carrot. Grate the garlic. Drain the chickpeas and cut the cod into large pieces. Cover the couscous with the boiling water and a pinch of salt, then cover the bowl."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and soften the onion and carrot.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Stir in the garlic, cumin and cinnamon for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 12,
+      "instruction": "Add the tomatoes, chickpeas and salt. Cover and simmer until the carrot is tender.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Lay the cod on top, cover, and cook until it flakes. Add the lemon juice and coriander. Fluff the couscous and serve the tagine on top.",
+      "heat": "low hob",
+      "tip": "Keep the heat low so the cod stays in large flakes."
+    }
+  ],
+  "image": {
+    "file": "cod-chickpea-tagine.webp",
+    "alt": "A fish tagine in a clay pot",
+    "credit": "Hamza MACHMOUME via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tagine_au_poisson.jpeg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 470,
+    "protein": 41.6,
+    "carbs": 56.4,
+    "fat": 8.7,
+    "fibre": 9.7
+  },
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ]
+}

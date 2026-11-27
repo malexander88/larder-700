@@ -1,0 +1,115 @@
+{
+  "slug": "smoked-tofu-broth",
+  "title": "Smoked tofu noodle broth",
+  "summary": "A light miso broth with smoked tofu, rice noodles, pak choi and mushrooms. Supper in one bowl, with chilli on top.",
+  "cuisine": "Japanese",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 15,
+  "equipment": [
+    {
+      "name": "Large saucepan"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "smoked-tofu",
+      "grams": 220,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 130
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 160,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "miso-rice",
+      "grams": 24
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 4
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "water",
+      "grams": 700
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Slice the tofu, mushrooms, ginger and spring onion. Halve the pak choi lengthways. Boil the kettle."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Simmer the ginger in the water for 5 minutes. Scoop out a ladleful and stir the miso into it, off the boil.",
+      "heat": "medium hob",
+      "tip": "Boiling miso makes it bitter. Mix it in once the pan is off a hard boil."
+    },
+    {
+      "minutes": 5,
+      "instruction": "Add the noodles, mushrooms and tamari. Cook until the noodles are tender.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the pak choi and tofu and simmer until the leaves wilt and the tofu is hot. Serve with spring onion, sesame oil and chilli flakes.",
+      "heat": "low hob"
+    }
+  ],
+  "image": {
+    "file": "smoked-tofu-broth.webp",
+    "alt": "Miso noodle soup with tofu and spring onion",
+    "credit": "Daderot via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miso_ramen_with_fried_tofu,_corn,_wakame_seaweed,_chili_strings,_and_scallions_-_Massachusetts.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 470,
+    "protein": 26.4,
+    "carbs": 63.2,
+    "fat": 12.3,
+    "fibre": 4.1
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "masala-cottage-omelette",
+  "title": "Masala cottage cheese omelette",
+  "summary": "A folded omelette filled with cottage cheese, tomato, spinach and cumin, with rice and a spoon of yoghurt. Dinner, rather than a breakfast plate.",
+  "cuisine": "Indian",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 25,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan",
+      "notes": "for the rice"
+    },
+    {
+      "name": "Bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 200,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "cottage-cheese",
+      "grams": 140
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 120,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 60,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 50,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 6,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 0.8
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 50
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Chop the onion, tomatoes, chilli, spinach and coriander. Rinse the rice. Beat the eggs with the turmeric, half the cumin and half the salt."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Warm half the oil and cook the onion and chilli for 2 minutes. Add the tomatoes, spinach and the rest of the cumin and salt. Tip the mixture into a bowl and stir in the cottage cheese and coriander.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Add the rest of the oil and pour in half the egg. When the base is set, spoon on half the filling and fold. Repeat with the rest.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve the omelettes with the rice and the yoghurt on the side."
+    }
+  ],
+  "image": {
+    "file": "masala-cottage-omelette.webp",
+    "alt": "A folded masala omelette",
+    "credit": "SwingingUvula via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masala_omelette.JPG",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 426,
+    "protein": 27.8,
+    "carbs": 40.5,
+    "fat": 17,
+    "fibre": 2.5
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "basil-prawn-noodles",
+  "title": "Basil prawns with rice noodles",
+  "summary": "Prawns and green beans tossed with rice noodles, basil, lime and tamari. A fast noodle supper with the herbs added off the heat.",
+  "cuisine": "Thai",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 280
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 130
+    },
+    {
+      "nutritionId": "green-beans",
+      "grams": 150,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 12,
+      "prepNote": "leaves picked"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 400
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Soak the noodles in boiled water until tender, then drain. Halve the beans and chop the garlic and chilli."
+    },
+    {
+      "minutes": 5,
+      "instruction": "Heat the oil and stir-fry the beans and garlic for 2 minutes.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the prawns and chilli and cook until the prawns are pink.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Toss in the noodles and tamari. Take the pan off the heat, add the basil, lime juice and spring onion, and serve."
+    }
+  ],
+  "image": {
+    "file": "basil-prawn-noodles.webp",
+    "alt": "Prawns and basil tossed with noodles",
+    "credit": "PattayaPatrol via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:DFC_2257_Stir-fried_seafood_spaghetti_with_mussels_shrimp_baby_corn_and_fresh_basil_on_a_white_plate.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 413,
+    "protein": 30.3,
+    "carbs": 61,
+    "fat": 5.4,
+    "fibre": 3.4
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "chicken-mango-curry",
+  "title": "Chicken and mango curry",
+  "summary": "Chicken simmered with mango, spinach and light coconut milk, with curry powder rather than a long spice list, and a small portion of rice.",
+  "cuisine": "Indian",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 33,
+  "equipment": [
+    {
+      "name": "Large lidded frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 320,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "mango",
+      "grams": 130,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 80
+    },
+    {
+      "nutritionId": "coconut-milk-light",
+      "grams": 100
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 75,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 90,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "curry-powder",
+      "grams": 4
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 170
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cut the chicken and dice the mango. Slice the onion and chilli. Grate the garlic and ginger. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the oil and soften the onion. Stir in the garlic, ginger, curry powder and chilli for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 12,
+      "instruction": "Add the chicken and cook until it is no longer pink. Pour in the coconut milk and half the mango, then simmer until the chicken is cooked and the sauce is thick.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Fold in the spinach and the rest of the mango. Taste for salt, scatter with coriander and serve with the rice."
+    }
+  ],
+  "image": {
+    "file": "chicken-mango-curry.webp",
+    "alt": "A bowl of chicken curry",
+    "credit": "Gaurav Dhwaj Khadka via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_Curry_5.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 455,
+    "protein": 42.9,
+    "carbs": 46.8,
+    "fat": 10.6,
+    "fibre": 3.7
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

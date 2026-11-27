@@ -1,0 +1,129 @@
+{
+  "slug": "mussel-leek-parsley",
+  "title": "Mussels with leeks and parsley",
+  "summary": "Mussels steamed over softened leek, celery and garlic, with new potatoes in the broth and parsley and lemon at the end.",
+  "cuisine": "British",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 31,
+  "equipment": [
+    {
+      "name": "Large lidded saucepan"
+    },
+    {
+      "name": "Colander"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "mussels",
+      "grams": 700,
+      "prepNote": "scrubbed, beards removed"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 240,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "leek",
+      "grams": 180,
+      "prepNote": "sliced and rinsed"
+    },
+    {
+      "nutritionId": "celery",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 12,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "lemon",
+      "grams": 40,
+      "prepNote": "half a lemon, juiced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "stock-vegetable-gf",
+      "grams": 5
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 150
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Rinse the mussels and discard any that stay open when tapped. Halve the potatoes. Slice the leek, celery and garlic. Stir the stock into the water."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Simmer the potatoes in the stock until they are nearly tender, then lift them out with a slotted spoon and keep the broth.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and cook the leek and celery with a pinch of salt until soft but not coloured.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Add the garlic and chilli flakes and stir for a minute. Pour in the stock.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Return the potatoes, tip in the mussels, cover and cook until they open. Shake the pan once. Discard any that stay shut.",
+      "heat": "medium hob",
+      "tip": "They are done as soon as the shells open. Longer makes them rubbery."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Take the pan off the heat, stir through the parsley and lemon juice, and serve in warm bowls."
+    }
+  ],
+  "image": {
+    "file": "mussel-leek-parsley.webp",
+    "alt": "A pot of steamed mussels in a light broth",
+    "credit": "Benoît Prieur via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moules_marini%C3%A8res_cuisin%C3%A9es_en_octobre_2019.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 438,
+    "protein": 46.8,
+    "carbs": 35.9,
+    "fat": 11.8,
+    "fibre": 5
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "holy-basil-tofu",
+  "title": "Tofu with holy basil and beans",
+  "summary": "Firm tofu stir-fried with green beans, garlic, chilli and a lot of basil, in the pattern of a Thai basil fry. Rice on the side.",
+  "cuisine": "Thai",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 27,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 300,
+      "prepNote": "cubed and patted dry"
+    },
+    {
+      "nutritionId": "green-beans",
+      "grams": 180,
+      "prepNote": "trimmed and halved"
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 15,
+      "prepNote": "leaves picked"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 75,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 10,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 10,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 60,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 9
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 170
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Dry and cube the tofu. Halve the beans, slice the onion and chilli, and chop the garlic. Pick the basil leaves."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Heat half the oil and fry the tofu until golden. Lift it out.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Add the rest of the oil, the onion, garlic, chilli and beans. Stir-fry until the beans are bright and still a little crisp.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Return the tofu, add the tamari and basil, and toss until the leaves wilt. Serve with the rice.",
+      "heat": "medium hob"
+    }
+  ],
+  "image": {
+    "file": "holy-basil-tofu.webp",
+    "alt": "A tofu stir-fry with vegetables",
+    "credit": "ParentingPatch via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stir_Fry_with_Tofu.JPG",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 408,
+    "protein": 24.9,
+    "carbs": 42.4,
+    "fat": 15.4,
+    "fibre": 4.7
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

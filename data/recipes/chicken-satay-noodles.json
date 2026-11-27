@@ -1,0 +1,117 @@
+{
+  "slug": "chicken-satay-noodles",
+  "title": "Chicken satay noodles",
+  "summary": "Rice noodles with chicken in a peanut, lime and tamari sauce, plus cucumber and broccoli. The sauce is a spoon of peanut butter loosened with water, not a jar of satay.",
+  "cuisine": "Thai",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 15,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Small bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 320,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 80
+    },
+    {
+      "nutritionId": "peanut-butter",
+      "grams": 22
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 160,
+      "prepNote": "small florets"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "water",
+      "grams": 80
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Soak the noodles in boiled water, then drain. Slice the chicken and cucumber. Stir the peanut butter, lime juice, tamari, garlic, chilli and water into a sauce."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Heat the oil and stir-fry the chicken until just cooked. Lift it to the side of the pan.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Add the broccoli with a splash of water and cook until bright.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Return the chicken, add the noodles and sauce, and toss until the sauce clings. Serve with cucumber and spring onion.",
+      "heat": "medium hob"
+    }
+  ],
+  "image": {
+    "file": "chicken-satay-noodles.webp",
+    "alt": "Chicken satay with peanut sauce",
+    "credit": "Elly Suhailee via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CHICKEN_SATAY.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 457,
+    "protein": 45.5,
+    "carbs": 41.1,
+    "fat": 12.1,
+    "fibre": 3.7
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

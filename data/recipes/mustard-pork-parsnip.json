@@ -1,0 +1,120 @@
+{
+  "slug": "mustard-pork-parsnip",
+  "title": "Mustard pork with parsnip and kale",
+  "summary": "Pork fillet seared and finished with Dijon, roasted-tasting parsnip and a handful of kale, with apple stirred in at the end so it stays a little sharp.",
+  "cuisine": "British",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large lidded frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Kettle"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 360,
+      "prepNote": "sliced into thick strips"
+    },
+    {
+      "nutritionId": "parsnip",
+      "grams": 340,
+      "prepNote": "peeled and cut into batons"
+    },
+    {
+      "nutritionId": "kale",
+      "grams": 100,
+      "prepNote": "woody stems stripped"
+    },
+    {
+      "nutritionId": "apple",
+      "grams": 90,
+      "prepNote": "cored and sliced"
+    },
+    {
+      "nutritionId": "dijon-gf",
+      "grams": 16
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 90,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 9
+    },
+    {
+      "nutritionId": "sage",
+      "grams": 3,
+      "prepNote": "leaves chopped"
+    },
+    {
+      "nutritionId": "stock-vegetable-gf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the pork, onion, garlic and apple. Peel the parsnips and cut them into batons. Strip the kale. Stir the stock cube into the hot water."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil in the pan and brown the pork for a few minutes, turning until it takes on colour. Lift it onto a plate.",
+      "heat": "medium hob",
+      "tip": "Don't cook it through yet; it finishes in the sauce."
+    },
+    {
+      "minutes": 14,
+      "instruction": "Add the parsnip and onion to the same pan with a pinch of salt. Cover and cook until the parsnip is tender at the edges, stirring once.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Stir in the garlic, sage, mustard and stock. Return the pork and any juices, then fold in the kale and apple. Simmer until the pork is cooked through and the kale has wilted.",
+      "heat": "low hob"
+    }
+  ],
+  "image": {
+    "file": "mustard-pork-parsnip.webp",
+    "alt": "Roast pork with vegetables on a dinner plate",
+    "credit": "Kham Tran via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunday-Pork-Roast-2008.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 440,
+    "protein": 44.8,
+    "carbs": 35.7,
+    "fat": 13,
+    "fibre": 10.6
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

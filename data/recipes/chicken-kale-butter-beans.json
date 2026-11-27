@@ -1,0 +1,115 @@
+{
+  "slug": "chicken-kale-butter-beans",
+  "title": "Chicken, kale and butter bean stew",
+  "summary": "Chicken thigh, butter beans and kale in a tomato and rosemary pot. A one-pan stew with lemon at the end.",
+  "cuisine": "Mediterranean",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 34,
+  "equipment": [
+    {
+      "name": "Large lidded casserole"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-thigh-raw",
+      "grams": 320,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "butter-beans",
+      "grams": 240,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "kale",
+      "grams": 90,
+      "prepNote": "stems stripped"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 250
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 100,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rosemary",
+      "grams": 3,
+      "prepNote": "leaves chopped"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Chop the onion, slice the garlic and strip the kale. Cut the chicken into chunks."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and brown the chicken. Lift it out.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Soften the onion, then add the garlic and rosemary for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 16,
+      "instruction": "Return the chicken with the tomatoes, beans, salt and pepper. Cover and simmer until the chicken is cooked through.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Stir in the kale, cover for 2 minutes, then add the lemon juice and serve."
+    }
+  ],
+  "image": {
+    "file": "chicken-kale-butter-beans.webp",
+    "alt": "Chicken and bean stew in a pot",
+    "credit": "Judgefloro via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:0647Pinto_beans_chicken_stew_15.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 421,
+    "protein": 44,
+    "carbs": 27.9,
+    "fat": 14.8,
+    "fibre": 9.6
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

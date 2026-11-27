@@ -1,0 +1,122 @@
+{
+  "slug": "chickpea-orange-salad",
+  "title": "Chickpea and orange salad",
+  "summary": "Warm chickpeas with orange, olives, rocket and pumpkin seeds. A no-cook-aside-from-warming salad that still has enough bulk for dinner.",
+  "cuisine": "Middle Eastern",
+  "protein": "legumes",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 20,
+  "equipment": [
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 280,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "quinoa-dry",
+      "grams": 70,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "orange",
+      "grams": 140,
+      "prepNote": "peeled and sliced"
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 25,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "rocket",
+      "grams": 40
+    },
+    {
+      "nutritionId": "pumpkin-seeds",
+      "grams": 12
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 40,
+      "prepNote": "finely sliced"
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 160
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Rinse the quinoa. Peel and slice the orange, slice the onion and halve the olives."
+    },
+    {
+      "minutes": 14,
+      "instruction": "Simmer the quinoa in the water with a pinch of salt until tender. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Warm the chickpeas with the cumin and half the oil until hot.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Toss the quinoa with the chickpeas, orange, olives, onion, rocket, parsley, seeds, lemon juice and the rest of the oil and salt."
+    }
+  ],
+  "image": {
+    "file": "chickpea-orange-salad.webp",
+    "alt": "A chickpea salad",
+    "credit": "FitTasteTic via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colorful_healthy_Chickpea_Salad_-_49859083608.jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 430,
+    "protein": 18.5,
+    "carbs": 55.1,
+    "fat": 15.1,
+    "fibre": 11.7
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

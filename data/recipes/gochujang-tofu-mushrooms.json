@@ -1,0 +1,122 @@
+{
+  "slug": "gochujang-tofu-mushrooms",
+  "title": "Gochujang tofu with mushrooms",
+  "summary": "Firm tofu and chestnut mushrooms in a sweet-hot gochujang sauce, on spinach rice. A Korean-leaning rice bowl using a spoon of paste.",
+  "cuisine": "Japanese",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 27,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 280,
+      "prepNote": "cubed and patted dry"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 200,
+      "prepNote": "quartered"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 80
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "gochujang",
+      "grams": 16
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 10
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 5
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cube and dry the tofu. Quarter the mushrooms. Rinse the rice. Stir the gochujang and tamari into 3 tablespoons of water."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the remaining water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the sesame oil and fry the tofu until golden on two sides. Lift it out.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Fry the mushrooms and garlic until the mushrooms colour. Return the tofu, pour in the gochujang mix and bubble until it turns glossy.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Fold the spinach through the rice so it wilts. Spoon the tofu and mushrooms on top with spring onion and sesame seeds."
+    }
+  ],
+  "image": {
+    "file": "gochujang-tofu-mushrooms.webp",
+    "alt": "A bowl of saucy tofu",
+    "credit": "Sichuanfoodlover via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Authentic_Mapo_Tofu.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 414,
+    "protein": 25.6,
+    "carbs": 43.3,
+    "fat": 15.3,
+    "fibre": 4
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "chicken-beetroot-bowl",
+  "title": "Chicken and beetroot yoghurt bowl",
+  "summary": "Spiced chicken with quinoa, beetroot, cucumber and mint yoghurt. A chopped bowl in the shawarma family, without the bread.",
+  "cuisine": "Middle Eastern",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 320,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "quinoa-dry",
+      "grams": 80,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "beetroot",
+      "grams": 160,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 80
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 50,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "mint",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 4,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "paprika",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the chicken, onion and cucumber. Cube the beetroot. Rinse the quinoa. Stir half the yoghurt with the mint, garlic, lemon juice and a pinch of salt."
+    },
+    {
+      "minutes": 14,
+      "instruction": "Simmer the quinoa in the water with a pinch of salt until it is tender and the water has gone. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Toss the chicken with the cumin, paprika, half the oil and the rest of the salt."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Fry the chicken until browned and cooked through.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Warm the beetroot through in the same pan for a minute. Serve the chicken and beetroot on the quinoa with cucumber, onion and the mint yoghurt.",
+      "heat": "low hob"
+    }
+  ],
+  "image": {
+    "file": "chicken-beetroot-bowl.webp",
+    "alt": "Roast chicken with beetroot, cucumber and salad",
+    "credit": "CharmaineZoe's Marvelous Melange from England via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roast_chicken_legs_with_asparagus,_potato_salad,_colesaw,_cherry_tomatoes,_cucumber,_avocado,_red_pepper,_beetroot_and_lettuce._(41665198520).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 435,
+    "protein": 49,
+    "carbs": 38.6,
+    "fat": 9.3,
+    "fibre": 5.5
+  },
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ]
+}

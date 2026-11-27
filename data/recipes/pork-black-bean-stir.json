@@ -1,0 +1,127 @@
+{
+  "slug": "pork-black-bean-stir",
+  "title": "Pork and black bean stir-fry",
+  "summary": "Pork fillet with black beans, green pepper and a tamari glaze, served with rice. The beans are canned, so they only need heating through.",
+  "cuisine": "Chinese",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 25,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 280,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 180,
+      "prepNote": "drained and rinsed"
+    },
+    {
+      "nutritionId": "green-pepper",
+      "grams": 140,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "cut into lengths"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 5
+    },
+    {
+      "nutritionId": "cornflour",
+      "grams": 4
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the pork, pepper, garlic, ginger and spring onion. Drain the beans. Stir the cornflour into the tamari with 2 tablespoons of water."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the rest of the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Heat the sesame oil until hot and stir-fry the pork until it just loses its pink colour. Lift it out.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Stir-fry the pepper, garlic and ginger for 2 minutes. Return the pork with the beans, sauce and chilli. Toss until the sauce turns glossy.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Fold in the spring onion and serve over the rice."
+    }
+  ],
+  "image": {
+    "file": "pork-black-bean-stir.webp",
+    "alt": "Stir-fried pork with peppers",
+    "credit": "NuCastiel from Bangkok via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pork_stir-fried_with_black_pepper_(37000148695).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 461,
+    "protein": 42.9,
+    "carbs": 52.9,
+    "fat": 8.6,
+    "fibre": 8
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "halloumi-beet-salad",
+  "title": "Halloumi, beetroot and chickpeas",
+  "summary": "Warm halloumi with quinoa, chickpeas, beetroot and orange, dressed with mint and lemon. A main-course salad rather than a side.",
+  "cuisine": "Mediterranean",
+  "protein": "legumes",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 23,
+  "equipment": [
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "halloumi",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 220,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "quinoa-dry",
+      "grams": 70,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "beetroot",
+      "grams": 140,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "orange",
+      "grams": 100,
+      "prepNote": "peeled and sliced"
+    },
+    {
+      "nutritionId": "rocket",
+      "grams": 40
+    },
+    {
+      "nutritionId": "mint",
+      "grams": 6,
+      "prepNote": "leaves chopped"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 160
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Rinse the quinoa. Cube the beetroot and peel and slice the orange. Slice the halloumi."
+    },
+    {
+      "minutes": 14,
+      "instruction": "Simmer the quinoa in the water with a pinch of salt until the grains have opened and the water is absorbed. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Warm half the oil and fry the halloumi until golden on both sides.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Fold the chickpeas, beetroot, orange, rocket and mint through the quinoa with the lemon juice and the rest of the oil. Top with the halloumi."
+    }
+  ],
+  "image": {
+    "file": "halloumi-beet-salad.webp",
+    "alt": "Grilled halloumi with salad",
+    "credit": "Andy Li via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Halloumi,_Sun-dried_Tomato,_Pesto_Toasties_with_salad_-_The_Orchard_Cafe_2025-12-04.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 546,
+    "protein": 28.2,
+    "carbs": 52.2,
+    "fat": 25,
+    "fibre": 10.2
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free"
+  ]
+}

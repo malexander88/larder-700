@@ -1,0 +1,120 @@
+{
+  "slug": "ginger-crab-broth",
+  "title": "Ginger crab and sweetcorn broth",
+  "summary": "A Chinese-style crab and sweetcorn soup with rice noodles, thickened slightly with cornflour and finished with egg ribbons and spring onion.",
+  "cuisine": "Chinese",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 17,
+  "equipment": [
+    {
+      "name": "Large saucepan"
+    },
+    {
+      "name": "Small bowl"
+    },
+    {
+      "name": "Kettle"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "crab",
+      "grams": 220
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 200,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 100
+    },
+    {
+      "nutritionId": "egg-whole",
+      "grams": 60,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "julienned"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "stock-vegetable-gf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "cornflour",
+      "grams": 8
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 8
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 650
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Soak the noodles in freshly boiled water until they bend, then drain. Drain the sweetcorn. Stir the stock into the water. Mix the cornflour with 3 tablespoons of cold water. Beat the egg."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Simmer the ginger in the stock for 5 minutes, then add the sweetcorn and tamari.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Stir the cornflour mix into the soup and simmer until it turns lightly silky.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Add the crab and noodles and heat them through. Pour in the egg in a thin stream while stirring, so it sets in ribbons.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Take the pan off the heat, add the sesame oil and spring onion, and serve."
+    }
+  ],
+  "image": {
+    "file": "ginger-crab-broth.webp",
+    "alt": "A bowl of crab and sweetcorn soup",
+    "credit": "Wikimedia Commons contributor via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Corn_crab_soup1.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 434,
+    "protein": 30.1,
+    "carbs": 61.3,
+    "fat": 7.6,
+    "fibre": 3.5
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

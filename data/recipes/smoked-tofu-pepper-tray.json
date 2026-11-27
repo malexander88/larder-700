@@ -1,0 +1,124 @@
+{
+  "slug": "smoked-tofu-pepper-tray",
+  "title": "Smoked tofu and pepper tray",
+  "summary": "Smoked tofu roasted with new potatoes, peppers, red onion and cherry tomatoes, with oregano and a spoon of olives.",
+  "cuisine": "Mediterranean",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 36,
+  "equipment": [
+    {
+      "name": "Large roasting tin"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "smoked-tofu",
+      "grams": 240,
+      "prepNote": "thick slices"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 280,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "yellow-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 100,
+      "prepNote": "wedges"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 180
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 30
+    },
+    {
+      "nutritionId": "oregano",
+      "grams": 1.2
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 8
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Heat the oven to 200°C fan. Halve the potatoes. Slice the tofu, peppers, onion and garlic."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss the potatoes, peppers, onion, tomatoes, garlic, olives, oregano, oil and salt in the tin."
+    },
+    {
+      "minutes": 18,
+      "instruction": "Roast until the potatoes are starting to soften.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 10,
+      "instruction": "Lay the tofu on top and roast until it is hot and the vegetables are soft at the edges.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 2,
+      "instruction": "Squeeze over the lemon juice, scatter with parsley and serve."
+    }
+  ],
+  "image": {
+    "file": "smoked-tofu-pepper-tray.webp",
+    "alt": "Tofu with roasted vegetables and rice",
+    "credit": "Lablascovegmenu from London via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Curried_vegetables_with_tofu_and_rice_-_Verduras_al_curry_con_tofu_y_arroz_(4623676509).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 424,
+    "protein": 25.4,
+    "carbs": 42.1,
+    "fat": 17.1,
+    "fibre": 9
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

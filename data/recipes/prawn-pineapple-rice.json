@@ -1,0 +1,131 @@
+{
+  "slug": "prawn-pineapple-rice",
+  "title": "Prawn and pineapple fried rice",
+  "summary": "Cold-start rice is skipped: the rice is cooked, cooled under a cloth for a few minutes, then fried with prawns, pineapple and peas.",
+  "cuisine": "Thai",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 23,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 260
+    },
+    {
+      "nutritionId": "pineapple",
+      "grams": 110,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 110,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "peas-frozen",
+      "grams": 70
+    },
+    {
+      "nutritionId": "egg-whole",
+      "grams": 60,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 240
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Rinse the rice. Dice the pineapple and slice the spring onion, garlic and chilli. Beat the egg."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Spread it on a plate so the steam escapes.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Heat a little of the oil and scramble the egg. Tip it out.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Add the rest of the oil, the garlic and prawns. When the prawns turn pink, add the rice, peas, pineapple, tamari and chilli. Toss until hot.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Fold in the egg, spring onion, lime juice and coriander, and serve."
+    }
+  ],
+  "image": {
+    "file": "prawn-pineapple-rice.webp",
+    "alt": "Pineapple fried rice on a plate",
+    "credit": "Grendelkhan via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pineapple_fried_rice_at_Banana_Leaf_in_Milpitas,_California.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 438,
+    "protein": 33.3,
+    "carbs": 57.4,
+    "fat": 8.3,
+    "fibre": 3.6
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "slug": "turkey-mushroom-coconut",
+  "title": "Turkey and mushroom coconut soup",
+  "summary": "Turkey mince in a light coconut broth with mushrooms, pak choi, ginger and lime, with a small bowl of rice. A soup you can eat with a spoon, not a thick curry.",
+  "cuisine": "Thai",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 34,
+  "equipment": [
+    {
+      "name": "Large saucepan"
+    },
+    {
+      "name": "Small lidded saucepan",
+      "notes": "for the rice"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 260
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "coconut-milk-light",
+      "grams": 160
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 10
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 620
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the mushrooms, pak choi, ginger, garlic, chilli and spring onion. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in 180 g of the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the oil and fry the mince, breaking it up, until it is no longer pink.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the ginger, garlic, chilli and mushrooms and cook for 2 minutes.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 10,
+      "instruction": "Pour in the coconut milk, the remaining water, tamari and salt. Simmer, then add the pak choi until it wilts.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Stir in the lime juice, spring onion and coriander. Serve in deep bowls with the rice."
+    }
+  ],
+  "image": {
+    "file": "turkey-mushroom-coconut.webp",
+    "alt": "A bowl of coconut soup",
+    "credit": "Vysotsky via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_kha_kai.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 413,
+    "protein": 37.9,
+    "carbs": 39.5,
+    "fat": 11.4,
+    "fibre": 2.6
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

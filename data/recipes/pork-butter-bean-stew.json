@@ -1,0 +1,111 @@
+{
+  "slug": "pork-butter-bean-stew",
+  "title": "Pork and butter bean stew",
+  "summary": "Pork mince simmered with butter beans, celery, carrot and tomato, finished with sage. A Mediterranean bean pot rather than a British hotpot.",
+  "cuisine": "Mediterranean",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 29,
+  "equipment": [
+    {
+      "name": "Large lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-mince-5",
+      "grams": 320
+    },
+    {
+      "nutritionId": "butter-beans",
+      "grams": 260,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 250
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 100,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "celery",
+      "grams": 70,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sage",
+      "grams": 3,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Dice the carrot, celery and onion. Slice the garlic and chop the sage."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and brown the mince, breaking it up, with the onion.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Add the carrot, celery, garlic and sage and cook for 3 minutes.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 16,
+      "instruction": "Pour in the tomatoes, beans, salt and pepper. Cover and simmer until the carrot is tender and the sauce has thickened.",
+      "heat": "low hob"
+    }
+  ],
+  "image": {
+    "file": "pork-butter-bean-stew.webp",
+    "alt": "A bowl of pork and bean stew",
+    "credit": "BrokenSphere via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bowl_of_cassoulet.JPG",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 426,
+    "protein": 45.5,
+    "carbs": 31.3,
+    "fat": 13.1,
+    "fibre": 10.3
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

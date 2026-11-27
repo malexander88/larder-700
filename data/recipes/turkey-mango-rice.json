@@ -1,0 +1,121 @@
+{
+  "slug": "turkey-mango-rice",
+  "title": "Turkey and mango rice bowl",
+  "summary": "Warm spiced turkey mince with rice, mango, peppers and lime. A bright weeknight bowl with the fruit added at the end so it stays fresh.",
+  "cuisine": "Mexican",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 23,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 280
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "mango",
+      "grams": 120,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Dice the mango, slice the pepper, onion and chilli, and rinse the rice. Stir the cumin and paprika into the mince with half the salt."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered off the heat.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and fry the onion and pepper for 4 minutes. Add the mince and chilli and cook, breaking up the mince, until it is no longer pink.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Take the pan off the heat. Fold in the mango, lime juice and coriander. Serve over the rice."
+    }
+  ],
+  "image": {
+    "file": "turkey-mango-rice.webp",
+    "alt": "A bowl of turkey rice",
+    "credit": "Cheng-en Cheng via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bowl_of_Chiayi_turkey_rice_2006-10-07.jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 413,
+    "protein": 37.9,
+    "carbs": 47.7,
+    "fat": 7.8,
+    "fibre": 3.6
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

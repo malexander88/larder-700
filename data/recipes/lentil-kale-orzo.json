@@ -1,0 +1,116 @@
+{
+  "slug": "lentil-kale-orzo",
+  "title": "Lentil and kale orzo",
+  "summary": "Green lentils and kale simmered with tomato and chilli, tossed with orzo and a little Parmesan. A vegetarian pasta that uses the lentils as the sauce.",
+  "cuisine": "Italian",
+  "protein": "legumes",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large saucepan"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "green-lentils-canned",
+      "grams": 240,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "orzo-dry",
+      "grams": 110
+    },
+    {
+      "nutritionId": "kale",
+      "grams": 80,
+      "prepNote": "stems stripped and shredded"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 200
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "parmesan",
+      "grams": 16,
+      "prepNote": "finely grated"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 450
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Chop the onion, slice the garlic and shred the kale. Drain the lentils. Boil the kettle."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and soften the onion. Add the garlic and chilli flakes for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 10,
+      "instruction": "Pour in the tomatoes, lentils and a pinch of salt. Simmer until the sauce thickens slightly.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 10,
+      "instruction": "Add the orzo, kale and water. Cook, stirring, until the orzo is tender and most of the liquid has been absorbed.",
+      "heat": "medium hob",
+      "tip": "Orzo drinks a lot of liquid. Add a splash more water if it catches."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Take it off the heat, stir in the Parmesan and serve."
+    }
+  ],
+  "image": {
+    "file": "lentil-kale-orzo.webp",
+    "alt": "Pasta with lentils and tomato",
+    "credit": "Katrin Gilger via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pasta,_Tomato_Sauce,_Red_Lentils_%26_Sprouts_(4368525956).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 437,
+    "protein": 22.5,
+    "carbs": 68,
+    "fat": 8.4,
+    "fibre": 10.6
+  },
+  "dietary": [
+    "vegetarian"
+  ]
+}

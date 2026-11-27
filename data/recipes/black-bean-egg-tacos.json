@@ -1,0 +1,114 @@
+{
+  "slug": "black-bean-egg-tacos",
+  "title": "Black bean and egg tacos",
+  "summary": "Soft eggs scrambled with black beans and tomato, piled into corn tortillas with avocado and lime. A fast dinner that uses one pan.",
+  "cuisine": "Mexican",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 200,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 200,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "corn-tortilla",
+      "grams": 110
+    },
+    {
+      "nutritionId": "avocado",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 100,
+      "prepNote": "quartered"
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 40,
+      "prepNote": "finely chopped"
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Drain the beans, quarter the tomatoes and chop the onion. Beat the eggs with half the salt and the chilli flakes."
+    },
+    {
+      "minutes": 5,
+      "instruction": "Warm the oil and cook the onion for 2 minutes. Add the beans and tomatoes and warm them through.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Pour in the eggs and stir gently until they are just set but still soft.",
+      "heat": "low hob",
+      "tip": "Take them off the heat while they still look slightly wet."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Warm the tortillas, fill them with the eggs and top with avocado, coriander and lime juice."
+    }
+  ],
+  "image": {
+    "file": "black-bean-egg-tacos.webp",
+    "alt": "Breakfast tacos filled with egg",
+    "credit": "ryan kuonen from Williamsburg via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Breakfast_tacos.jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 470,
+    "protein": 24.8,
+    "carbs": 46,
+    "fat": 20.7,
+    "fibre": 13.2
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

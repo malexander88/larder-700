@@ -1,0 +1,111 @@
+{
+  "slug": "tamagoyaki-edamame",
+  "title": "Tamagoyaki rice with edamame",
+  "summary": "A rolled Japanese omelette seasoned with mirin and tamari, sliced over rice with edamame and spinach. Quick, and mostly hands-on for ten minutes.",
+  "cuisine": "Japanese",
+  "protein": "eggs",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 23,
+  "equipment": [
+    {
+      "name": "Small frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 200,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "edamame",
+      "grams": 140
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 60
+    },
+    {
+      "nutritionId": "mirin",
+      "grams": 12
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 4
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Beat the eggs with the mirin, tamari and a pinch of salt. Rinse the rice. Slice the spring onion."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water, covered, for 10 minutes. Stir the edamame and spinach into the hot rice, cover again and leave them to warm through.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Oil the frying pan and pour in a thin layer of egg. When it is just set, roll it to one side, add another layer and roll again until the egg is used.",
+      "heat": "medium hob",
+      "tip": "Keep the heat moderate. A fierce pan browns the outside before the middle sets."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Slide the roll onto a board, slice it, and serve on the rice with spring onion and sesame seeds."
+    }
+  ],
+  "image": {
+    "file": "tamagoyaki-edamame.webp",
+    "alt": "Sliced Japanese rolled omelette",
+    "credit": "Adriano at Italian Wikipedia via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tamago_yaki.JPG",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 426,
+    "protein": 25,
+    "carbs": 41.3,
+    "fat": 17.8,
+    "fibre": 5
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

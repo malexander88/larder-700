@@ -1,0 +1,118 @@
+{
+  "slug": "chickpea-shawarma-salad",
+  "title": "Chickpea cauliflower shawarma salad",
+  "summary": "Roasted chickpeas and cauliflower with cumin and paprika, stuffed into warm pitta with cucumber and a lemon yoghurt dressing.",
+  "cuisine": "Middle Eastern",
+  "protein": "legumes",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 240,
+      "prepNote": "drained and patted dry"
+    },
+    {
+      "nutritionId": "cauliflower",
+      "grams": 240,
+      "prepNote": "small florets"
+    },
+    {
+      "nutritionId": "pitta-wholemeal",
+      "grams": 110
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 70
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 80,
+      "prepNote": "torn"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 15
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 4,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the oven to 200°C fan. Drain and dry the chickpeas. Cut the cauliflower. Slice the cucumber."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Toss the chickpeas and cauliflower with the cumin, paprika, oil and half the salt. Spread them in the tin."
+    },
+    {
+      "minutes": 20,
+      "instruction": "Roast until the cauliflower is browned and the chickpeas are crisp at the edges.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 4,
+      "instruction": "Warm the pittas in the oven for a minute, then split them. Stir the yoghurt with the lemon juice, garlic, parsley and the rest of the salt. Fill the pittas with the tray, lettuce and cucumber."
+    }
+  ],
+  "image": {
+    "file": "chickpea-shawarma-salad.webp",
+    "alt": "A falafel plate with salad",
+    "credit": "Anagoria via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240815_Falafel_Plate_Restaurant_The_Hummusapiens_Berlin_anagoria.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 404,
+    "protein": 21.5,
+    "carbs": 57.5,
+    "fat": 9.9,
+    "fibre": 12.3
+  },
+  "dietary": [
+    "vegetarian"
+  ]
+}

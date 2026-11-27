@@ -1,0 +1,122 @@
+{
+  "slug": "beef-celery-stir",
+  "title": "Beef and celery stir-fry",
+  "summary": "Frying steak and celery in a tamari and ginger sauce, with rice. Celery is the main vegetable, so it stays crisp if you don't stew it.",
+  "cuisine": "Chinese",
+  "protein": "beef",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 23,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-steak",
+      "grams": 320,
+      "prepNote": "sliced thinly"
+    },
+    {
+      "nutritionId": "celery",
+      "grams": 180,
+      "prepNote": "sliced on an angle"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 100,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "julienned"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cornflour",
+      "grams": 4
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 230
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the steak, celery, ginger, garlic and spring onion. Stir the cornflour into the tamari with a tablespoon of water. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the rest of the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Heat the sesame oil and sear the steak until just browned. Lift it out.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Stir-fry the celery, ginger and garlic for 2 minutes. Return the steak, add the sauce and chilli, and toss until glossy.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Fold in the spring onion and serve over the rice."
+    }
+  ],
+  "image": {
+    "file": "beef-celery-stir.webp",
+    "alt": "Stir-fried beef with vegetables",
+    "credit": "Guilhem Vellut from Paris via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stir-fried_beef,_Fire_Town,_Montparnasse,_Paris_002.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 456,
+    "protein": 42.4,
+    "carbs": 45.5,
+    "fat": 11.5,
+    "fibre": 2.4
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

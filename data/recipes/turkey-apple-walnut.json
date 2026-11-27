@@ -1,0 +1,115 @@
+{
+  "slug": "turkey-apple-walnut",
+  "title": "Turkey, apple and walnut salad",
+  "summary": "Sliced turkey breast with quinoa, apple, walnuts and little gem, dressed with lemon yoghurt. A main salad that eats like a plate of food.",
+  "cuisine": "Mediterranean",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 25,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Mixing bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-breast",
+      "grams": 280
+    },
+    {
+      "nutritionId": "quinoa-dry",
+      "grams": 70,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "apple",
+      "grams": 120,
+      "prepNote": "thinly sliced"
+    },
+    {
+      "nutritionId": "walnuts",
+      "grams": 16,
+      "prepNote": "roughly chopped"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 80,
+      "prepNote": "torn"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 60
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "celery",
+      "grams": 50,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    },
+    {
+      "nutritionId": "water",
+      "grams": 160
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Rinse the quinoa. Slice the apple and celery. Stir the yoghurt with the lemon juice, pepper and a pinch of salt."
+    },
+    {
+      "minutes": 14,
+      "instruction": "Simmer the quinoa in the water until it is tender and the water has gone. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Rub the turkey with half the oil and the rest of the salt. Fry it until just cooked through, then rest and slice.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Toss the quinoa with the apple, celery, lettuce, walnuts and the remaining oil. Top with the turkey and the yoghurt dressing."
+    }
+  ],
+  "image": {
+    "file": "turkey-apple-walnut.webp",
+    "alt": "A turkey salad on a plate",
+    "credit": "Alabama Extension via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Balsamic_Roasted_Turkey_Salad_(49164001303).jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 419,
+    "protein": 43.7,
+    "carbs": 32.8,
+    "fat": 12.5,
+    "fibre": 5.3
+  },
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ]
+}

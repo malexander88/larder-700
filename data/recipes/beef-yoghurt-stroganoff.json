@@ -1,0 +1,127 @@
+{
+  "slug": "beef-yoghurt-stroganoff",
+  "title": "Beef stroganoff with yoghurt",
+  "summary": "Strips of frying steak with mushrooms, paprika and mustard, finished with 0% Greek yoghurt instead of cream, and a small portion of rice.",
+  "cuisine": "British",
+  "protein": "beef",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 31,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan",
+      "notes": "for the rice"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-steak",
+      "grams": 300,
+      "prepNote": "sliced into strips"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 220,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 100,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 80
+    },
+    {
+      "nutritionId": "paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "dijon-gf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the steak, mushrooms and onion. Rinse the rice. Stir the paprika into the steak with a pinch of salt."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Put the rice, water and a pinch of salt in the small pan. Cover and cook on a low heat for 10 minutes, then leave it covered off the heat.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm half the oil until hot and sear the steak for a minute or two so it browns. Transfer it to a plate.",
+      "heat": "high hob",
+      "tip": "Crowding the pan steams the meat. Do it in two batches if needed."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Add the rest of the oil, the onion and mushrooms. Cook until the mushrooms have given up their liquid and started to colour.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Stir in the garlic and mustard, return the steak and any juices, then take the pan off the heat. Fold in the yoghurt and parsley so the sauce does not split. Serve with the rice."
+    }
+  ],
+  "image": {
+    "file": "beef-yoghurt-stroganoff.webp",
+    "alt": "Beef stroganoff with mushrooms in a creamy sauce",
+    "credit": "Pittaya Sroilong via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beef_Stroganoff-01.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 467,
+    "protein": 45.3,
+    "carbs": 42.5,
+    "fat": 12.7,
+    "fibre": 2.9
+  },
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ]
+}

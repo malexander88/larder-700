@@ -1,0 +1,111 @@
+{
+  "slug": "asparagus-potato-frittata",
+  "title": "Asparagus and new potato frittata",
+  "summary": "A thick Italian omelette of new potatoes, asparagus and parsley, with a little feta. It finishes under a hot grill if you have one, or with a lid.",
+  "cuisine": "Italian",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 22,
+  "equipment": [
+    {
+      "name": "Medium ovenproof frying pan",
+      "notes": "about 20 cm"
+    },
+    {
+      "name": "Small saucepan"
+    },
+    {
+      "name": "Bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 240,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 340,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "asparagus",
+      "grams": 140,
+      "prepNote": "woody ends snapped"
+    },
+    {
+      "nutritionId": "feta",
+      "grams": 50,
+      "prepNote": "crumbled"
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    },
+    {
+      "nutritionId": "water",
+      "grams": 300
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Slice the potatoes and spring onion. Snap the woody ends off the asparagus and cut the stalks into short lengths. Beat the eggs with the parsley, pepper and half the salt."
+    },
+    {
+      "minutes": 10,
+      "instruction": "Simmer the potatoes in the water with the rest of the salt until just tender. Add the asparagus for the last 2 minutes, then drain.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Warm the oil in the frying pan and scatter in the potatoes, asparagus and spring onion.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Pour in the eggs, crumble the feta over the top and cook on a low heat until the edges are set and the middle is still slightly soft. Cover if the top needs help.",
+      "heat": "low hob",
+      "tip": "A low flame keeps the bottom from going leathery before the eggs set."
+    }
+  ],
+  "image": {
+    "file": "asparagus-potato-frittata.webp",
+    "alt": "An asparagus frittata",
+    "credit": "User:Developedbud via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:This_is_frittata_with_sliced_asparagus,_goats_cheese_and_parsley_2014-05-25_21-54.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 408,
+    "protein": 24.2,
+    "carbs": 28.4,
+    "fat": 21.8,
+    "fibre": 4.4
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free"
+  ]
+}

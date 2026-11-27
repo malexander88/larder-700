@@ -1,0 +1,131 @@
+{
+  "slug": "ginger-pork-wraps",
+  "title": "Ginger pork lettuce wraps",
+  "summary": "Quick pork mince with ginger, carrot and tamari, spooned into little gem leaves, with a small bowl of rice on the side.",
+  "cuisine": "Japanese",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 25,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan",
+      "notes": "for the rice"
+    },
+    {
+      "name": "Grater"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-mince-5",
+      "grams": 280
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "little-gem",
+      "grams": 140,
+      "prepNote": "leaves separated"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 100,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 15,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 5
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 190
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Separate and rinse the lettuce leaves. Grate the carrot, ginger and garlic. Slice the spring onion and rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes, then leave it covered off the heat.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and fry the mince, breaking it up, until it browns. Add the ginger, garlic and carrot and cook for another 2 minutes.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Stir in the tamari, lime juice, chilli and half the spring onion. Taste for salt.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon the mince into the lettuce leaves, top with sesame seeds and the rest of the spring onion, and serve with the rice."
+    }
+  ],
+  "image": {
+    "file": "ginger-pork-wraps.webp",
+    "alt": "Pork served in lettuce leaves",
+    "credit": "Jeff Kays via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lettuce_wrap_with_roast_pork_and_kimchi_slaw.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 429,
+    "protein": 35.8,
+    "carbs": 44.7,
+    "fat": 11.8,
+    "fibre": 3.6
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

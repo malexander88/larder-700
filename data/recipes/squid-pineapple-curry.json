@@ -1,0 +1,127 @@
+{
+  "slug": "squid-pineapple-curry",
+  "title": "Squid and pineapple curry",
+  "summary": "Squid cooked briefly in a vegan red curry and coconut sauce with pineapple and red pepper, with rice. The squid goes in at the end so it stays tender.",
+  "cuisine": "Thai",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 27,
+  "equipment": [
+    {
+      "name": "Large frying pan or wok"
+    },
+    {
+      "name": "Small lidded saucepan",
+      "notes": "for the rice"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "squid",
+      "grams": 280,
+      "prepNote": "tubes sliced into rings"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "pineapple",
+      "grams": 120,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "coconut-milk-light",
+      "grams": 150
+    },
+    {
+      "nutritionId": "red-curry-paste",
+      "grams": 16
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 8,
+      "prepNote": "leaves picked"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the squid into rings and pat it dry. Dice the pineapple and slice the pepper. Pick the basil. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Warm the oil and fry the curry paste for a minute until it smells fragrant.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Add the pepper and pineapple and stir for 2 minutes. Pour in the coconut milk, tamari and salt and bring it to a simmer.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the squid and cook only until the rings turn opaque.",
+      "heat": "medium hob",
+      "tip": "Squid turns rubbery if it simmers. Take it off the heat as soon as it is white."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Stir in the lime juice and basil and serve with the rice."
+    }
+  ],
+  "image": {
+    "file": "squid-pineapple-curry.webp",
+    "alt": "A bowl of red curry",
+    "credit": "https://www.flickr.com/photos/striatic/ via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Curry_Vegan_Kitchen.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 418,
+    "protein": 27.9,
+    "carbs": 51.7,
+    "fat": 10.9,
+    "fibre": 2.9
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "beef-carrot-bulgur",
+  "title": "Beef and carrot bulgur stew",
+  "summary": "Stewing beef with carrot, cinnamon and cumin, with bulgur stirred in at the end so it swells in the sauce. Parsley and lemon lift it.",
+  "cuisine": "Middle Eastern",
+  "protein": "beef",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 44,
+  "equipment": [
+    {
+      "name": "Lidded casserole"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-stewing-lean",
+      "grams": 300,
+      "prepNote": "cut into bite-sized pieces"
+    },
+    {
+      "nutritionId": "bulgur",
+      "grams": 80
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 90,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 120,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "tomato-puree",
+      "grams": 18
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "cinnamon",
+      "grams": 0.6
+    },
+    {
+      "nutritionId": "coriander-ground",
+      "grams": 1
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 550
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Cut the beef and slice the carrot and onion. Drain the chickpeas."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and brown the beef. Add the onion and carrot and cook for 3 minutes.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Stir in the cumin, cinnamon, coriander and tomato purée.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 20,
+      "instruction": "Pour in the water, chickpeas and salt. Cover and simmer until the beef is nearly tender.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 12,
+      "instruction": "Stir in the bulgur, cover, and cook until it is swollen and the beef is tender. Add the parsley and lemon juice.",
+      "heat": "low hob"
+    }
+  ],
+  "image": {
+    "file": "beef-carrot-bulgur.webp",
+    "alt": "Beef stew with carrots",
+    "credit": "Daderot via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beef_stew_with_potatoes_and_carrots_-_Massachusetts.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 514,
+    "protein": 44.3,
+    "carbs": 52.6,
+    "fat": 14.1,
+    "fibre": 10
+  },
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "slug": "turkey-stuffed-peppers",
+  "title": "Turkey and black bean stuffed peppers",
+  "summary": "Peppers filled with turkey mince, black beans and tomato, baked until the edges char. Smoked paprika and lime do the seasoning.",
+  "cuisine": "Mexican",
+  "protein": "turkey",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 34,
+  "equipment": [
+    {
+      "name": "Oven dish"
+    },
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 360
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 320,
+      "prepNote": "halved and deseeded"
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 160,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 140,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 180
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 2
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Heat the oven to 190°C fan. Halve the peppers and rub them with a little of the oil and salt. Chop the onion."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Soften the onion in the rest of the oil, add the mince and cook until it is no longer pink. Stir in the garlic, paprika and cumin.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the beans, sweetcorn, tomatoes and half the salt. Simmer for a few minutes until the filling holds together. Stir in the lime juice and coriander.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 22,
+      "instruction": "Spoon the filling into the peppers and bake until the peppers are soft and the tops are starting to colour.",
+      "temperatureC": 190
+    }
+  ],
+  "image": {
+    "file": "turkey-stuffed-peppers.webp",
+    "alt": "Baked stuffed peppers",
+    "credit": "Mark Bonica via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quinoa_stuffed_peppers.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 463,
+    "protein": 54,
+    "carbs": 40.2,
+    "fat": 9.6,
+    "fibre": 11.9
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}
