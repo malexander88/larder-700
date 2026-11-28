@@ -1,0 +1,112 @@
+{
+  "slug": "beef-kimchi-bowl",
+  "title": "Beef and kimchi rice bowl",
+  "summary": "Thin steak seared and tossed with kimchi and spinach, served on rice with sesame. The kimchi goes in at the end so it stays sharp.",
+  "cuisine": "Japanese",
+  "protein": "beef",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 21,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-steak",
+      "grams": 260,
+      "prepNote": "thinly sliced"
+    },
+    {
+      "nutritionId": "kimchi",
+      "grams": 120,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 85,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 80
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 6
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 10
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 190
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Slice the steak and garlic, chop the kimchi and rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Heat the oil until hot and sear the steak for a minute or two. Lift it out.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Add the garlic, spinach and kimchi to the pan. Return the steak with the tamari and toss.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon the steak and kimchi over the rice and finish with the sesame seeds."
+    }
+  ],
+  "image": {
+    "file": "beef-kimchi-bowl.webp",
+    "alt": "Beef and kimchi rice bowl served for dinner",
+    "credit": "Usodesita from Hanoi via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beef,_eggs,_rice_and_kimchi.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 413,
+    "protein": 36.7,
+    "carbs": 37.9,
+    "fat": 12.7,
+    "fibre": 2.9
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

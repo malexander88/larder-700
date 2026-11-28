@@ -1,0 +1,127 @@
+{
+  "slug": "lentil-spinach-coconut",
+  "title": "Spinach and lentil coconut curry",
+  "summary": "Red lentils and cauliflower cooked with coconut milk, turmeric and garam masala, with spinach stirred in at the end. A thicker curry than a soup.",
+  "cuisine": "Indian",
+  "protein": "legumes",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 28,
+  "equipment": [
+    {
+      "name": "Large lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "red-lentils-dry",
+      "grams": 170,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "cauliflower",
+      "grams": 220,
+      "prepNote": "small florets"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 80
+    },
+    {
+      "nutritionId": "coconut-milk-light",
+      "grams": 140
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "garam-masala",
+      "grams": 2
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 500
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Rinse the lentils. Cut the cauliflower. Chop the onion and grate the garlic and ginger."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the oil and soften the onion. Stir in the garlic, ginger, turmeric, cumin and garam masala for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 16,
+      "instruction": "Add the lentils, cauliflower, water and salt. Cover and simmer until the lentils have collapsed and the cauliflower is tender.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Stir in the coconut milk and spinach and warm through.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Add the lime juice, taste for salt, and ladle the curry into warm bowls."
+    }
+  ],
+  "image": {
+    "file": "lentil-spinach-coconut.webp",
+    "alt": "Spinach and lentil coconut curry served for dinner",
+    "credit": "Gordon Joly from London via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dahl_with_spinach,_pea_and_potato_curry_with_whole_grain_rice_(2214436729).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 428,
+    "protein": 26.7,
+    "carbs": 58.9,
+    "fat": 9.6,
+    "fibre": 12.9
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

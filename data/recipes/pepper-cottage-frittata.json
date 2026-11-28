@@ -1,0 +1,106 @@
+{
+  "slug": "pepper-cottage-frittata",
+  "title": "Pepper and cottage cheese frittata",
+  "summary": "A thick omelette of roasted peppers and cottage cheese. It sets on a low flame under a lid, so the middle stays tender.",
+  "cuisine": "British",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 19,
+  "equipment": [
+    {
+      "name": "Medium lidded frying pan"
+    },
+    {
+      "name": "Bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 220,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cottage-cheese",
+      "grams": 150
+    },
+    {
+      "nutritionId": "pitta-wholemeal",
+      "grams": 100
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 30,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 1
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Slice the pepper and spring onion. Beat the eggs with the parsley, paprika, pepper and half the salt."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and soften the pepper and spring onion until the pepper is sweet.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Stir the cottage cheese into the eggs with the rest of the salt."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Pour the eggs over the peppers and cook on a low heat, covered, until the centre is just set. Warm the pittas beside the pan for the last minute.",
+      "heat": "low hob",
+      "tip": "A lid finishes the top without a grill. Keep the flame low so the base does not brown too fast."
+    }
+  ],
+  "image": {
+    "file": "pepper-cottage-frittata.webp",
+    "alt": "Pepper and cottage cheese frittata served for dinner",
+    "credit": "Ruth Hartnup from Vancouver via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pancetta,_roast_red_pepper_and_goat%27s_cheese_frittata_(2431247890).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 426,
+    "protein": 27.8,
+    "carbs": 35.1,
+    "fat": 19.4,
+    "fibre": 5.4
+  },
+  "dietary": [
+    "vegetarian"
+  ]
+}

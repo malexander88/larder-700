@@ -1,0 +1,109 @@
+{
+  "slug": "chicken-kimchi-rice",
+  "title": "Chicken and kimchi rice",
+  "summary": "Chicken breast stir-fried with kimchi and broccoli, on rice with sesame. The broccoli keeps the bowl from being only chicken and pickle.",
+  "cuisine": "Japanese",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 24,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 300,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "kimchi",
+      "grams": 100,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 160,
+      "prepNote": "small florets"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 100,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 4
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 220
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the chicken and garlic, chop the kimchi and cut the broccoli. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Heat the sesame oil and stir-fry the chicken with the garlic until just cooked.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the broccoli with a splash of water, then the kimchi, and toss until the broccoli is bright.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Pile the chicken, broccoli and kimchi on the rice and finish with sesame seeds."
+    }
+  ],
+  "image": {
+    "file": "chicken-kimchi-rice.webp",
+    "alt": "Chicken and kimchi rice served for dinner",
+    "credit": "Gary Stevens via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lemongrass_chicken_rice_bowl_with_kimchi_2.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 420,
+    "protein": 42,
+    "carbs": 45.6,
+    "fat": 7.6,
+    "fibre": 3.9
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

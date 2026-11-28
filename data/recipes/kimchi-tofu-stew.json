@@ -1,0 +1,121 @@
+{
+  "slug": "kimchi-tofu-stew",
+  "title": "Kimchi tofu stew",
+  "summary": "Firm tofu and kimchi simmered with mushrooms, pak choi and gochujang. A stew, not a rice bowl, so the broth is the meal.",
+  "cuisine": "Japanese",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 20,
+  "equipment": [
+    {
+      "name": "Large saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 300,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "kimchi",
+      "grams": 140,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 140,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "gochujang",
+      "grams": 16
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 550
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cube the tofu and pat it dry. Soak the noodles until they bend, then drain. Chop the kimchi and slice the mushrooms, pak choi, ginger, garlic and spring onion."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Warm the sesame oil and fry the ginger, garlic and kimchi for 2 minutes.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Add the mushrooms and gochujang and stir until the paste loosens.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Pour in the water and salt, add the tofu, noodles and pak choi, and simmer until the leaves wilt and the tofu is hot.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Scatter with spring onion and serve in deep bowls."
+    }
+  ],
+  "image": {
+    "file": "kimchi-tofu-stew.webp",
+    "alt": "A bowl of tofu stew",
+    "credit": "titanium22 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_stew-Sundubu_jjigae-05.jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 440,
+    "protein": 26.1,
+    "carbs": 51,
+    "fat": 14.6,
+    "fibre": 4.6
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

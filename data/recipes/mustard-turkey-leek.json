@@ -1,0 +1,108 @@
+{
+  "slug": "mustard-turkey-leek",
+  "title": "Mustard turkey and leek bake",
+  "summary": "Turkey breast baked with leeks, kale and new potatoes in a mustard and stock sauce. A one-tin supper with sage in the tin.",
+  "cuisine": "British",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 36,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-breast",
+      "grams": 360
+    },
+    {
+      "nutritionId": "leek",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "kale",
+      "grams": 80,
+      "prepNote": "stems stripped"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 420,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "dijon-gf",
+      "grams": 14
+    },
+    {
+      "nutritionId": "sage",
+      "grams": 3,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "stock-vegetable-gf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 120
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Heat the oven to 200°C fan. Halve the potatoes, slice the leek and strip the kale. Stir the mustard, stock, sage and water together."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Toss the potatoes and leek with the oil and half the salt. Roast until the potatoes are starting to colour.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 6,
+      "instruction": "Rub the turkey with the rest of the salt."
+    },
+    {
+      "minutes": 16,
+      "instruction": "Add the turkey and kale, pour over the mustard stock, and roast until the turkey is cooked through.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 2,
+      "instruction": "Rest for a couple of minutes and serve from the tin."
+    }
+  ],
+  "image": {
+    "file": "mustard-turkey-leek.webp",
+    "alt": "A roast turkey dinner with vegetables",
+    "credit": "Acabashi via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roast_turkey_dinner_Old_Nelson_Brewers_Fayre_Premier_Inn_Stroud_Gloucestershire.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 421,
+    "protein": 50.5,
+    "carbs": 37.6,
+    "fat": 7.6,
+    "fibre": 6.3
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

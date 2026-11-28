@@ -1,0 +1,130 @@
+{
+  "slug": "chipotle-beef-sweetcorn",
+  "title": "Chipotle beef and sweetcorn",
+  "summary": "Mince simmered with sweetcorn, chipotle and tomato. A one-pan supper that is more stew than chilli, with coriander and lime.",
+  "cuisine": "Mexican",
+  "protein": "beef",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 37,
+  "equipment": [
+    {
+      "name": "Large lidded saucepan"
+    },
+    {
+      "name": "Small lidded saucepan",
+      "notes": "for the rice"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-mince-5",
+      "grams": 280
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 70,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 200,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "chipotle-paste",
+      "grams": 14
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 240
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 90,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 160
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Chop the onion, grate the garlic and drain the sweetcorn. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes, then leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil, soften the onion, then brown the mince.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Stir in the garlic, chipotle and cumin and cook until the paste smells sweet.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 12,
+      "instruction": "Add the tomatoes, sweetcorn and salt. Cover and simmer until the sauce is thick.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Stir in the lime juice and coriander, then spoon the mince and sweetcorn over the rice."
+    }
+  ],
+  "image": {
+    "file": "chipotle-beef-sweetcorn.webp",
+    "alt": "Chilli con carne in a pot",
+    "credit": "Aerith via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chili_con_carne_cuisson.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 468,
+    "protein": 36.9,
+    "carbs": 51.9,
+    "fat": 12.5,
+    "fibre": 4.9
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

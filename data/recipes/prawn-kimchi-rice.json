@@ -1,0 +1,112 @@
+{
+  "slug": "prawn-kimchi-rice",
+  "title": "Prawn and kimchi fried rice",
+  "summary": "Prawns, kimchi and peas fried with rice and a little egg. The rice is cooked and spread out first so it fries instead of clumping.",
+  "cuisine": "Japanese",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 22,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 220
+    },
+    {
+      "nutritionId": "kimchi",
+      "grams": 90,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 120,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "peas-frozen",
+      "grams": 70
+    },
+    {
+      "nutritionId": "egg-whole",
+      "grams": 60,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 4
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 220
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Chop the kimchi and spring onion. Beat the egg. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Spread it on a plate.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Heat a little sesame oil and scramble the egg. Tip it out.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Add the rest of the oil and the prawns. When they turn pink, add the rice, kimchi and peas and toss until hot.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Fold in the egg, spring onion and sesame seeds and serve."
+    }
+  ],
+  "image": {
+    "file": "prawn-kimchi-rice.webp",
+    "alt": "A seafood rice bowl",
+    "credit": "Alpha from Melbourne via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seafood_and_Tofu_Don_-_Uchiwa_Japanese_Cuisine_(2310076764).jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 419,
+    "protein": 30.3,
+    "carbs": 54.5,
+    "fat": 8.8,
+    "fibre": 3.7
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

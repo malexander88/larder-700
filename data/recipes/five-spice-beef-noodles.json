@@ -1,0 +1,111 @@
+{
+  "slug": "five-spice-beef-noodles",
+  "title": "Five-spice beef noodles",
+  "summary": "Steak tossed with five-spice, beansprouts and rice noodles. A dry, fragrant fry rather than a thick sauce.",
+  "cuisine": "Chinese",
+  "protein": "beef",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 11,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-steak",
+      "grams": 260,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 100
+    },
+    {
+      "nutritionId": "beansprouts",
+      "grams": 120
+    },
+    {
+      "nutritionId": "five-spice",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 450
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Soak the noodles in boiled water, then drain. Slice the steak and toss it with the five-spice and a pinch of salt. Slice the garlic and spring onion."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Heat half the sesame oil and sear the steak until just browned. Lift it out.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Add the rest of the oil, the garlic and beansprouts, and stir-fry for a minute.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Toss in the noodles, steak, tamari and chilli. Serve with spring onion.",
+      "heat": "high hob"
+    }
+  ],
+  "image": {
+    "file": "five-spice-beef-noodles.webp",
+    "alt": "Five-spice beef noodles served for dinner",
+    "credit": "jeffreyw via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beef_noodle_stir_fry_(4765940970).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 420,
+    "protein": 35.8,
+    "carbs": 45.6,
+    "fat": 10.5,
+    "fibre": 2.1
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

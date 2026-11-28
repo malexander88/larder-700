@@ -1,0 +1,117 @@
+{
+  "slug": "chipotle-bean-rice",
+  "title": "Chipotle black bean rice",
+  "summary": "Black beans and sweetcorn simmered with chipotle, then folded through rice with avocado and lime. A vegan bowl that does not rely on a meat substitute.",
+  "cuisine": "Mexican",
+  "protein": "legumes",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 21,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 280,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 100,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "avocado",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chipotle-paste",
+      "grams": 12
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Chop the onion, drain the beans and sweetcorn, and rinse the rice. Slice the avocado."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the oil and soften the onion. Stir in the chipotle, cumin, beans and sweetcorn and heat through.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Fold in the rice, lime juice and coriander. Serve with the avocado."
+    }
+  ],
+  "image": {
+    "file": "chipotle-bean-rice.webp",
+    "alt": "Rice with black beans",
+    "credit": "Daderot via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fried_sticky_rice_with_black_beans,_peas,_and_Salchich%C3%B3n_sausage,_plus_soy_sauce_and_black_pepper_-_Massachusetts.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 445,
+    "protein": 17.3,
+    "carbs": 69.7,
+    "fat": 10.7,
+    "fibre": 14
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

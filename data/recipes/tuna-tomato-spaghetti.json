@@ -1,0 +1,107 @@
+{
+  "slug": "tuna-tomato-spaghetti",
+  "title": "Tuna and sun-dried tomato spaghetti",
+  "summary": "Tuna in spring water tossed with wholewheat spaghetti, sun-dried tomatoes, capers and parsley. A store-cupboard pasta that still tastes like dinner.",
+  "cuisine": "Italian",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 19,
+  "equipment": [
+    {
+      "name": "Large saucepan"
+    },
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Kettle"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tuna-water",
+      "grams": 160,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "spaghetti-wholewheat",
+      "grams": 140
+    },
+    {
+      "nutritionId": "sun-dried-tomatoes",
+      "grams": 35,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "capers",
+      "grams": 12,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 800
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Boil the kettle. Chop the tomatoes, slice the garlic and rinse the capers. Drain the tuna."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Boil the spaghetti in the water with half the salt until tender. Drain, saving a splash of water.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Warm the oil with the garlic, chilli, tomatoes and capers for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Fold in the tuna, spaghetti, parsley and a splash of cooking water. Taste for salt."
+    }
+  ],
+  "image": {
+    "file": "tuna-tomato-spaghetti.webp",
+    "alt": "Tuna and sun-dried tomato spaghetti served for dinner",
+    "credit": "Luca Nebuloni from Milan via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pasta_with_tuna,_squash,_tomatoes_and_philadelphia_(5896331175).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 415,
+    "protein": 32.3,
+    "carbs": 55.1,
+    "fat": 7.1,
+    "fibre": 8.8
+  },
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "chipotle-tofu-tacos",
+  "title": "Chipotle tofu tacos",
+  "summary": "Crumbed tofu fried with chipotle and cumin, piled into corn tortillas with red cabbage and lime. A fast taco that does not need a simmer.",
+  "cuisine": "Mexican",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 13,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 340,
+      "prepNote": "crumbled and patted dry"
+    },
+    {
+      "nutritionId": "corn-tortilla",
+      "grams": 150
+    },
+    {
+      "nutritionId": "red-cabbage",
+      "grams": 100,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "chipotle-paste",
+      "grams": 12
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 14
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Crumble and dry the tofu. Shred the cabbage and toss it with half the lime juice and a pinch of salt."
+    },
+    {
+      "minutes": 7,
+      "instruction": "Warm the oil and fry the tofu with the cumin and salt until the crumbs colour.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Stir in the chipotle and the rest of the lime juice.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Warm the tortillas in a dry pan. Fill them with tofu and cabbage and finish with coriander.",
+      "heat": "low hob"
+    }
+  ],
+  "image": {
+    "file": "chipotle-tofu-tacos.webp",
+    "alt": "Chipotle tofu tacos served for dinner",
+    "credit": "Kari Sullivan from Austin via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tofu_tacos,_rice,_guacamole,_and_refried_bean_(2945504885).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 432,
+    "protein": 26.1,
+    "carbs": 41.1,
+    "fat": 18.2,
+    "fibre": 6.6
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

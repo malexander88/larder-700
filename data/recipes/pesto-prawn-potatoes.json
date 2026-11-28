@@ -1,0 +1,100 @@
+{
+  "slug": "pesto-prawn-potatoes",
+  "title": "Pesto prawns with potatoes",
+  "summary": "Prawns tossed with a spoon of pesto, new potatoes and rocket. A short fry after the potatoes are boiled.",
+  "cuisine": "Mediterranean",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 20,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Colander"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "prawns-raw",
+      "grams": 300
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 480,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "pesto",
+      "grams": 36
+    },
+    {
+      "nutritionId": "rocket",
+      "grams": 40
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 4,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 500
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Halve the potatoes and slice the garlic."
+    },
+    {
+      "minutes": 14,
+      "instruction": "Simmer the potatoes in the water with half the salt until tender, then drain.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Warm the oil and garlic and fry the prawns until they turn pink.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Take the pan off the heat. Toss in the potatoes, pesto, rocket and lemon juice."
+    }
+  ],
+  "image": {
+    "file": "pesto-prawn-potatoes.webp",
+    "alt": "Prawns with basil pesto and pasta",
+    "credit": "에그란 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shrimp_and_basil_pesto_pasta_2.jpg",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 413,
+    "protein": 31.9,
+    "carbs": 39,
+    "fat": 14.4,
+    "fibre": 4.3
+  },
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ]
+}

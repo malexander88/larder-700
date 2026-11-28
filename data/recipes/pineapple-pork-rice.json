@@ -1,0 +1,123 @@
+{
+  "slug": "pineapple-pork-rice",
+  "title": "Pineapple pork fried rice",
+  "summary": "Pork fillet and pineapple fried with rice, peas and basil. The rice is cooked first and spread out so it fries instead of steaming.",
+  "cuisine": "Thai",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 24,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 240,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "pineapple",
+      "grams": 120,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 100,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "peas-frozen",
+      "grams": 70
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 10,
+      "prepNote": "leaves picked"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 220
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Slice the pork, dice the pineapple and rinse the rice. Slice the chilli and spring onion."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Spread it on a plate so steam escapes.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Heat half the oil and stir-fry the pork until just cooked. Lift it out.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Add the rest of the oil, garlic, chilli, pineapple and peas. Toss in the rice, pork and tamari until hot.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Fold in the basil and spring onion and serve."
+    }
+  ],
+  "image": {
+    "file": "pineapple-pork-rice.webp",
+    "alt": "Fried rice served in a pineapple",
+    "credit": "Ceeseven via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thai-style_Fried_Rice_in_Pineapple.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 425,
+    "protein": 33.5,
+    "carbs": 52.8,
+    "fat": 8.7,
+    "fibre": 3.5
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

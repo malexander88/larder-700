@@ -1,0 +1,102 @@
+{
+  "slug": "mustard-haddock-kale",
+  "title": "Mustard haddock with kale",
+  "summary": "Haddock baked on new potatoes and kale with a gluten-free mustard and lemon dressing. The fish goes on once the potatoes have a head start.",
+  "cuisine": "British",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 34,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Small bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "haddock-raw",
+      "grams": 360
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 480,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "kale",
+      "grams": 90,
+      "prepNote": "stems stripped"
+    },
+    {
+      "nutritionId": "dijon-gf",
+      "grams": 14
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 16
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the oven to 200°C fan. Halve the potatoes and strip the kale. Stir the mustard, lemon juice, half the oil and half the salt together."
+    },
+    {
+      "minutes": 16,
+      "instruction": "Toss the potatoes with the rest of the oil and salt and roast until they are starting to soften.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 4,
+      "instruction": "Scatter the kale in the tin and lay the haddock on top. Spoon over the mustard dressing."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Roast until the haddock flakes and the kale has wilted at the edges.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 2,
+      "instruction": "Scatter the parsley over the haddock, potatoes and kale, and serve from the tin."
+    }
+  ],
+  "image": {
+    "file": "mustard-haddock-kale.webp",
+    "alt": "Baked fish with salad",
+    "credit": "Gerda Arendt via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baked_fish_and_salad,_Idstein.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 411,
+    "protein": 40.9,
+    "carbs": 38.8,
+    "fat": 10.3,
+    "fibre": 5.3
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

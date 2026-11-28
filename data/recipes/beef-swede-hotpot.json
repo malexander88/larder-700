@@ -1,0 +1,107 @@
+{
+  "slug": "beef-swede-hotpot",
+  "title": "Beef and swede hotpot",
+  "summary": "Stewing beef braised with swede and onion, topped with overlapping swede slices and baked. A hotpot that uses the swede as both the stew and the lid.",
+  "cuisine": "British",
+  "protein": "beef",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 12,
+  "cookMinutes": 48,
+  "equipment": [
+    {
+      "name": "Ovenproof casserole"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-stewing-lean",
+      "grams": 420,
+      "prepNote": "cut into chunks"
+    },
+    {
+      "nutritionId": "swede",
+      "grams": 420,
+      "prepNote": "peeled, half diced and half thinly sliced"
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rosemary",
+      "grams": 3,
+      "prepNote": "leaves chopped"
+    },
+    {
+      "nutritionId": "stock-vegetable-gf",
+      "grams": 8
+    },
+    {
+      "nutritionId": "tomato-puree",
+      "grams": 15
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 12
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "water",
+      "grams": 400
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 12,
+      "instruction": "Heat the oven to 180°C fan. Cut the beef into chunks. Peel the swede, dice half and slice the rest thinly. Slice the onion. Stir the stock into the water."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and brown the beef. Add the onion and diced swede for 3 minutes.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Stir in the tomato purée, rosemary, salt and pepper, then pour in the stock.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 35,
+      "instruction": "Overlap the swede slices on top, cover, and bake until the beef is tender. Uncover for the last 10 minutes so the top colours.",
+      "temperatureC": 180,
+      "tip": "Swede slices should be thin enough to bend. Thick ones stay hard."
+    }
+  ],
+  "image": {
+    "file": "beef-swede-hotpot.webp",
+    "alt": "Steak with mashed potatoes",
+    "credit": "E4024 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steak_with_mashed_potatoes_and_caramelised_onions.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 432,
+    "protein": 49.1,
+    "carbs": 20.1,
+    "fat": 17.2,
+    "fibre": 5.6
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein",
+    "low-carb"
+  ]
+}

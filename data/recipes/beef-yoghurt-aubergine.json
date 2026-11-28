@@ -1,0 +1,118 @@
+{
+  "slug": "beef-yoghurt-aubergine",
+  "title": "Beef aubergine yoghurt bake",
+  "summary": "Mince and aubergine baked in tomato, then finished with yoghurt, mint and a few walnuts. The yoghurt goes on after baking so it stays cool.",
+  "cuisine": "Middle Eastern",
+  "protein": "beef",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 34,
+  "equipment": [
+    {
+      "name": "Ovenproof frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-mince-5",
+      "grams": 340
+    },
+    {
+      "nutritionId": "aubergine",
+      "grams": 280,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 240
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 80
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "cinnamon",
+      "grams": 0.5
+    },
+    {
+      "nutritionId": "mint",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "walnuts",
+      "grams": 18,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Heat the oven to 190°C fan. Cube the aubergine and chop the onion. Stir the yoghurt with the mint and a pinch of salt."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm half the oil and brown the mince with the onion. Stir in the garlic, cumin and cinnamon.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "In the same pan, fry the aubergine in the rest of the oil until it takes on colour.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 18,
+      "instruction": "Return the mince, pour in the tomatoes and salt, and bake until the aubergine is soft.",
+      "temperatureC": 190
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon on the yoghurt and walnuts and serve."
+    }
+  ],
+  "image": {
+    "file": "beef-yoghurt-aubergine.webp",
+    "alt": "A slice of moussaka",
+    "credit": "Fotograf: Dieter Mueller ( dino1948 ) Kamera: de:Nikon 885 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mousakas.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "statedPerServing": {
+    "calories": 432,
+    "protein": 44.8,
+    "carbs": 17.8,
+    "fat": 20.2,
+    "fibre": 6.1
+  },
+  "dietary": [
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ]
+}

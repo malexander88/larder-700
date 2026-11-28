@@ -1,0 +1,114 @@
+{
+  "slug": "pork-cabbage-miso",
+  "title": "Pork and cabbage miso soup",
+  "summary": "A light miso broth with pork fillet, cabbage, mushrooms and ginger. Supper in a bowl, with the miso stirred in off the boil.",
+  "cuisine": "Japanese",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 21,
+  "equipment": [
+    {
+      "name": "Large saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Ladle"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 240,
+      "prepNote": "thinly sliced"
+    },
+    {
+      "nutritionId": "white-cabbage",
+      "grams": 180,
+      "prepNote": "shredded"
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "miso-rice",
+      "grams": 28
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 12,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 5
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 800
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the pork, cabbage, mushrooms, ginger, carrot and spring onion. Soak the noodles in boiled water until they bend, then drain."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the sesame oil and brown the pork for a couple of minutes. Add the ginger.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 12,
+      "instruction": "Pour in the water with the cabbage, carrot, mushrooms and noodles. Simmer until the cabbage is tender and the pork is cooked through.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Ladle out a cup of broth, stir the miso into it, and pour it back. Do not boil. Scatter with spring onion.",
+      "tip": "Boiling miso makes the soup bitter. Keep it below a simmer once the paste is in."
+    }
+  ],
+  "image": {
+    "file": "pork-cabbage-miso.webp",
+    "alt": "Pork and cabbage miso soup served for dinner",
+    "credit": "naotakem via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pork_and_cabbage_stir_fry_with_daikon_miso_soup_and_brown_rice_%E5%9B%9E%E9%8D%8B%E8%82%89%E3%82%82%E3%81%A9%E3%81%8D%E3%81%A8%E5%A4%A7%E6%A0%B9%E3%81%AE%E5%91%B3%E5%99%8C%E6%B1%81%E3%80%81%E7%8E%84%E7%B1%B3.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 412,
+    "protein": 33.8,
+    "carbs": 50.7,
+    "fat": 8.2,
+    "fibre": 5.1
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

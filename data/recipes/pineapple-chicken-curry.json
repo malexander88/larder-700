@@ -1,0 +1,123 @@
+{
+  "slug": "pineapple-chicken-curry",
+  "title": "Pineapple chicken red curry",
+  "summary": "Chicken and pineapple in a vegan red curry and coconut sauce, with red pepper and basil. The pineapple goes in late so it stays bright.",
+  "cuisine": "Thai",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan",
+      "notes": "for the rice"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 320,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "pineapple",
+      "grams": 130,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "coconut-milk-light",
+      "grams": 140
+    },
+    {
+      "nutritionId": "red-curry-paste",
+      "grams": 16
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 8,
+      "prepNote": "leaves picked"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the chicken and pepper, dice the pineapple and pick the basil. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Warm the oil and fry the curry paste for a minute until fragrant.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Add the chicken and pepper and cook until the chicken is no longer pink.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Pour in the coconut milk and salt and simmer. Add the pineapple for the last 2 minutes.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Stir in the lime juice and basil and serve the curry with the rice."
+    }
+  ],
+  "image": {
+    "file": "pineapple-chicken-curry.webp",
+    "alt": "Pineapple chicken red curry served for dinner",
+    "credit": "Tangopaso via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Len%C3%B4tre-Volaille_au_curry,_tuile_de_riz_souffl%C3%A9,_patate_douce_et_ananas.jpg",
+    "license": "Public domain"
+  },
+  "statedPerServing": {
+    "calories": 447,
+    "protein": 41.6,
+    "carbs": 45.2,
+    "fat": 11,
+    "fibre": 2.9
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

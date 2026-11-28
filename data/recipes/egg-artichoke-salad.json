@@ -1,0 +1,107 @@
+{
+  "slug": "egg-artichoke-salad",
+  "title": "Egg and artichoke salad",
+  "summary": "Jammy eggs with artichoke hearts, new potatoes, rocket and olives. A main-course salad dressed with lemon and olive oil.",
+  "cuisine": "Mediterranean",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 25,
+  "equipment": [
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 240
+    },
+    {
+      "nutritionId": "artichoke-hearts",
+      "grams": 160,
+      "prepNote": "drained and halved"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 380,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "rocket",
+      "grams": 40
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 25,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 14
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 500
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Halve the potatoes, olives and artichokes. Put the eggs in a pan of water."
+    },
+    {
+      "minutes": 10,
+      "instruction": "Simmer the eggs for 8 minutes, then cool them under the tap and peel them.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 12,
+      "instruction": "In the same pan, simmer the potatoes with the salt until tender. Drain.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Toss the warm potatoes with the artichokes, rocket, olives, lemon juice, oil and parsley. Halve the eggs and set them on top."
+    }
+  ],
+  "image": {
+    "file": "egg-artichoke-salad.webp",
+    "alt": "Egg and artichoke salad served for dinner",
+    "credit": "Daderot via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salad_of_iceberg_lettuce,_ham,_turkey,_and_corn_fried_in_duck_fat,_artichoke,_bacon,_and_egg,_with_cheese_dressing_and_black_pepper_-_Massachusetts.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 417,
+    "protein": 21.2,
+    "carbs": 36,
+    "fat": 20.9,
+    "fibre": 7.6
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "slug": "harissa-turkey-couscous",
+  "title": "Harissa turkey couscous",
+  "summary": "Turkey strips rubbed with harissa, served on couscous with chickpeas, cucumber and mint yoghurt. The couscous is soaked, not boiled.",
+  "cuisine": "Mediterranean",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 13,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Heatproof bowl"
+    },
+    {
+      "name": "Kettle"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-breast",
+      "grams": 280,
+      "prepNote": "cut into strips"
+    },
+    {
+      "nutritionId": "couscous-dry",
+      "grams": 80
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 140,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "harissa",
+      "grams": 12
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 80,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 60
+    },
+    {
+      "nutritionId": "mint",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 120
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cover the couscous with the boiling water and half the salt, then cover the bowl. Dice the cucumber and cut the turkey into strips. Stir the yoghurt with the mint, lemon juice and a pinch of salt."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Toss the turkey with the harissa, half the oil and the rest of the salt."
+    },
+    {
+      "minutes": 7,
+      "instruction": "Fry the turkey until just cooked through.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Fluff the couscous, fold in the chickpeas and cucumber, and top with the turkey and yoghurt."
+    }
+  ],
+  "image": {
+    "file": "harissa-turkey-couscous.webp",
+    "alt": "Couscous with meat and vegetables",
+    "credit": "Ypsilon from Finland via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_couscous_in_Tangier.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 444,
+    "protein": 47.5,
+    "carbs": 43.9,
+    "fat": 8.7,
+    "fibre": 5.7
+  },
+  "dietary": [
+    "high-protein"
+  ]
+}

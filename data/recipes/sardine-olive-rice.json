@@ -1,0 +1,101 @@
+{
+  "slug": "sardine-olive-rice",
+  "title": "Sardine and olive rice",
+  "summary": "Sardines folded through tomato rice with olives, garlic and parsley. The fish goes in at the end so it stays in pieces.",
+  "cuisine": "Mediterranean",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 21,
+  "equipment": [
+    {
+      "name": "Lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "sardines",
+      "grams": 180,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 120,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 180
+    },
+    {
+      "nutritionId": "olives",
+      "grams": 30,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 220
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Rinse the rice, halve the olives and slice the garlic. Drain the sardines."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Warm the oil and soften the garlic. Add the tomatoes, olives and salt.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 14,
+      "instruction": "Stir in the rice and water, cover, and cook on a low heat until the rice is tender.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Fold in the sardines and parsley, cover for a minute, and serve.",
+      "tip": "Break the sardines into large pieces. They only need warming."
+    }
+  ],
+  "image": {
+    "file": "sardine-olive-rice.webp",
+    "alt": "Pasta with sardines",
+    "credit": "Adriao via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pasta_con_le_sarde_(Palermo).jpg",
+    "license": "CC BY 3.0"
+  },
+  "statedPerServing": {
+    "calories": 447,
+    "protein": 28.4,
+    "carbs": 51.6,
+    "fat": 14.1,
+    "fibre": 2
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free"
+  ]
+}

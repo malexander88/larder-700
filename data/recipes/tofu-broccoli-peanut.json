@@ -1,0 +1,122 @@
+{
+  "slug": "tofu-broccoli-peanut",
+  "title": "Tofu and broccoli peanut bowl",
+  "summary": "Crisped tofu and broccoli in a peanut, lime and tamari sauce, with rice. The sauce is a spoon of peanut butter loosened with water.",
+  "cuisine": "Chinese",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 25,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Small bowl"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 280,
+      "prepNote": "cubed and patted dry"
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 220,
+      "prepNote": "small florets"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "peanut-butter",
+      "grams": 22
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 14
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 10
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 240
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Dry and cube the tofu. Cut the broccoli. Stir the peanut butter, lime juice, tamari, garlic, chilli and 3 tablespoons of water into a sauce. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the remaining water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Heat the oil and fry the tofu until golden. Lift it out.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Stir-fry the broccoli with a splash of water until bright. Return the tofu, add the sauce, and toss.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon the tofu and broccoli over the rice and finish with the spring onion."
+    }
+  ],
+  "image": {
+    "file": "tofu-broccoli-peanut.webp",
+    "alt": "Tofu and broccoli with rice",
+    "credit": "Miscellaneous contributor via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baked_Tofu_with_Broccoli_and_Rice.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 460,
+    "protein": 27.2,
+    "carbs": 42.6,
+    "fat": 20.1,
+    "fibre": 5
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

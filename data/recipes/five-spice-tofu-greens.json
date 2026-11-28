@@ -1,0 +1,113 @@
+{
+  "slug": "five-spice-tofu-greens",
+  "title": "Sesame tofu with pak choi",
+  "summary": "Tofu dusted with five-spice and stir-fried with pak choi and rice. A dry fry, with tamari added at the end so it does not burn.",
+  "cuisine": "Chinese",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 24,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 280,
+      "prepNote": "cubed and patted dry"
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 200,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 100,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "five-spice",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 4
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 220
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cube and dry the tofu and toss it with the five-spice and a pinch of salt. Halve the pak choi and slice the garlic. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Heat the sesame oil and fry the tofu until golden. Push it aside.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the pak choi and garlic and stir-fry until the leaves wilt. Splash in the tamari.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve the tofu and pak choi on the rice and scatter over the sesame seeds."
+    }
+  ],
+  "image": {
+    "file": "five-spice-tofu-greens.webp",
+    "alt": "Sesame tofu with pak choi served for dinner",
+    "credit": "Judgefloro via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:9665Saut%C3%A9ed_winged_bean_and_green_shingkang_with_tofu_01.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 409,
+    "protein": 24,
+    "carbs": 44.8,
+    "fat": 14.8,
+    "fibre": 2.6
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "slug": "turkey-pesto-spaghetti",
+  "title": "Turkey pesto spaghetti",
+  "summary": "Turkey mince and broccoli tossed with wholewheat spaghetti and a spoon of pesto. The broccoli is boiled with the pasta so there is only one extra pan.",
+  "cuisine": "Italian",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 21,
+  "equipment": [
+    {
+      "name": "Large saucepan"
+    },
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Kettle"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 240
+    },
+    {
+      "nutritionId": "spaghetti-wholewheat",
+      "grams": 100
+    },
+    {
+      "nutritionId": "broccoli",
+      "grams": 160,
+      "prepNote": "small florets"
+    },
+    {
+      "nutritionId": "pesto",
+      "grams": 20
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 100,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 5,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 900
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Boil the kettle. Cut the broccoli and halve the tomatoes. Slice the garlic."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Boil the spaghetti in the water with half the salt. Add the broccoli for the last 3 minutes. Drain, saving a splash of water.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Meanwhile fry the mince in the oil with the garlic until browned.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Toss the pasta, broccoli, mince, tomatoes and pesto with a little cooking water."
+    }
+  ],
+  "image": {
+    "file": "turkey-pesto-spaghetti.webp",
+    "alt": "Turkey pesto spaghetti served for dinner",
+    "credit": "Benoît Prieur via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saut%C3%A9_de_dinde_aux_champignons_et_penne_au_pesto_de_roquette_(traiteur).jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 411,
+    "protein": 38.3,
+    "carbs": 39.7,
+    "fat": 11.1,
+    "fibre": 7.4
+  },
+  "dietary": [
+    "high-protein"
+  ]
+}

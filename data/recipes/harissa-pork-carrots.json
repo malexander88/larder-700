@@ -1,0 +1,111 @@
+{
+  "slug": "harissa-pork-carrots",
+  "title": "Harissa pork with carrots",
+  "summary": "Pork fillet roasted with carrots and chickpeas under a spoon of harissa, finished with lemon and coriander. One tin, and the chickpeas make it a full plate.",
+  "cuisine": "Middle Eastern",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 33,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Small bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-fillet-raw",
+      "grams": 320
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 280,
+      "prepNote": "cut into batons"
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 180,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "harissa",
+      "grams": 16
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "cut into wedges"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 10,
+      "instruction": "Heat the oven to 200°C fan. Cut the carrots into batons and the onion into wedges. Stir the harissa with the oil, cumin and half the salt."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Toss the carrots, onion and chickpeas with two thirds of the harissa mix and roast until the carrots are starting to soften.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 6,
+      "instruction": "Rub the pork with the rest of the harissa mix."
+    },
+    {
+      "minutes": 16,
+      "instruction": "Add the pork to the tin and roast until it is just cooked through.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 3,
+      "instruction": "Rest the pork for 2 minutes, slice it, and toss the tin with lemon juice and coriander."
+    }
+  ],
+  "image": {
+    "file": "harissa-pork-carrots.webp",
+    "alt": "Harissa pork with carrots served for dinner",
+    "credit": "Acabashi via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_roast_pork_Sunday_Lunch_dinner_Newgate_Street_Hatfield_Hertfordshire_England.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 433,
+    "protein": 43.9,
+    "carbs": 32.6,
+    "fat": 14.2,
+    "fibre": 9.1
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

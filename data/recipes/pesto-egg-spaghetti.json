@@ -1,0 +1,101 @@
+{
+  "slug": "pesto-egg-spaghetti",
+  "title": "Pesto eggs with spaghetti",
+  "summary": "Soft scrambled eggs tossed with wholewheat spaghetti, a spoon of pesto and cherry tomatoes. Supper that uses one pan for the sauce and a pot for the pasta.",
+  "cuisine": "Italian",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 5,
+  "cookMinutes": 18,
+  "equipment": [
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Kettle"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 200,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "spaghetti-wholewheat",
+      "grams": 100
+    },
+    {
+      "nutritionId": "pesto",
+      "grams": 20
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 120,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 60
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 4,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 800
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 5,
+      "instruction": "Boil the kettle. Halve the tomatoes and beat the eggs with a pinch of salt."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Boil the spaghetti in the water with half the salt until tender, then drain, saving a splash of water.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Warm the oil and garlic, add the tomatoes for a minute, then pour in the eggs and stir until just set.",
+      "heat": "low hob",
+      "tip": "Take the eggs off while they still look slightly wet. They finish in the hot pasta."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Toss the spaghetti, eggs, pesto and spinach with a splash of cooking water."
+    }
+  ],
+  "image": {
+    "file": "pesto-egg-spaghetti.webp",
+    "alt": "Pasta tossed with pesto",
+    "credit": "Marco Del Torchio 95 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pasta_al_pesto_fatto_in_casa.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 401,
+    "protein": 21.3,
+    "carbs": 37.4,
+    "fat": 18.5,
+    "fibre": 6.1
+  },
+  "dietary": [
+    "vegetarian"
+  ]
+}

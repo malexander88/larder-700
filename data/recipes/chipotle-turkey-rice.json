@@ -1,0 +1,120 @@
+{
+  "slug": "chipotle-turkey-rice",
+  "title": "Chipotle turkey rice",
+  "summary": "Turkey mince with chipotle, sweetcorn and pepper, folded through rice. A bowl rather than a soup, with lime and coriander.",
+  "cuisine": "Mexican",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 25,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 260
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 120,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 100,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "chipotle-paste",
+      "grams": 12
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Chop the onion, dice the pepper and drain the sweetcorn. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 7,
+      "instruction": "Warm the oil and soften the onion and pepper. Add the mince and cook until it is no longer pink.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Stir in the chipotle, cumin, sweetcorn and the rest of the salt.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Fold the rice through with the lime juice and coriander."
+    }
+  ],
+  "image": {
+    "file": "chipotle-turkey-rice.webp",
+    "alt": "A roast turkey dinner",
+    "credit": "Acabashi via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunday_Roast_Turkey_Dinner_Great_Easton_Essex_lighter.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 418,
+    "protein": 36.7,
+    "carbs": 50.9,
+    "fat": 7.5,
+    "fibre": 3.8
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

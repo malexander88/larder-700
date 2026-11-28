@@ -1,0 +1,102 @@
+{
+  "slug": "salmon-kimchi-rice",
+  "title": "Salmon and kimchi rice",
+  "summary": "Roasted salmon flaked over rice with kimchi, cucumber and sesame. The salmon is plain so the kimchi can season the bowl.",
+  "cuisine": "Japanese",
+  "protein": "fish",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 24,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "salmon-raw",
+      "grams": 220
+    },
+    {
+      "nutritionId": "kimchi",
+      "grams": 90,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 100,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 5
+    },
+    {
+      "nutritionId": "nori",
+      "grams": 3,
+      "prepNote": "snipped"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 4
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Heat the oven to 200°C fan. Chop the kimchi, slice the cucumber and snip the nori. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 10,
+      "instruction": "Put the salmon in the tin, brush with sesame oil and a pinch of salt, and roast until it flakes.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 2,
+      "instruction": "Flake the salmon over the rice with the kimchi, cucumber, nori and sesame seeds."
+    }
+  ],
+  "image": {
+    "file": "salmon-kimchi-rice.webp",
+    "alt": "Grilled salmon with rice",
+    "credit": "Prayitno / Thank you for (12 millions +) view from Los Angeles via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grilled_Salmon_%26_Black_Sweet_Rice_(9638954931).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 432,
+    "protein": 27.5,
+    "carbs": 42.1,
+    "fat": 16.9,
+    "fibre": 2
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free"
+  ]
+}

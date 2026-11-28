@@ -1,0 +1,109 @@
+{
+  "slug": "soy-egg-noodles",
+  "title": "Soy eggs with rice noodles",
+  "summary": "Rice noodles with mushrooms, carrot and soft eggs, seasoned with tamari and sesame. Pepper stays out of this one so the soy is the point.",
+  "cuisine": "Chinese",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 11,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 180,
+      "prepNote": "beaten"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 130
+    },
+    {
+      "nutritionId": "mushrooms",
+      "grams": 140,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 70,
+      "prepNote": "matchsticks"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 14
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 450
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Soak the noodles in boiled water, then drain. Slice the mushrooms, carrot, garlic and spring onion. Beat the eggs with a pinch of salt."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Heat half the sesame oil and scramble the eggs until just set. Tip them out.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Add the rest of the oil and stir-fry the mushrooms, carrot and garlic until the mushrooms colour.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Toss in the noodles, tamari, eggs and spring onion and serve.",
+      "heat": "high hob"
+    }
+  ],
+  "image": {
+    "file": "soy-egg-noodles.webp",
+    "alt": "Soy eggs with rice noodles served for dinner",
+    "credit": "Peachyeung316 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fried_egg_noodles_with_scallops_and_fried_eggs_sauce_from_VH_Chinese_restaurant.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 431,
+    "protein": 18.1,
+    "carbs": 61.3,
+    "fat": 12.7,
+    "fibre": 2.8
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

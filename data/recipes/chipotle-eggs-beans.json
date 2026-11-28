@@ -1,0 +1,110 @@
+{
+  "slug": "chipotle-eggs-beans",
+  "title": "Chipotle eggs and black beans",
+  "summary": "Eggs baked in black beans and chipotle, with sweetcorn and a spoon of yoghurt. Tortillas on the side for scooping.",
+  "cuisine": "Mexican",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 24,
+  "equipment": [
+    {
+      "name": "Ovenproof frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 200
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 220,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "sweetcorn-canned",
+      "grams": 100,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "corn-tortilla",
+      "grams": 80
+    },
+    {
+      "nutritionId": "chipotle-paste",
+      "grams": 12
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 160
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 60,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "yoghurt-greek-0",
+      "grams": 50
+    },
+    {
+      "nutritionId": "smoked-paprika",
+      "grams": 1
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Heat the oven to 190°C fan. Chop the onion. Drain the beans and sweetcorn."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the oil and soften the onion. Stir in the chipotle, paprika, tomatoes, beans, sweetcorn and salt.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Make four dips in the beans and crack an egg into each."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Bake until the whites are set and the yolks are still soft. Warm the tortillas in the oven for the last minute.",
+      "temperatureC": 190
+    },
+    {
+      "minutes": 2,
+      "instruction": "Spoon on the yoghurt and serve with the tortillas."
+    }
+  ],
+  "image": {
+    "file": "chipotle-eggs-beans.webp",
+    "alt": "Huevos rancheros with eggs and beans",
+    "credit": "1000b via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huevos_rancheros.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 459,
+    "protein": 28.6,
+    "carbs": 50.4,
+    "fat": 15.9,
+    "fibre": 12.2
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free"
+  ]
+}

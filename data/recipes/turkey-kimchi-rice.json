@@ -1,0 +1,111 @@
+{
+  "slug": "turkey-kimchi-rice",
+  "title": "Turkey and kimchi rice",
+  "summary": "Turkey mince fried with kimchi and edamame, served on rice with sesame and lime. The edamame keep it from being only mince and rice.",
+  "cuisine": "Japanese",
+  "protein": "turkey",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 24,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "turkey-mince-raw",
+      "grams": 260
+    },
+    {
+      "nutritionId": "kimchi",
+      "grams": 110,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "edamame",
+      "grams": 100
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 85,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 5
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 190
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Chop the kimchi and spring onion. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the sesame oil and fry the mince until it loses its pink colour.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the kimchi and edamame and cook until hot. Stir in the lime juice.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve on the rice with sesame seeds and spring onion."
+    }
+  ],
+  "image": {
+    "file": "turkey-kimchi-rice.webp",
+    "alt": "A bowl of turkey rice",
+    "credit": "Neville Wang via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiayi_turkey_pilaf.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 414,
+    "protein": 41,
+    "carbs": 40.3,
+    "fat": 9.8,
+    "fibre": 4.6
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

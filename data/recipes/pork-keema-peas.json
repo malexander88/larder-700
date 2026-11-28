@@ -1,0 +1,126 @@
+{
+  "slug": "pork-keema-peas",
+  "title": "Spiced pork mince with peas",
+  "summary": "Lean pork mince simmered with peas, tomato and garam masala, with a small portion of rice. A weeknight keema that does not need a long spice tin.",
+  "cuisine": "Indian",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 32,
+  "equipment": [
+    {
+      "name": "Large lidded frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-mince-5",
+      "grams": 280
+    },
+    {
+      "nutritionId": "peas-frozen",
+      "grams": 140
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 220
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 100,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "garam-masala",
+      "grams": 3
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Chop the onion and grate the garlic and ginger. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 7,
+      "instruction": "Warm the oil, soften the onion, then fry the mince until it loses its pink colour.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Stir in the garlic, ginger, garam masala and cumin for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 10,
+      "instruction": "Add the tomatoes, peas and salt. Simmer until the peas are hot and the sauce is thick. Finish with coriander and serve with the rice.",
+      "heat": "medium hob"
+    }
+  ],
+  "image": {
+    "file": "pork-keema-peas.webp",
+    "alt": "Keema with peas in a bowl",
+    "credit": "Cabeza2000 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keema_Matar_(a_dish_from_India).jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 472,
+    "protein": 38.9,
+    "carbs": 51.5,
+    "fat": 12.3,
+    "fibre": 6.2
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

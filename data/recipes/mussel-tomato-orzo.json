@@ -1,0 +1,107 @@
+{
+  "slug": "mussel-tomato-orzo",
+  "title": "Mussels with tomato orzo",
+  "summary": "Mussels steamed over a tomato and chilli sauce, with orzo cooked in the same pot. Discard any mussel that stays shut.",
+  "cuisine": "Italian",
+  "protein": "seafood",
+  "difficulty": "moderate",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 23,
+  "equipment": [
+    {
+      "name": "Large lidded saucepan"
+    },
+    {
+      "name": "Colander"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "mussels",
+      "grams": 650,
+      "prepNote": "scrubbed, beards removed"
+    },
+    {
+      "nutritionId": "orzo-dry",
+      "grams": 90
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 250
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.5
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 350
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Scrub the mussels and discard any that stay open when tapped. Slice the garlic."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the oil and soften the garlic and chilli. Add the tomatoes and salt and simmer for 3 minutes.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 10,
+      "instruction": "Pour in the orzo and water. Simmer until the orzo is almost tender.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Tip in the mussels, cover, and cook until they open. Discard any that stay shut.",
+      "heat": "medium hob",
+      "tip": "They are done as soon as the shells open."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Stir through the parsley and serve in warm bowls."
+    }
+  ],
+  "image": {
+    "file": "mussel-tomato-orzo.webp",
+    "alt": "Mussels with tomato orzo served for dinner",
+    "credit": "JIP via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shellfish_pasta_at_restaurant_2H%2BK.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 479,
+    "protein": 46.2,
+    "carbs": 47.9,
+    "fat": 11.5,
+    "fibre": 2.6
+  },
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ]
+}

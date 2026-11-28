@@ -1,0 +1,107 @@
+{
+  "slug": "gochujang-pork-noodles",
+  "title": "Gochujang pork noodles",
+  "summary": "Rice noodles with pork mince, pak choi and a spoon of gochujang. Sweet, hot and ready in one pan once the noodles are soaked.",
+  "cuisine": "Chinese",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 14,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-mince-5",
+      "grams": 260
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 100
+    },
+    {
+      "nutritionId": "pak-choi",
+      "grams": 160,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "gochujang",
+      "grams": 18
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 4
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 500
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Soak the noodles in freshly boiled water until they bend, then drain. Slice the pak choi and spring onion. Stir the gochujang into 3 tablespoons of water."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Heat the sesame oil and fry the mince until browned, breaking it up as it cooks.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the garlic and pak choi and stir-fry until the leaves wilt.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Toss in the noodles and the gochujang mix until the sauce clings. Serve with spring onion and sesame seeds.",
+      "heat": "high hob"
+    }
+  ],
+  "image": {
+    "file": "gochujang-pork-noodles.webp",
+    "alt": "Noodles with spicy minced pork",
+    "credit": "Guilhem Vellut from Paris via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noodles_in_soup_with_spicy_minced_pork,_Fresh_Noodles,_Paris_001.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 425,
+    "protein": 32.7,
+    "carbs": 47.4,
+    "fat": 11.6,
+    "fibre": 2.2
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

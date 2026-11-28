@@ -1,0 +1,108 @@
+{
+  "slug": "kimchi-pork-rice",
+  "title": "Kimchi pork rice",
+  "summary": "Pork mince fried with kimchi and carrot, spooned over rice with a soft egg and sesame. A quick Korean-leaning bowl using the jar of kimchi as the seasoning.",
+  "cuisine": "Japanese",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 22,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-mince-5",
+      "grams": 260
+    },
+    {
+      "nutritionId": "kimchi",
+      "grams": 140,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 90,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "egg-whole",
+      "grams": 100
+    },
+    {
+      "nutritionId": "carrot",
+      "grams": 80,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 5
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Chop the kimchi and spring onion, grate the carrot and rinse the rice. Crack the eggs into a cup."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered off the heat.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the sesame oil and fry the mince, breaking it up, until it browns. Add the carrot and kimchi and cook until the kimchi smells sweet.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Push the mince aside, fry the eggs in the same pan until the whites are set, and serve over the rice with sesame seeds and spring onion.",
+      "heat": "medium hob"
+    }
+  ],
+  "image": {
+    "file": "kimchi-pork-rice.webp",
+    "alt": "Kimchi fried rice in a bowl",
+    "credit": "Sharon Ang via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kimchi_fried_rice.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 485,
+    "protein": 39.3,
+    "carbs": 42.7,
+    "fat": 17.4,
+    "fibre": 3.5
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "slug": "tofu-mango-rice",
+  "title": "Tofu and mango rice",
+  "summary": "Warm spiced tofu with rice, mango, cucumber and lime. The fruit stays raw so the bowl tastes fresh rather than stewed.",
+  "cuisine": "Thai",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 22,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 280,
+      "prepNote": "cubed and patted dry"
+    },
+    {
+      "nutritionId": "mango",
+      "grams": 140,
+      "prepNote": "diced"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 85,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 90,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 14
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "chilli-fresh",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 190
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cube the tofu, dice the mango and slice the cucumber and chilli. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 7,
+      "instruction": "Heat the oil and fry the tofu with the cumin and a pinch of salt until golden.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Take the pan off the heat. Fold in the mango, cucumber, lime juice, chilli and coriander, and serve on the rice."
+    }
+  ],
+  "image": {
+    "file": "tofu-mango-rice.webp",
+    "alt": "Tofu and mango rice served for dinner",
+    "credit": "Heidi De Vries via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Takeout_pad_see_ew_with_tofu_%2B_mango_sticky_rice_from_Champa_Garden_have_pretty_much_sustained_me_during_pandemic.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 408,
+    "protein": 21.8,
+    "carbs": 47.7,
+    "fat": 14.4,
+    "fibre": 2.7
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

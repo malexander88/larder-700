@@ -1,0 +1,106 @@
+{
+  "slug": "pork-tomato-orzo",
+  "title": "Pork and sun-dried tomato orzo",
+  "summary": "Pork mince and orzo cooked in one pan with sun-dried tomatoes and spinach. The tomatoes bring the seasoning, so the sauce stays light.",
+  "cuisine": "Italian",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 21,
+  "equipment": [
+    {
+      "name": "Wide saucepan"
+    },
+    {
+      "name": "Kettle"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-mince-5",
+      "grams": 240
+    },
+    {
+      "nutritionId": "orzo-dry",
+      "grams": 100
+    },
+    {
+      "nutritionId": "sun-dried-tomatoes",
+      "grams": 40,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 80
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "parsley",
+      "grams": 8,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 450
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Chop the sun-dried tomatoes, slice the garlic and boil the kettle."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the oil and brown the mince. Add the garlic, chilli and sun-dried tomatoes for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 12,
+      "instruction": "Pour in the orzo and water with the salt. Simmer, stirring, until the orzo is tender and the liquid is almost gone.",
+      "heat": "medium hob",
+      "tip": "Orzo sticks if you leave it. A splash more water is fine if it catches."
+    },
+    {
+      "minutes": 3,
+      "instruction": "Fold in the spinach and parsley until the leaves wilt, then serve."
+    }
+  ],
+  "image": {
+    "file": "pork-tomato-orzo.webp",
+    "alt": "Meatballs with orzo in tomato sauce",
+    "credit": "Visits to visit via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Just_10_munits_Chicken_Ricotta_Meatballs_with_Risoni_in_Tomato_Basil_Sauce.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 433,
+    "protein": 35.5,
+    "carbs": 46.7,
+    "fat": 11.5,
+    "fibre": 5
+  },
+  "dietary": [
+    "dairy-free",
+    "high-protein"
+  ]
+}

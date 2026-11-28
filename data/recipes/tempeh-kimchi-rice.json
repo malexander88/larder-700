@@ -1,0 +1,113 @@
+{
+  "slug": "tempeh-kimchi-rice",
+  "title": "Tempeh and kimchi rice",
+  "summary": "Crumbed tempeh fried with kimchi and spinach, on rice with chilli and sesame. A meat-free bowl that still fries like a stir.",
+  "cuisine": "Japanese",
+  "protein": "legumes",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 23,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tempeh",
+      "grams": 200,
+      "prepNote": "crumbled"
+    },
+    {
+      "nutritionId": "kimchi",
+      "grams": 100,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 70
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 85,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.4
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 5
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 190
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Crumble the tempeh, chop the kimchi and slice the spring onion. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the sesame oil and fry the tempeh with the chilli until the crumbs colour.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Add the kimchi and spinach and toss until the leaves wilt.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve on the rice with sesame seeds and spring onion."
+    }
+  ],
+  "image": {
+    "file": "tempeh-kimchi-rice.webp",
+    "alt": "Tempeh and kimchi rice served for dinner",
+    "credit": "Sucram Yef via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emirates_CGK-DXB_Great_local_breakfast_short_before_landing_(spicy_rice_with_shrimps_and_tempeh)_(34377273765).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 429,
+    "protein": 24.8,
+    "carbs": 45.6,
+    "fat": 16.4,
+    "fibre": 7.8
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

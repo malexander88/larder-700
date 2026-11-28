@@ -1,0 +1,121 @@
+{
+  "slug": "chipotle-chicken-beans",
+  "title": "Chipotle chicken and beans",
+  "summary": "Chicken and black beans simmered with chipotle, pepper and rice stirred through at the end. One pan once the rice is cooked.",
+  "cuisine": "Mexican",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 26,
+  "equipment": [
+    {
+      "name": "Large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 300,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 180,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 80,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 120,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chipotle-paste",
+      "grams": 12
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 70,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 180
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the chicken, pepper and onion. Drain the beans and rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 7,
+      "instruction": "Warm the oil and fry the onion, pepper and chicken until the chicken is just cooked.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Stir in the chipotle, cumin, beans and the rest of the salt and heat through.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Fold in the rice, lime juice and coriander."
+    }
+  ],
+  "image": {
+    "file": "chipotle-chicken-beans.webp",
+    "alt": "A chicken burrito bowl",
+    "credit": "Sharon Chen from Austin via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grilled_Chicken_Burrito_Bowl_(28981790215).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 464,
+    "protein": 46,
+    "carbs": 53.6,
+    "fat": 7.1,
+    "fibre": 8.3
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

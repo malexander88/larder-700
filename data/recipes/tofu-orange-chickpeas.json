@@ -1,0 +1,109 @@
+{
+  "slug": "tofu-orange-chickpeas",
+  "title": "Cumin tofu with orange and chickpeas",
+  "summary": "Warm cumin tofu with chickpeas, orange, rocket and mint. A main salad with enough chickpeas and tofu to stand as dinner.",
+  "cuisine": "Middle Eastern",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 12,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Mixing bowl"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 240,
+      "prepNote": "cubed"
+    },
+    {
+      "nutritionId": "chickpeas-canned",
+      "grams": 300,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "orange",
+      "grams": 160,
+      "prepNote": "peeled and sliced"
+    },
+    {
+      "nutritionId": "rocket",
+      "grams": 40
+    },
+    {
+      "nutritionId": "mint",
+      "grams": 6,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 10
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 10
+    },
+    {
+      "nutritionId": "red-onion",
+      "grams": 40,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Cube the tofu, peel and slice the orange, and slice the onion. Drain the chickpeas."
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm half the oil and fry the tofu with the cumin and salt until golden.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Add the chickpeas and warm them through.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Toss with the orange, onion, rocket, mint, lemon juice and the rest of the oil."
+    }
+  ],
+  "image": {
+    "file": "tofu-orange-chickpeas.webp",
+    "alt": "A tofu salad on a plate",
+    "credit": "Vegan Feast Catering via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tofu_Egg_Salad_(3532877222).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 412,
+    "protein": 27.5,
+    "carbs": 36.4,
+    "fat": 17.4,
+    "fibre": 9.8
+  },
+  "dietary": [
+    "vegetarian",
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

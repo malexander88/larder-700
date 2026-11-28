@@ -1,0 +1,108 @@
+{
+  "slug": "basil-beef-rice",
+  "title": "Basil beef rice with beans",
+  "summary": "Mince stir-fried with green beans, garlic, chilli and a lot of basil, on rice. In the pattern of a Thai basil fry, with beans instead of a second meat.",
+  "cuisine": "Thai",
+  "protein": "beef",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 23,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-mince-5",
+      "grams": 280
+    },
+    {
+      "nutritionId": "mangetout",
+      "grams": 140
+    },
+    {
+      "nutritionId": "basil",
+      "grams": 14,
+      "prepNote": "leaves picked"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 100,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 25,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "water",
+      "grams": 220
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Grate the ginger, slice the spring onion and pick the basil leaves. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Heat the sesame oil and fry the mince, breaking it up, until browned.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Add the mangetout and ginger and stir-fry until the pods are bright.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Take the pan off the heat, toss through the basil and spring onion, and serve with the rice."
+    }
+  ],
+  "image": {
+    "file": "basil-beef-rice.webp",
+    "alt": "Stir-fried beef with basil",
+    "credit": "JIP via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangkok_Beef_at_Chop_Chop_Express_Lund_close_up.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 43.3,
+    "fat": 11.5,
+    "fibre": 2.7
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

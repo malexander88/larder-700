@@ -1,0 +1,113 @@
+{
+  "slug": "squid-pepper-stir",
+  "title": "Squid and pepper stir-fry",
+  "summary": "Squid rings with red pepper and beansprouts, finished with tamari and ginger. The squid is in the pan for only a couple of minutes.",
+  "cuisine": "Chinese",
+  "protein": "seafood",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 9,
+  "equipment": [
+    {
+      "name": "Wok or large frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    },
+    {
+      "name": "Kettle"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "squid",
+      "grams": 320,
+      "prepNote": "sliced into rings"
+    },
+    {
+      "nutritionId": "rice-noodles-dry",
+      "grams": 110
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 150,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "beansprouts",
+      "grams": 100
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 10,
+      "prepNote": "julienned"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "tamari",
+      "grams": 12
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 20,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chilli-flakes",
+      "grams": 0.3
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Slice the squid into rings and pat it dry. Soak the noodles until they bend, then drain. Slice the pepper, ginger, garlic and spring onion."
+    },
+    {
+      "minutes": 4,
+      "instruction": "Heat the sesame oil and stir-fry the pepper, ginger and garlic for 2 minutes.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Add the squid and cook only until the rings turn opaque.",
+      "heat": "high hob",
+      "tip": "Squid turns rubbery if it sits in the pan. Take it off as soon as it is white."
+    },
+    {
+      "minutes": 2,
+      "instruction": "Toss in the noodles, beansprouts, tamari, chilli and spring onion and serve."
+    }
+  ],
+  "image": {
+    "file": "squid-pepper-stir.webp",
+    "alt": "Squid and pepper stir-fry served for dinner",
+    "credit": "Vee Satayamas via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rice_with_stir-fried_squid,_garlic,_pepper_and_fried_duck_egg.jpg",
+    "license": "CC BY 4.0"
+  },
+  "statedPerServing": {
+    "calories": 413,
+    "protein": 32.2,
+    "carbs": 57.4,
+    "fat": 6,
+    "fibre": 3.4
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

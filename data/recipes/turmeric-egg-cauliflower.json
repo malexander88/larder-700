@@ -1,0 +1,129 @@
+{
+  "slug": "turmeric-egg-cauliflower",
+  "title": "Turmeric eggs with potatoes",
+  "summary": "Potatoes and tomato simmered with turmeric and cumin, with eggs cracked in to poach and spinach folded through. A dry-ish curry you eat with a spoon.",
+  "cuisine": "Indian",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 34,
+  "equipment": [
+    {
+      "name": "Lidded frying pan"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 200
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 480,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 80
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 200
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 90,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "ginger",
+      "grams": 8,
+      "prepNote": "grated"
+    },
+    {
+      "nutritionId": "turmeric",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 2
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 200
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Halve the potatoes. Slice the onion and grate the garlic and ginger."
+    },
+    {
+      "minutes": 10,
+      "instruction": "Simmer the potatoes in the water with a pinch of salt until nearly tender, then drain.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Warm the oil and soften the onion. Stir in the garlic, ginger, turmeric and cumin for a minute.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Add the potatoes, tomatoes and the rest of the salt. Cover and cook until the potatoes are soft.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 8,
+      "instruction": "Make spaces in the pan, crack in the eggs, cover, and cook until the whites are set. Fold in the spinach.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Scatter with coriander and bring the pan to the table."
+    }
+  ],
+  "image": {
+    "file": "turmeric-egg-cauliflower.webp",
+    "alt": "Turmeric eggs with potatoes served for dinner",
+    "credit": "Enigma410 via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Potato_and_egg_curry.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 405,
+    "protein": 20.7,
+    "carbs": 47.1,
+    "fat": 14.9,
+    "fibre": 6.5
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

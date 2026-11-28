@@ -1,0 +1,108 @@
+{
+  "slug": "kimchi-fried-eggs",
+  "title": "Kimchi fried eggs with rice",
+  "summary": "Eggs fried in a little sesame oil and set on rice with kimchi, cucumber and nori. A ten-minute supper when the rice is the only thing that needs timing.",
+  "cuisine": "Japanese",
+  "protein": "eggs",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 5,
+  "cookMinutes": 19,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Small lidded saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "egg-whole",
+      "grams": 200
+    },
+    {
+      "nutritionId": "kimchi",
+      "grams": 100,
+      "prepNote": "chopped"
+    },
+    {
+      "nutritionId": "basmati-dry",
+      "grams": 120,
+      "prepNote": "rinsed"
+    },
+    {
+      "nutritionId": "cucumber",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "nori",
+      "grams": 4,
+      "prepNote": "snipped"
+    },
+    {
+      "nutritionId": "sesame-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "sesame-seeds",
+      "grams": 4
+    },
+    {
+      "nutritionId": "spring-onion",
+      "grams": 15,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 1
+    },
+    {
+      "nutritionId": "water",
+      "grams": 260
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 5,
+      "instruction": "Chop the kimchi, slice the cucumber and spring onion, and snip the nori. Rinse the rice."
+    },
+    {
+      "minutes": 12,
+      "instruction": "Cook the rice in the water with a pinch of salt, covered, for 10 minutes. Leave it covered.",
+      "heat": "low hob"
+    },
+    {
+      "minutes": 5,
+      "instruction": "Heat the sesame oil and fry the eggs until the whites are set and the yolks are still soft.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 2,
+      "instruction": "Serve the eggs on the rice with kimchi, cucumber, nori, sesame seeds and spring onion."
+    }
+  ],
+  "image": {
+    "file": "kimchi-fried-eggs.webp",
+    "alt": "Kimchi fried rice topped with an egg",
+    "credit": "T.Tseng via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kimchi_Fried_Rice,_Farm_Egg.jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 415,
+    "protein": 18.9,
+    "carbs": 50.9,
+    "fat": 15.1,
+    "fibre": 2.3
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ]
+}

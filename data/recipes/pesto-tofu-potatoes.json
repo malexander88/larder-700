@@ -1,0 +1,101 @@
+{
+  "slug": "pesto-tofu-potatoes",
+  "title": "Pesto tofu with new potatoes",
+  "summary": "Crisped tofu and boiled new potatoes tossed with a spoon of pesto, cherry tomatoes and rocket. A tray-free supper for a warm evening.",
+  "cuisine": "Italian",
+  "protein": "tofu",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 24,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Colander"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "tofu-firm",
+      "grams": 300,
+      "prepNote": "cubed and patted dry"
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 400,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "pesto",
+      "grams": 28
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 120,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "rocket",
+      "grams": 40
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 7
+    },
+    {
+      "nutritionId": "lemon-juice",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "water",
+      "grams": 400
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Halve the potatoes and tomatoes. Cube and dry the tofu."
+    },
+    {
+      "minutes": 14,
+      "instruction": "Simmer the potatoes in the water with half the salt until tender, then drain.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 7,
+      "instruction": "Fry the tofu in the oil with the rest of the salt until golden on two sides.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Toss the hot potatoes with the pesto, tomatoes, rocket and lemon juice. Top with the tofu."
+    }
+  ],
+  "image": {
+    "file": "pesto-tofu-potatoes.webp",
+    "alt": "A tofu salad",
+    "credit": "Vegan Feast Catering via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Me_Casa_Tofu_Salad_(3725200265).jpg",
+    "license": "CC BY 2.0"
+  },
+  "statedPerServing": {
+    "calories": 425,
+    "protein": 24.5,
+    "carbs": 36.5,
+    "fat": 20,
+    "fibre": 5.1
+  },
+  "dietary": [
+    "vegetarian",
+    "gluten-free"
+  ]
+}

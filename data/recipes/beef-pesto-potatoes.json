@@ -1,0 +1,100 @@
+{
+  "slug": "beef-pesto-potatoes",
+  "title": "Beef with pesto potatoes",
+  "summary": "Seared steak with new potatoes tossed in a spoon of pesto, plus green beans and tomatoes. The pesto is a seasoning, not a pool of sauce.",
+  "cuisine": "Italian",
+  "protein": "beef",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 6,
+  "cookMinutes": 23,
+  "equipment": [
+    {
+      "name": "Frying pan"
+    },
+    {
+      "name": "Saucepan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "beef-steak",
+      "grams": 280
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 400,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "pesto",
+      "grams": 18
+    },
+    {
+      "nutritionId": "green-beans",
+      "grams": 140
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 100,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 6
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    },
+    {
+      "nutritionId": "water",
+      "grams": 400
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 6,
+      "instruction": "Halve the potatoes and the tomatoes. Trim the beans."
+    },
+    {
+      "minutes": 14,
+      "instruction": "Simmer the potatoes in the water with half the salt until nearly tender. Add the beans for the last 3 minutes, then drain.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 6,
+      "instruction": "Rub the steaks with oil, pepper and the rest of the salt. Fry them to your liking, then rest them.",
+      "heat": "high hob"
+    },
+    {
+      "minutes": 3,
+      "instruction": "Toss the hot potatoes, beans and tomatoes with the pesto. Slice the steak and serve on top."
+    }
+  ],
+  "image": {
+    "file": "beef-pesto-potatoes.webp",
+    "alt": "Steak with roasted potatoes",
+    "credit": "Daderot via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_York_steak_in_bourbon_sauce,_with_Brussels_sprouts_and_roasted_potatoes_-_Massachusetts.jpg",
+    "license": "CC0 1.0"
+  },
+  "statedPerServing": {
+    "calories": 424,
+    "protein": 38.4,
+    "carbs": 36.2,
+    "fat": 14,
+    "fibre": 5.9
+  },
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ]
+}

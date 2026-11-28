@@ -1,0 +1,112 @@
+{
+  "slug": "chipotle-pork-peppers",
+  "title": "Chipotle pork and peppers",
+  "summary": "Pork mince with red peppers, black beans and chipotle, baked until the edges catch. A tray supper with lime and coriander at the end.",
+  "cuisine": "Mexican",
+  "protein": "pork",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 30,
+  "equipment": [
+    {
+      "name": "Ovenproof frying pan"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "pork-mince-5",
+      "grams": 360
+    },
+    {
+      "nutritionId": "red-pepper",
+      "grams": 180,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "black-beans-canned",
+      "grams": 180,
+      "prepNote": "drained"
+    },
+    {
+      "nutritionId": "chipotle-paste",
+      "grams": 14
+    },
+    {
+      "nutritionId": "onion",
+      "grams": 80,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "chopped-tomatoes",
+      "grams": 160
+    },
+    {
+      "nutritionId": "cumin-ground",
+      "grams": 1.5
+    },
+    {
+      "nutritionId": "lime-juice",
+      "grams": 12
+    },
+    {
+      "nutritionId": "coriander-leaf",
+      "grams": 6
+    },
+    {
+      "nutritionId": "rapeseed-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the oven to 200°C fan. Slice the pepper and onion. Drain the beans."
+    },
+    {
+      "minutes": 8,
+      "instruction": "Warm the oil and soften the onion and pepper. Add the mince and cook until it browns.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 4,
+      "instruction": "Stir in the chipotle, cumin, tomatoes, beans and salt.",
+      "heat": "medium hob"
+    },
+    {
+      "minutes": 16,
+      "instruction": "Bake until the top is darkened in patches and the sauce has thickened.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 2,
+      "instruction": "Squeeze over the lime juice and scatter with coriander."
+    }
+  ],
+  "image": {
+    "file": "chipotle-pork-peppers.webp",
+    "alt": "Pork and chicken fajitas with peppers",
+    "credit": "Bernard DUPONT via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tacos_de_Pok_Chuk_and_Chicken_Fajitas_-_Wayan%27e,_M%C3%A9rida,_Yucat%C3%A1n.jpg",
+    "license": "CC BY-SA 2.0"
+  },
+  "statedPerServing": {
+    "calories": 432,
+    "protein": 47.6,
+    "carbs": 27.7,
+    "fat": 14.5,
+    "fibre": 9.3
+  },
+  "dietary": [
+    "gluten-free",
+    "dairy-free",
+    "high-protein"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "pesto-chicken-tomatoes",
+  "title": "Pesto chicken with tomatoes",
+  "summary": "Chicken breast roasted with cherry tomatoes and new potatoes, finished with a spoon of pesto and spinach. The pesto is stirred through at the end.",
+  "cuisine": "Italian",
+  "protein": "chicken",
+  "difficulty": "easy",
+  "servings": 2,
+  "prepMinutes": 8,
+  "cookMinutes": 39,
+  "equipment": [
+    {
+      "name": "Roasting tin"
+    },
+    {
+      "name": "Chopping board and sharp knife"
+    }
+  ],
+  "ingredients": [
+    {
+      "nutritionId": "chicken-breast-raw",
+      "grams": 360
+    },
+    {
+      "nutritionId": "new-potatoes",
+      "grams": 380,
+      "prepNote": "halved"
+    },
+    {
+      "nutritionId": "cherry-tomatoes",
+      "grams": 180
+    },
+    {
+      "nutritionId": "pesto",
+      "grams": 18
+    },
+    {
+      "nutritionId": "spinach",
+      "grams": 60
+    },
+    {
+      "nutritionId": "garlic",
+      "grams": 6,
+      "prepNote": "sliced"
+    },
+    {
+      "nutritionId": "olive-oil",
+      "grams": 8
+    },
+    {
+      "nutritionId": "salt",
+      "grams": 2
+    },
+    {
+      "nutritionId": "black-pepper",
+      "grams": 0.3
+    }
+  ],
+  "steps": [
+    {
+      "minutes": 8,
+      "instruction": "Heat the oven to 200°C fan. Halve the potatoes and slice the garlic."
+    },
+    {
+      "minutes": 14,
+      "instruction": "Toss the potatoes with half the oil, the garlic and half the salt. Roast until they are starting to soften.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 6,
+      "instruction": "Rub the chicken with the rest of the oil, salt and pepper."
+    },
+    {
+      "minutes": 16,
+      "instruction": "Add the chicken and tomatoes and roast until the chicken is cooked through and the tomatoes have slumped.",
+      "temperatureC": 200
+    },
+    {
+      "minutes": 3,
+      "instruction": "Stir the pesto and spinach through the hot tomatoes and potatoes, and slice the chicken to serve."
+    }
+  ],
+  "image": {
+    "file": "pesto-chicken-tomatoes.webp",
+    "alt": "Pesto chicken with vegetables",
+    "credit": "Infrogmation of New Orleans via Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pesto_Chicken_and_Grilled_Zucchini.jpg",
+    "license": "CC BY-SA 4.0"
+  },
+  "statedPerServing": {
+    "calories": 423,
+    "protein": 47.5,
+    "carbs": 33.7,
+    "fat": 10.8,
+    "fibre": 4.9
+  },
+  "dietary": [
+    "gluten-free",
+    "high-protein"
+  ]
+}
